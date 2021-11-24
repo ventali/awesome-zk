@@ -40,10 +40,15 @@ A curated list of awesome ZK resources, libraries, tools and more.
 ### PLONK
 
 - [Understanding PLONK](https://vitalik.ca/general/2019/09/22/plonk.html)
+- [Permutations over Lagrange-bases for Oecumenical Noninteractive arguments of Knowledge](https://eprint.iacr.org/2019/953.pdf)
 
-### Proof size reduction
+### Groth16
 
-- [Vitalik Buterin: Halo and more: exploring incremental verification and SNARKs without pairings](https://vitalik.ca/general/2021/11/05/halo.html) 
+- [On the Size of Pairing-based Non-interactive Arguments](https://eprint.iacr.org/2016/260.pdf)
 
+### Halo
+
+- [Vitalik Buterin: Halo and more: exploring incremental verification and SNARKs without pairings](https://vitalik.ca/general/2021/11/05/halo.html) - Proof size reduction
+- [Recursive Proof Composition without a Trusted Setup](https://eprint.iacr.org/2019/1021.pdf)
 
 
