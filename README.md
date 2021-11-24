@@ -9,8 +9,15 @@ A curated list of awesome ZK resources, libraries, tools and more.
   - [Part 2: Thank Goodness It's FRI-day](https://vitalik.ca/general/2017/11/22/starks_part_2.html)
   - [Part 3: Into the Weeds](https://vitalik.ca/general/2018/07/21/starks_part_3.html)
 - [zkSNARKs in a nutshell](https://blog.ethereum.org/2016/12/05/zksnarks-in-a-nutshell/)
-- [Understanding PLONK](https://vitalik.ca/general/2019/09/22/plonk.html)
 - [An approximate introduction to how zk-SNARKs are possible](https://vitalik.ca/general/2021/01/26/snarks.html)
+- Explaining SNARKs
+  - [Part I: Homomorphic Hidings](https://electriccoin.co/blog/snark-explain/)
+  - [Part II: Blind Evaluation of Polynomials](https://electriccoin.co/blog/snark-explain2/)
+  - [Part III: The Knowledge of Coefficient Test and Assumption](https://electriccoin.co/blog/snark-explain3/)
+  - [Part IV: How to make Blind Evaluation of Polynomials Verifiable](https://electriccoin.co/blog/snark-explain4/)
+  - [Part V: From Computations to Polynomials](https://electriccoin.co/blog/snark-explain5/)
+  - [Part VI: The Pinocchio Protocol](https://electriccoin.co/blog/snark-explain6/)
+  - [Part VII: Pairings of Elliptic Curves](https://electriccoin.co/blog/snark-explain7/)
 
 ## Layer-2
 
@@ -28,8 +35,15 @@ A curated list of awesome ZK resources, libraries, tools and more.
 - [Hermez zkEVM](https://blog.hermez.io/introducing-hermez-zkevm/)
 - Sin7Y zkEVM
 
-## More
+## Advanced Topics
 
-- [Vitalik Buterin: Halo and more: exploring incremental verification and SNARKs without pairings](https://vitalik.ca/general/2021/11/05/halo.html) - Proof size reduction
+### PLONK
+
+- [Understanding PLONK](https://vitalik.ca/general/2019/09/22/plonk.html)
+
+### Proof size reduction
+
+- [Vitalik Buterin: Halo and more: exploring incremental verification and SNARKs without pairings](https://vitalik.ca/general/2021/11/05/halo.html) 
+
 
 
