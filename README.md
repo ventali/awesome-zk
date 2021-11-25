@@ -52,10 +52,10 @@ A curated list of awesome ZK resources, libraries, tools and more.
 
 ### ZK Applications
 
-- [Zcash：a privacy-protecting, digital currency](https://z.cash/technology/)
+- [Zcash: a privacy-protecting, digital currency](https://z.cash/technology/)
 - [Loopring Launches zkRollup Exchange](https://medium.com/loopring-protocol/loopring-launches-zkrollup-exchange-loopring-io-d6a85beeed21)
 - [Tornado Cash: Introducing Private Transactions On Ethereum](https://tornado-cash.medium.com/introducing-private-transactions-on-ethereum-now-69fb059a14a1)
-- [Semaphore：a privacy gadget built on Ethereum](https://medium.com/coinmonks/to-mixers-and-beyond-presenting-semaphore-a-privacy-gadget-built-on-ethereum-4c8b00857c9b)
+- [Semaphore: a privacy gadget built on Ethereum](https://medium.com/coinmonks/to-mixers-and-beyond-presenting-semaphore-a-privacy-gadget-built-on-ethereum-4c8b00857c9b)
 - [Announcing Dark Forest: an MMO space-conquest game](https://blog.zkga.me/announcing-darkforest)
 
 ## Advanced Topics
