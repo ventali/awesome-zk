@@ -4,6 +4,13 @@ A curated list of awesome ZK resources, libraries, tools and more.
 
 ## Basics
 
+- [Prerequisite understanding questions](https://0xparc.notion.site/Prerequisite-understanding-questions-c5ebb77a5cc049f39577ec9a7fb7b22c)
+- Introduction
+  - [Understanding ZKPs Through Illustrated Examples](https://blog.goodaudience.com/understanding-zero-knowledge-proofs-through-simple-examples-df673f796d99)
+  - [Zero Knowledge Proofs: An Illustrated Primer](https://blog.cryptographyengineering.com/2014/11/27/zero-knowledge-proofs-illustrated-primer/)
+  - [What are zk-SNARKs?](https://z.cash/technology/zksnarks/)
+  - [ZKPs for Engineers: Introduction](https://blog.zkga.me/intro-to-zksnarks)
+  - [Privacy in Cryptocurrencies: An Overview](https://medium.com/@yi.sun/privacy-in-cryptocurrencies-d4b268157f6c)
 - Vitalik's blogs for STARKs
   - [Part 1: Proofs with Polynomials](https://vitalik.ca/general/2017/11/09/starks_part_1.html)
   - [Part 2: Thank Goodness It's FRI-day](https://vitalik.ca/general/2017/11/22/starks_part_2.html)
