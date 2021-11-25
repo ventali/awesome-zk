@@ -1,6 +1,8 @@
-# Awesome Zero Knowledge
+<div align="center">
+  <h1 align="center">Awesome Zero Knowledge</h1>
 
-A curated list of awesome ZK resources, libraries, tools and more.  
+  <p align="center">A curated list of awesome ZK resources, libraries, tools and more.</p>
+</div>
 
 ## Basics
 
