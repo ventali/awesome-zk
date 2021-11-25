@@ -18,6 +18,12 @@ A curated list of awesome ZK resources, libraries, tools and more.
   - [Part V: From Computations to Polynomials](https://electriccoin.co/blog/snark-explain5/)
   - [Part VI: The Pinocchio Protocol](https://electriccoin.co/blog/snark-explain6/)
   - [Part VII: Pairings of Elliptic Curves](https://electriccoin.co/blog/snark-explain7/)
+- Important landmarks for zk-SNARKs
+  - [Succinct ZK](https://people.csail.mit.edu/vinodv/6892-Fall2013/efficientargs.pdf) - K92
+  - [Succinct Non-Interactive ZK](https://people.csail.mit.edu/silvio/Selected%20Scientific%20Papers/Proof%20Systems/Computationally_Sound_Proofs.pdf) - M94
+  - [“SNARK” terminology and characterization of existence](https://eprint.iacr.org/2011/443.pdf) - BCCT11
+  - [Succinct NIZK without the PCP Theorem](http://www0.cs.ucl.ac.uk/staff/J.Groth/ShortNIZK.pdf) - Groth10
+  - [Succinct NIZK without PCP Theorem & Quasi-linear prover time](https://eprint.iacr.org/2012/215.pdf) - GGPR13
 
 ## Layer-2
 
@@ -53,4 +59,7 @@ A curated list of awesome ZK resources, libraries, tools and more.
 - [Vitalik Buterin: Halo and more: exploring incremental verification and SNARKs without pairings](https://vitalik.ca/general/2021/11/05/halo.html) - Proof size reduction
 - [Recursive Proof Composition without a Trusted Setup](https://eprint.iacr.org/2019/1021.pdf)
 
+### Probabilistic Proof Systems
+
+- [Georgetown University COSC 544 Class Notes](https://people.cs.georgetown.edu/jthaler/COSC544.html)
 
