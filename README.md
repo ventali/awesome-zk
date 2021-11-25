@@ -33,7 +33,9 @@ A curated list of awesome ZK resources, libraries, tools and more.
 - [appliedzkp](https://github.com/appliedzkp)
 - [Matter Labs zkEVM](https://blog.matter-labs.io/unisync-a-port-of-uniswap-v2-on-the-zkevm-b12954748504)
 - [Hermez zkEVM](https://blog.hermez.io/introducing-hermez-zkevm/)
-- Sin7Y zkEVM
+- [Scroll](https://hackmd.io/@yezhang/S1sJ2cEWY)
+  - [zkEVM](https://hackmd.io/@yezhang/S1_KMMbGt)
+- [Sin7Y zkEVM](https://medium.com/@sin7y)
 
 ## Advanced Topics
 
