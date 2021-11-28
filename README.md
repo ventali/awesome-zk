@@ -15,6 +15,16 @@
   <p align="center">A curated list of awesome ZK resources, libraries, tools and more.</p>
 </div>
 
+Table of Contents
+=================
+
+* [Basics](#basics)
+* [Layer\-2](#layer-2)
+* [Projects](#projects)
+  * [zk\-VM](#zk-vm)
+  * [ZK Applications](#zk-applications)
+* [Advanced Topics](#advanced-topics)
+
 ## Basics
 
 - [Prerequisite understanding questions](https://0xparc.notion.site/Prerequisite-understanding-questions-c5ebb77a5cc049f39577ec9a7fb7b22c)
@@ -92,4 +102,24 @@
 ### Probabilistic Proof Systems
 
 - [Georgetown University COSC 544 Class Notes](https://people.cs.georgetown.edu/jthaler/COSC544.html)
+
+### Pinocchio
+
+- [Pinocchio: Nearly Practical Verifiable Computation](https://eprint.iacr.org/2013/279.pdf)
+
+### Bulletproofs
+
+- [Bulletproofs: Short Proofs for Confidential Transactions and More](https://eprint.iacr.org/2017/1066.pdf)
+
+### Hash Functions
+
+- [POSEIDON: A New Hash Function for Zero-Knowledge Proof Systems](https://eprint.iacr.org/2019/458.pdf)
+
+### Systems
+
+- [SNARKs for C: Verifying Program Executions Succinctly and in Zero Knowledge](https://eprint.iacr.org/2013/507.pdf)
+
+### Quadratic Span Programs
+
+- [Quadratic Span Programs and Succinct NIZKs without PCPs](https://eprint.iacr.org/2012/215.pdf)
 
