@@ -1,8 +1,29 @@
 <div align="center">
   <h1 align="center">Awesome Zero Knowledge</h1>
+  <p align="center">
+    <a href="https://github.com/sindresorhus/awesome">
+      <img alt="awesome list badge" src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg">
+    </a>
+    <a href="https://github.com/ventali/awesome-zk/graphs/contributors">
+      <img alt="GitHub contributors" src="https://img.shields.io/github/contributors/ventali/awesome-zk">
+    </a>
+    <a href="http://makeapullrequest.com">
+      <img alt="pull requests welcome badge" src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat">
+    </a>
+  </p>
 
   <p align="center">A curated list of awesome ZK resources, libraries, tools and more.</p>
 </div>
+
+Table of Contents
+=================
+
+* [Basics](#basics)
+* [Layer\-2](#layer-2)
+* [Projects](#projects)
+  * [zk\-VM](#zk-vm)
+  * [ZK Applications](#zk-applications)
+* [Advanced Topics](#advanced-topics)
 
 ## Basics
 
@@ -38,6 +59,8 @@
 
 - [An Incomplete Guide to Rollups](https://vitalik.ca/general/2021/01/05/rollup.html)
 - [Why rollups + data shards are the only sustainable solution for high scalability](https://polynya.medium.com/why-rollups-data-shards-are-the-only-sustainable-solution-for-high-scalability-c9aabd6fbb48)
+- [Introducing zkSync: the missing link to mass adoption of Ethereum](https://medium.com/matter-labs/introducing-zk-sync-the-missing-link-to-mass-adoption-of-ethereum-14c9cea83f58)
+- [Validity Proofs vs. Fraud Proofs](https://starkware.medium.com/validity-proofs-vs-fraud-proofs-4ef8b4d3d87a)
 
 ## Projects
 
@@ -58,8 +81,7 @@
 - [Loopring Launches zkRollup Exchange](https://medium.com/loopring-protocol/loopring-launches-zkrollup-exchange-loopring-io-d6a85beeed21)
 - [Tornado Cash: Introducing Private Transactions On Ethereum](https://tornado-cash.medium.com/introducing-private-transactions-on-ethereum-now-69fb059a14a1)
 - [Semaphore: a privacy gadget built on Ethereum](https://medium.com/coinmonks/to-mixers-and-beyond-presenting-semaphore-a-privacy-gadget-built-on-ethereum-4c8b00857c9b)
-- [Announcing Dark Forest: an MMO space-conquest game](https://blog.zkga.me/announcing-darkforest)
-- [Zero Knowledge Message Board by Nulven](https://github.com/nulven/zk-polling)
+- [Dark Forest: an MMO space-conquest game](https://blog.zkga.me/announcing-darkforest) and their [ZK Circuit Walkthrough](https://blog.zkga.me/df-init-circuit)
 
 ## Advanced Topics
 
@@ -80,4 +102,24 @@
 ### Probabilistic Proof Systems
 
 - [Georgetown University COSC 544 Class Notes](https://people.cs.georgetown.edu/jthaler/COSC544.html)
+
+### Pinocchio
+
+- [Pinocchio: Nearly Practical Verifiable Computation](https://eprint.iacr.org/2013/279.pdf)
+
+### Bulletproofs
+
+- [Bulletproofs: Short Proofs for Confidential Transactions and More](https://eprint.iacr.org/2017/1066.pdf)
+
+### Hash Functions
+
+- [POSEIDON: A New Hash Function for Zero-Knowledge Proof Systems](https://eprint.iacr.org/2019/458.pdf)
+
+### Systems
+
+- [SNARKs for C: Verifying Program Executions Succinctly and in Zero Knowledge](https://eprint.iacr.org/2013/507.pdf)
+
+### Quadratic Span Programs
+
+- [Quadratic Span Programs and Succinct NIZKs without PCPs](https://eprint.iacr.org/2012/215.pdf)
 
