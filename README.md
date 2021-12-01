@@ -62,6 +62,7 @@ Table of Contents
 - [Why rollups + data shards are the only sustainable solution for high scalability](https://polynya.medium.com/why-rollups-data-shards-are-the-only-sustainable-solution-for-high-scalability-c9aabd6fbb48)
 - [Introducing zkSync: the missing link to mass adoption of Ethereum](https://medium.com/matter-labs/introducing-zk-sync-the-missing-link-to-mass-adoption-of-ethereum-14c9cea83f58)
 - [Validity Proofs vs. Fraud Proofs](https://starkware.medium.com/validity-proofs-vs-fraud-proofs-4ef8b4d3d87a)
+- [A Pre-consensus Mechanism by Leohio](https://ethresear.ch/t/a-pre-consensus-mechanism-to-secure-instant-finality-and-long-interval-in-zkrollup/8749)
 
 ## Projects
 
@@ -86,6 +87,11 @@ Table of Contents
 - [Semaphore: a privacy gadget built on Ethereum](https://medium.com/coinmonks/to-mixers-and-beyond-presenting-semaphore-a-privacy-gadget-built-on-ethereum-4c8b00857c9b)
 - [Dark Forest: an MMO space-conquest game](https://blog.zkga.me/announcing-darkforest) and their [ZK Circuit Walkthrough](https://blog.zkga.me/df-init-circuit)
 - [Zero Knowledge Message Board by Nulven](https://github.com/nulven/zk-polling)
+
+### Hardware Acceleration
+
+- [Hardware for ZKPs & VDFs with Supranational](https://www.supranational.net/)
+  - [Practical SNARK-based VDF](https://zkproof.org/2021/11/24/practical-snark-based-vdf/)
 
 ## Advanced Topics
 
