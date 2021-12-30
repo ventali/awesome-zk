@@ -134,3 +134,10 @@ Table of Contents
 
 - [Quadratic Span Programs and Succinct NIZKs without PCPs](https://eprint.iacr.org/2012/215.pdf)
 
+### Zether
+
+- [Zether: Towards Privacy in a Smart Contract World](https://eprint.iacr.org/2019/191.pdf)
+
+### Anonymous Zether
+
+- [MANY-OUT-OF-MANY PROOFS](https://eprint.iacr.org/2020/293.pdf)
