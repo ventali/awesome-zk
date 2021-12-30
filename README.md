@@ -88,6 +88,7 @@ Table of Contents
 - [Semaphore: a privacy gadget built on Ethereum](https://medium.com/coinmonks/to-mixers-and-beyond-presenting-semaphore-a-privacy-gadget-built-on-ethereum-4c8b00857c9b)
 - [Dark Forest: an MMO space-conquest game](https://blog.zkga.me/announcing-darkforest) and their [ZK Circuit Walkthrough](https://blog.zkga.me/df-init-circuit)
 - [Zero Knowledge Message Board by Nulven](https://github.com/nulven/zk-polling)
+- [zkKYC](https://eprint.iacr.org/2021/907.pdf)
 
 ### Hardware Acceleration
 
