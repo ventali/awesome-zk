@@ -89,6 +89,7 @@ Table of Contents
 - [Dark Forest: an MMO space-conquest game](https://blog.zkga.me/announcing-darkforest) and their [ZK Circuit Walkthrough](https://blog.zkga.me/df-init-circuit)
 - [Zero Knowledge Message Board by Nulven](https://github.com/nulven/zk-polling)
 - [zkKYC](https://eprint.iacr.org/2021/907.pdf)
+- [ZkLink: cross chain amm swap protocol powered by ZK-Rollup](https://github.com/zkLinkProtocol/zklink-contracts)
 
 ### Hardware Acceleration
 
