@@ -74,6 +74,7 @@ Table of Contents
   - [Semaphore: A privacy gadget for Ethereum](https://github.com/appliedzkp/semaphore)
 - [Matter Labs zkEVM](https://blog.matter-labs.io/unisync-a-port-of-uniswap-v2-on-the-zkevm-b12954748504)
 - [Hermez zkEVM](https://blog.hermez.io/introducing-hermez-zkevm/)
+- [Mir Protocol](https://mirprotocol.org/blog/Introducing-Mir)
 - [Scroll](https://hackmd.io/@yezhang/S1sJ2cEWY)
   - [zkEVM](https://hackmd.io/@yezhang/S1_KMMbGt)
 - [Sin7Y zkEVM](https://medium.com/@sin7y)
