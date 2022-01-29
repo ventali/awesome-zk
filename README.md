@@ -56,7 +56,7 @@ Table of Contents
   - [Succinct NIZK without the PCP Theorem](http://www0.cs.ucl.ac.uk/staff/J.Groth/ShortNIZK.pdf) - Groth10
   - [Succinct NIZK without PCP Theorem & Quasi-linear prover time](https://eprint.iacr.org/2012/215.pdf) - GGPR13
 
-## Layer-2
+## Layer 2
 
 - [An Incomplete Guide to Rollups](https://vitalik.ca/general/2021/01/05/rollup.html)
 - [Why rollups + data shards are the only sustainable solution for high scalability](https://polynya.medium.com/why-rollups-data-shards-are-the-only-sustainable-solution-for-high-scalability-c9aabd6fbb48)
