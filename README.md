@@ -93,6 +93,7 @@ Table of Contents
 - [Zero Knowledge Message Board by Nulven](https://github.com/nulven/zk-polling)
 - [zkKYC](https://eprint.iacr.org/2021/907.pdf)
 - [ZkLink: cross chain amm swap protocol powered by ZK-Rollup](https://github.com/zkLinkProtocol/zklink-contracts)
+- [Mystiko Network: Anonymous Protocol for a Cross-Chain Network](https://mystiko.network/whitepaper.pdf)
 
 ### Hardware Acceleration
 
