@@ -24,6 +24,9 @@ Table of Contents
   * [zk\-VM](#zk-vm)
   * [ZK Applications](#zk-applications)
 * [Advanced Topics](#advanced-topics)
+* [Tools](#tools)
+* [Discussions](#discussions)
+* [Communities](#communities)
 
 ## Basics
 
@@ -55,6 +58,7 @@ Table of Contents
   - [“SNARK” terminology and characterization of existence](https://eprint.iacr.org/2011/443.pdf) - BCCT11
   - [Succinct NIZK without the PCP Theorem](http://www0.cs.ucl.ac.uk/staff/J.Groth/ShortNIZK.pdf) - Groth10
   - [Succinct NIZK without PCP Theorem & Quasi-linear prover time](https://eprint.iacr.org/2012/215.pdf) - GGPR13
+  - [Verifiable Delay Function](https://eprint.iacr.org/2018/601.pdf)
 
 ## Layer 2
 
@@ -149,3 +153,17 @@ Table of Contents
 ### Anonymous Zether
 
 - [MANY-OUT-OF-MANY PROOFS](https://eprint.iacr.org/2020/293.pdf)
+
+## Tools
+
+- [Circom](https://docs.circom.io/getting-started/installation/)
+
+## Discussions
+
+- [Why Dark Forest Matters: A Good Game, not a Crypto Game](https://mirror.xyz/omarmezenner.eth/gFCfCVwTfUU91SDXeROEaDQe4984nbFBIgv9QSY0r1U)
+- [The Strongest Crypto Gaming Thesis](https://gubsheep.substack.com/p/the-strongest-crypto-gaming-thesis?s=r)
+
+## Communities
+
+- [Harmony zkDAO](https://harmonyone.notion.site/zkDAO-Succinct-Private-Fair-2f14d3d954264bd38091b418fd6b9bd5)
+- [Zero Knowledge University](https://zku.one/)
