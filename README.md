@@ -94,6 +94,7 @@ Table of Contents
 - [zkKYC](https://eprint.iacr.org/2021/907.pdf)
 - [ZkLink: cross chain amm swap protocol powered by ZK-Rollup](https://github.com/zkLinkProtocol/zklink-contracts)
 - [Mystiko Network: Anonymous Protocol for a Cross-Chain Network](https://mystiko.network/whitepaper.pdf)
+- [Manta: a Plug and Play Private DeFi Stack](https://www.manta.network/)
 
 ### Hardware Acceleration
 
