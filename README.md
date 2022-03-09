@@ -70,7 +70,7 @@ Table of Contents
 
 ## Projects
 
-### zk-VM
+### Zk-VM
 
 - [ZKVM book](https://hackmd.io/@liangcc/zkvmbook)
 - [Introduction to zkEVM](https://hackmd.io/@yezhang/S1_KMMbGt)
@@ -84,7 +84,13 @@ Table of Contents
 - [Sin7Y zkEVM](https://medium.com/@sin7y)
 - [zCloak Space](https://zcloak.network/#/)
 
-### ZK Applications
+### Zk-Layer1
+
+- [Aztec: Scalable Privacy on Ethereum](https://aztec.network/)
+- [Aleo: A SDK for Zero-Knowledge Transactions](https://github.com/AleoHQ/aleo)
+- [Iron Fish: the universal privacy layer for crypto](https://ironfish.network/)
+
+### Zk-Applications
 
 #### Gaming
 
@@ -94,7 +100,6 @@ Table of Contents
 
 - [Tornado Cash: Introducing Private Transactions On Ethereum](https://tornado-cash.medium.com/introducing-private-transactions-on-ethereum-now-69fb059a14a1)
 - [Zcash: a privacy-protecting, digital currency](https://z.cash/technology/)
-- [Aleo: A SDK for Zero-Knowledge Transactions](https://github.com/AleoHQ/aleo)
 - [Mina: a payment system using a succinct blockchain](https://minaprotocol.com/wp-content/uploads/technicalWhitepaper.pdf)
 
 #### KYC
@@ -106,6 +111,10 @@ Table of Contents
 - [ZkLink: cross chain amm swap protocol powered by ZK-Rollup](https://github.com/zkLinkProtocol/zklink-contracts)
 - [Mystiko Network: Anonymous Protocol for a Cross-Chain Network](https://mystiko.network/whitepaper.pdf)
 - [Manta: a Plug and Play Private DeFi Stack](https://www.manta.network/) 
+- [Penumbra: a shielded, cross-chain network](https://penumbra.zone/)
+
+#### DEX
+
 - [Panther Protocol](https://www.pantherprotocol.io/resources/panther-protocol-v-1-0-1.pdf)
 - [Loopring Launches zkRollup Exchange](https://medium.com/loopring-protocol/loopring-launches-zkrollup-exchange-loopring-io-d6a85beeed21)
 
