@@ -90,7 +90,6 @@ Table of Contents
 
 - [Dark Forest: an MMO space-conquest game](https://blog.zkga.me/announcing-darkforest) and their [ZK Circuit Walkthrough](https://blog.zkga.me/df-init-circuit)
 
-
 #### Payment
 
 - [Tornado Cash: Introducing Private Transactions On Ethereum](https://tornado-cash.medium.com/introducing-private-transactions-on-ethereum-now-69fb059a14a1)
@@ -102,7 +101,7 @@ Table of Contents
 
 - [zkKYC](https://eprint.iacr.org/2021/907.pdf)
 
-#### DEX
+#### Crosschain
 
 - [ZkLink: cross chain amm swap protocol powered by ZK-Rollup](https://github.com/zkLinkProtocol/zklink-contracts)
 - [Mystiko Network: Anonymous Protocol for a Cross-Chain Network](https://mystiko.network/whitepaper.pdf)
