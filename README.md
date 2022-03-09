@@ -101,7 +101,7 @@ Table of Contents
   - [zkEVM](https://hackmd.io/@yezhang/S1_KMMbGt)
 - [Sin7Y zkEVM](https://medium.com/@sin7y)
 - [zCloak Space](https://zcloak.network/#/)
-- [Circuits for zkEVM](hhttps://github.com/appliedzkp/zkevm-circuits)
+- [Circuits for zkEVM](https://github.com/appliedzkp/zkevm-circuits)
 
 ### Zk-Layer1
 
