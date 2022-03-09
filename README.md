@@ -18,15 +18,37 @@
 Table of Contents
 =================
 
-* [Basics](#basics)
-* [Layer\-2](#layer-2)
-* [Projects](#projects)
-  * [zk\-VM](#zk-vm)
-  * [ZK Applications](#zk-applications)
-* [Advanced Topics](#advanced-topics)
-* [Tools](#tools)
-* [Discussions](#discussions)
-* [Communities](#communities)
+  * [Basics](#basics)
+  * [Layer 2](#layer-2)
+  * [Projects](#projects)
+    * [Zk\-VM](#zk-vm)
+    * [Zk\-Layer1](#zk-layer1)
+    * [Zk\-Layer2](#zk-layer2)
+    * [Zk\-Applications](#zk-applications)
+      * [Gaming](#gaming)
+      * [Payment](#payment)
+      * [KYC](#kyc)
+      * [Crosschain](#crosschain)
+      * [DEX](#dex)
+      * [Tokens / NFT](#tokens--nft)
+      * [Voting / Participation](#voting--participation)
+    * [Hardware Acceleration](#hardware-acceleration)
+  * [Advanced Topics](#advanced-topics)
+    * [PLONK](#plonk)
+    * [Groth16](#groth16)
+    * [Halo](#halo)
+    * [Probabilistic Proof Systems](#probabilistic-proof-systems)
+    * [Pinocchio](#pinocchio)
+    * [Bulletproofs](#bulletproofs)
+    * [Hash Functions](#hash-functions)
+    * [Systems](#systems)
+    * [Quadratic Span Programs](#quadratic-span-programs)
+    * [Zether](#zether)
+    * [Anonymous Zether](#anonymous-zether)
+    * [Zk\-VM](#zk-vm-1)
+  * [Tools](#tools)
+  * [Discussions](#discussions)
+  * [Communities](#communities)
 
 ## Basics
 
@@ -72,10 +94,6 @@ Table of Contents
 
 ### Zk-VM
 
-- [ZKVM book](https://hackmd.io/@liangcc/zkvmbook)
-- [Introduction to zkEVM](https://hackmd.io/@yezhang/S1_KMMbGt)
-- [appliedzkp](https://github.com/appliedzkp)
-  - [Semaphore: A privacy gadget for Ethereum](https://github.com/appliedzkp/semaphore)
 - [Matter Labs zkEVM](https://blog.matter-labs.io/unisync-a-port-of-uniswap-v2-on-the-zkevm-b12954748504)
 - [Hermez zkEVM](https://blog.hermez.io/introducing-hermez-zkevm/)
 - [Mir Protocol](https://mirprotocol.org/blog/Introducing-Mir)
@@ -83,12 +101,19 @@ Table of Contents
   - [zkEVM](https://hackmd.io/@yezhang/S1_KMMbGt)
 - [Sin7Y zkEVM](https://medium.com/@sin7y)
 - [zCloak Space](https://zcloak.network/#/)
+- [Circuits for zkEVM](hhttps://github.com/appliedzkp/zkevm-circuits)
 
 ### Zk-Layer1
 
-- [Aztec: Scalable Privacy on Ethereum](https://aztec.network/)
 - [Aleo: A SDK for Zero-Knowledge Transactions](https://github.com/AleoHQ/aleo)
 - [Iron Fish: the universal privacy layer for crypto](https://ironfish.network/)
+
+### Zk-Layer2
+
+- [Aztec: Scalable Privacy on Ethereum](https://aztec.network/)
+- [StarkNet](https://starkware.co/starknet/)
+- [Polygon Miden](https://polygon.technology/solutions/polygon-miden/)
+- [Polygon Zero](https://polygon.technology/solutions/polygon-zero/)
 
 ### Zk-Applications
 
@@ -127,7 +152,6 @@ Table of Contents
 
 - [Zero Knowledge Message Board by Nulven](https://github.com/nulven/zk-polling)
 - [Semaphore: a privacy gadget built on Ethereum](https://medium.com/coinmonks/to-mixers-and-beyond-presenting-semaphore-a-privacy-gadget-built-on-ethereum-4c8b00857c9b)
-
 
 ### Hardware Acceleration
 
@@ -181,6 +205,11 @@ Table of Contents
 ### Anonymous Zether
 
 - [MANY-OUT-OF-MANY PROOFS](https://eprint.iacr.org/2020/293.pdf)
+
+### Zk-VM
+
+- [ZKVM book](https://hackmd.io/@liangcc/zkvmbook)
+- [Introduction to zkEVM](https://hackmd.io/@yezhang/S1_KMMbGt)
 
 ## Tools
 
