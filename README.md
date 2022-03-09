@@ -227,3 +227,4 @@ Table of Contents
 - [ZK Hash Bounties](https://www.zkhashbounties.info/)
 - [Zero Knowledge Forum](https://zeroknowledge.fm/)
 - [0xPARC: Program for Applied Research in Cryptography](https://0xparc.org/blog/program-for-applied-research)
+- [ZPrize: accelerate zero-knowledge cryptography](https://www.zprize.io/)
