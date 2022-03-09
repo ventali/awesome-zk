@@ -113,6 +113,7 @@ Table of Contents
 #### Tokens / NFT
 
 - [StealthDrop: Anonymous Airdrops using ZK proofs](https://github.com/nalinbhardwaj/stealthdrop)
+- [Immutable X: the first layer-2 scaling solution for NFTs on Ethereum](https://www.immutable.com/)
 
 #### Voting / Participation
 
