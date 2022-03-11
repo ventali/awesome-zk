@@ -28,6 +28,7 @@ Table of Contents
       * [Gaming](#gaming)
       * [Payment](#payment)
       * [KYC](#kyc)
+      * [Wallet](#wallet)
       * [Crosschain](#crosschain)
       * [DEX](#dex)
       * [Tokens / NFT](#tokens--nft)
@@ -130,6 +131,10 @@ Table of Contents
 #### KYC
 
 - [zkKYC](https://eprint.iacr.org/2021/907.pdf)
+
+#### Wallet
+
+- [Argent (based on zkSync)](https://www.argent.xyz/)
 
 #### Crosschain
 
