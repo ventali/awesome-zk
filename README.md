@@ -137,6 +137,7 @@ Table of Contents
 - [Mystiko Network: Anonymous Protocol for a Cross-Chain Network](https://mystiko.network/whitepaper.pdf)
 - [Manta: a Plug and Play Private DeFi Stack](https://www.manta.network/) 
 - [Penumbra: a shielded, cross-chain network](https://penumbra.zone/)
+- [Zecrey: Bringing Cross-chain Privacy to Digital Assets](https://www.zecrey.com/)
 
 #### DEX
 
