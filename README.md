@@ -131,6 +131,7 @@ Table of Contents
 #### KYC
 
 - [zkKYC](https://eprint.iacr.org/2021/907.pdf)
+- [zCloak: DeFi KYC Gateway](https://app.zcloak.network/#/transfer)
 
 #### Wallet
 
