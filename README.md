@@ -48,6 +48,7 @@ Table of Contents
     * [Anonymous Zether](#anonymous-zether)
     * [Zk\-VM](#zk-vm-1)
   * [Tools](#tools)
+  * [Audit and Consulting](#auditing)
   * [Discussions](#discussions)
   * [Communities](#communities)
 
@@ -221,6 +222,11 @@ Table of Contents
 ## Tools
 
 - [Circom](https://docs.circom.io/getting-started/installation/)
+
+## Auditing and Consulting
+
+- [ABDK](https://www.abdk.consulting/)
+- [Least Authority](https://leastauthority.com/)
 
 ## Discussions
 
