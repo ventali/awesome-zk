@@ -27,6 +27,7 @@ Table of Contents
     * [Zk\-Applications](#zk-applications)
       * [Gaming](#gaming)
       * [Payment](#payment)
+      * [Mixer](#mixer)
       * [KYC](#kyc)
       * [Wallet](#wallet)
       * [Crosschain](#crosschain)
