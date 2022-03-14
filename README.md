@@ -125,9 +125,16 @@ Table of Contents
 
 #### Payment
 
-- [Tornado Cash: Introducing Private Transactions On Ethereum](https://tornado-cash.medium.com/introducing-private-transactions-on-ethereum-now-69fb059a14a1)
 - [Zcash: a privacy-protecting, digital currency](https://z.cash/technology/)
+- [Monero: private, decentralized cryptocurrency](https://www.getmonero.org/)
+- [Manta: a Plug and Play Private DeFi Stack](https://www.manta.network/) 
 - [Mina: a payment system using a succinct blockchain](https://minaprotocol.com/wp-content/uploads/technicalWhitepaper.pdf)
+- [SwapCT: Swap Confidential Transactions for Privacy-Preserving Multi-Token Exchanges](https://eprint.iacr.org/2021/631.pdf)
+
+#### Mixer
+
+- [CoinJoin: an open-source way to mix bitcoins](https://coinjoin.io/en)
+- [Tornado Cash: Introducing Private Transactions On Ethereum](https://tornado-cash.medium.com/introducing-private-transactions-on-ethereum-now-69fb059a14a1)
 
 #### KYC
 
@@ -142,7 +149,6 @@ Table of Contents
 
 - [ZkLink: cross chain amm swap protocol powered by ZK-Rollup](https://github.com/zkLinkProtocol/zklink-contracts)
 - [Mystiko Network: Anonymous Protocol for a Cross-Chain Network](https://mystiko.network/whitepaper.pdf)
-- [Manta: a Plug and Play Private DeFi Stack](https://www.manta.network/) 
 - [Penumbra: a shielded, cross-chain network](https://penumbra.zone/)
 - [Zecrey: Bringing Cross-chain Privacy to Digital Assets](https://www.zecrey.com/)
 
@@ -213,6 +219,10 @@ Table of Contents
 ### Anonymous Zether
 
 - [MANY-OUT-OF-MANY PROOFS](https://eprint.iacr.org/2020/293.pdf)
+
+### Quisquis
+
+- [Quisquis: A New Design for Anonymous Cryptocurrencies](https://eprint.iacr.org/2018/990.pdf)
 
 ### Zk-VM
 
