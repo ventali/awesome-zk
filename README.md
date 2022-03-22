@@ -18,40 +18,43 @@
 Table of Contents
 =================
 
-  * [Basics](#basics)
-  * [Layer 2](#layer-2)
-  * [Projects](#projects)
-    * [Zk\-VM](#zk-vm)
-    * [Zk\-Layer1](#zk-layer1)
-    * [Zk\-Layer2](#zk-layer2)
-    * [Zk\-Applications](#zk-applications)
-      * [Gaming](#gaming)
-      * [Payment](#payment)
-      * [Mixer](#mixer)
-      * [KYC](#kyc)
-      * [Wallet](#wallet)
-      * [Crosschain](#crosschain)
-      * [DEX](#dex)
-      * [Tokens / NFT](#tokens--nft)
-      * [Voting / Participation](#voting--participation)
-    * [Hardware Acceleration](#hardware-acceleration)
-  * [Advanced Topics](#advanced-topics)
-    * [PLONK](#plonk)
-    * [Groth16](#groth16)
-    * [Halo](#halo)
-    * [Probabilistic Proof Systems](#probabilistic-proof-systems)
-    * [Pinocchio](#pinocchio)
-    * [Bulletproofs](#bulletproofs)
-    * [Hash Functions](#hash-functions)
-    * [Systems](#systems)
-    * [Quadratic Span Programs](#quadratic-span-programs)
-    * [Zether](#zether)
-    * [Anonymous Zether](#anonymous-zether)
-    * [Zk\-VM](#zk-vm-1)
-  * [Tools](#tools)
-  * [Audit and Consulting](#auditing)
-  * [Discussions](#discussions)
-  * [Communities](#communities)
+* [Basics](#basics)
+* [Layer 2](#layer-2)
+* [Projects](#projects)
+  * [Zk\-VM](#zk-vm)
+  * [Zk\-Layer1](#zk-layer1)
+  * [Zk\-Layer2](#zk-layer2)
+  * [Framework / SDK](#framework--sdk)
+  * [Zk\-Applications](#zk-applications)
+    * [Gaming](#gaming)
+    * [Payment](#payment)
+    * [Mixer](#mixer)
+    * [KYC](#kyc)
+    * [Wallet](#wallet)
+    * [Crosschain](#crosschain)
+    * [DEX](#dex)
+    * [Tokens / NFT](#tokens--nft)
+    * [Voting / Participation](#voting--participation)
+  * [Hardware Acceleration](#hardware-acceleration)
+  * [Trusted Execution Environment (TEE) Based Projects](#trusted-execution-environment-tee-based-projects)
+* [Advanced Topics](#advanced-topics)
+  * [PLONK](#plonk)
+  * [Groth16](#groth16)
+  * [Halo](#halo)
+  * [Probabilistic Proof Systems](#probabilistic-proof-systems)
+  * [Pinocchio](#pinocchio)
+  * [Bulletproofs](#bulletproofs)
+  * [Hash Functions](#hash-functions)
+  * [Systems](#systems)
+  * [Quadratic Span Programs](#quadratic-span-programs)
+  * [Zether](#zether)
+  * [Anonymous Zether](#anonymous-zether)
+  * [Quisquis](#quisquis)
+  * [Zk\-VM](#zk-vm-1)
+* [Tools](#tools)
+* [Auditing and Consulting](#auditing-and-consulting)
+* [Discussions](#discussions)
+* [Communities](#communities)
 
 ## Basics
 
@@ -118,6 +121,10 @@ Table of Contents
 - [Polygon Miden](https://polygon.technology/solutions/polygon-miden/)
 - [Polygon Zero](https://polygon.technology/solutions/polygon-zero/)
 
+### Framework / SDK
+
+- [Espresso Systems](http://espressosys.com)
+
 ### Zk-Applications
 
 #### Gaming
@@ -172,6 +179,10 @@ Table of Contents
 
 - [Hardware for ZKPs & VDFs with Supranational](https://www.supranational.net/)
   - [Practical SNARK-based VDF](https://zkproof.org/2021/11/24/practical-snark-based-vdf/)
+
+### Trusted Execution Environment (TEE) Based Projects
+- [Oasis Network](https://oasisprotocol.org/)
+- [Secret Network](https://scrt.network/)
 
 ## Advanced Topics
 
