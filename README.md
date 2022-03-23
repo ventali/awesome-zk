@@ -244,6 +244,7 @@ Table of Contents
 ## Tools
 
 - [Circom](https://docs.circom.io/getting-started/installation/)
+- [Library: ZK-Garage/Plonk](https://github.com/ZK-Garage/plonk)
 
 ## Auditing and Consulting
 
