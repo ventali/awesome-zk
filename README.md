@@ -24,6 +24,7 @@ Table of Contents
   * [Zk\-VM](#zk-vm)
   * [Zk\-Layer1](#zk-layer1)
   * [Zk\-Layer2](#zk-layer2)
+  * [Basic Computing](#basic-computing)
   * [Framework / SDK](#framework--sdk)
   * [Zk\-Applications](#zk-applications)
     * [Gaming](#gaming)
@@ -120,6 +121,10 @@ Table of Contents
 - [StarkNet](https://starkware.co/starknet/)
 - [Polygon Miden](https://polygon.technology/solutions/polygon-miden/)
 - [Polygon Zero](https://polygon.technology/solutions/polygon-zero/)
+
+### Basic Computing
+
+- [Risc0: a zero-knowledge verifiable general computing platform](https://github.com/risc0/risc0)
 
 ### Framework / SDK
 
