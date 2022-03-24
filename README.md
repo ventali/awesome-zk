@@ -139,7 +139,6 @@ Table of Contents
 #### Payment
 
 - [Zcash: a privacy-protecting, digital currency](https://z.cash/technology/)
-- [Monero: private, decentralized cryptocurrency](https://www.getmonero.org/)
 - [Manta: a Plug and Play Private DeFi Stack](https://www.manta.network/) 
 - [Mina: a payment system using a succinct blockchain](https://minaprotocol.com/wp-content/uploads/technicalWhitepaper.pdf)
 - [SwapCT: Swap Confidential Transactions for Privacy-Preserving Multi-Token Exchanges](https://eprint.iacr.org/2021/631.pdf)
