@@ -172,6 +172,7 @@ Table of Contents
 #### Tokens / NFT
 
 - [StealthDrop: Anonymous Airdrops using ZK proofs](https://github.com/nalinbhardwaj/stealthdrop)
+- [ZKP Private Airdrop](https://github.com/a16z/zkp-merkle-airdrop-contracts) and their [Zk Merkle Airdrop Library](https://github.com/a16z/zkp-merkle-airdrop-lib)
 - [Immutable X: the first layer-2 scaling solution for NFTs on Ethereum](https://www.immutable.com/)
 
 #### Voting / Participation
