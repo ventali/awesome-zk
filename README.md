@@ -272,3 +272,4 @@ Table of Contents
 - [Zero Knowledge Forum](https://zeroknowledge.fm/)
 - [0xPARC: Program for Applied Research in Cryptography](https://0xparc.org/blog/program-for-applied-research)
 - [ZPrize: accelerate zero-knowledge cryptography](https://www.zprize.io/)
+- [zkMesh: a monthly newsletter](https://zkmesh.substack.com/)
