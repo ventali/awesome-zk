@@ -149,10 +149,11 @@ Table of Contents
 - [CoinJoin: an open-source way to mix bitcoins](https://coinjoin.io/en)
 - [Tornado Cash: Introducing Private Transactions On Ethereum](https://tornado-cash.medium.com/introducing-private-transactions-on-ethereum-now-69fb059a14a1)
 
-#### KYC
+#### Identity
 
 - [zkKYC](https://eprint.iacr.org/2021/907.pdf)
 - [zCloak: DeFi KYC Gateway](https://app.zcloak.network/#/transfer)
+- [Polygon ID: identity system with programmable privacy](https://polygon.technology/polygon-id/)
 
 #### Wallet
 
