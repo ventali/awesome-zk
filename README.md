@@ -73,6 +73,13 @@ Table of Contents
 - [zkSNARKs in a nutshell](https://blog.ethereum.org/2016/12/05/zksnarks-in-a-nutshell/)
 - [Comments on paper: zkSNARKs in a Nutshell by Aaron](https://github.com/ventali/awesome-zk/tree/main/zk-intro)
 - [An approximate introduction to how zk-SNARKs are possible](https://vitalik.ca/general/2021/01/26/snarks.html)
+- Explaining STARKs
+  - [Part I: STARK Overview](https://aszepieniec.github.io/stark-anatomy/overview)
+  - [Part II: Basic Tools](https://aszepieniec.github.io/stark-anatomy/basic-tools)
+  - [Part II: FRI](https://aszepieniec.github.io/stark-anatomy/fri)
+  - [Part IV: The STARK Polynomial IOP](https://aszepieniec.github.io/stark-anatomy/stark)
+  - [Part V: A Rescue-Prime STARK](https://aszepieniec.github.io/stark-anatomy/rescue-prime)
+  - [Part VI: Speeding Things Up](https://aszepieniec.github.io/stark-anatomy/faster)
 - Explaining SNARKs
   - [Part I: Homomorphic Hidings](https://electriccoin.co/blog/snark-explain/)
   - [Part II: Blind Evaluation of Polynomials](https://electriccoin.co/blog/snark-explain2/)
