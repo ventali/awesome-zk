@@ -33,7 +33,7 @@ Table of Contents
     * [KYC](#kyc)
     * [Wallet](#wallet)
     * [Crosschain](#crosschain)
-    * [DEX](#dex)
+    * [DeFi / DEX](#dex)
     * [Tokens / NFT](#tokens--nft)
     * [Voting / Participation](#voting--participation)
   * [Hardware Acceleration](#hardware-acceleration)
@@ -174,10 +174,11 @@ Table of Contents
 - [Zecrey: Bringing Cross-chain Privacy to Digital Assets](https://www.zecrey.com/)
 - [Suez: move Eth to the Starknet ecosystem](https://suez.dev/)
 
-#### DEX
+#### DeFi / DEX
 
 - [Panther Protocol](https://www.pantherprotocol.io/resources/panther-protocol-v-1-0-1.pdf)
 - [Loopring Launches zkRollup Exchange](https://medium.com/loopring-protocol/loopring-launches-zkrollup-exchange-loopring-io-d6a85beeed21)
+- [Railgun: brings privacy to cryptocurrencies](https://www.railgun.org/#/)
 
 #### Tokens / NFT
 
