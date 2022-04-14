@@ -33,7 +33,7 @@ Table of Contents
     * [KYC](#kyc)
     * [Wallet](#wallet)
     * [Crosschain](#crosschain)
-    * [DeFi / DEX](#dex)
+    * [DeFi / DEX](#defi--dex)
     * [Tokens / NFT](#tokens--nft)
     * [Voting / Participation](#voting--participation)
   * [Hardware Acceleration](#hardware-acceleration)
