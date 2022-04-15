@@ -259,6 +259,10 @@ Table of Contents
 - [ZKVM book](https://hackmd.io/@liangcc/zkvmbook)
 - [Introduction to zkEVM](https://hackmd.io/@yezhang/S1_KMMbGt)
 
+### Slush: Fractal Scaling
+
+- [Slush, a proposal for Fractal scaling](https://hackmd.io/@kalmanlajko/rkgg9GLG5#Our-trustless-bridging)
+
 ## Tools
 
 - [Circom](https://docs.circom.io/getting-started/installation/)
@@ -273,6 +277,8 @@ Table of Contents
 
 - [Why Dark Forest Matters: A Good Game, not a Crypto Game](https://mirror.xyz/omarmezenner.eth/gFCfCVwTfUU91SDXeROEaDQe4984nbFBIgv9QSY0r1U)
 - [The Strongest Crypto Gaming Thesis](https://gubsheep.substack.com/p/the-strongest-crypto-gaming-thesis?s=r)
+- [Hardware Acceleration for Zero Knowledge Proofs](https://www.paradigm.xyz/2022/04/zk-hardware)
+- [How do trusted setups work?](https://vitalik.ca/general/2022/03/14/trustedsetup.html)
 
 ## Communities
 
