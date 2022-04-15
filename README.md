@@ -281,6 +281,7 @@ Table of Contents
 ## Discussions
 
 - [Why Dark Forest Matters: A Good Game, not a Crypto Game](https://mirror.xyz/omarmezenner.eth/gFCfCVwTfUU91SDXeROEaDQe4984nbFBIgv9QSY0r1U)
+- [Six Moonshot ZK Applications](https://gubsheep.substack.com/p/six-moonshot-zk-applications?s=r)
 - [The Strongest Crypto Gaming Thesis](https://gubsheep.substack.com/p/the-strongest-crypto-gaming-thesis?s=r)
 - [Hardware Acceleration for Zero Knowledge Proofs](https://www.paradigm.xyz/2022/04/zk-hardware)
 - [How do trusted setups work?](https://vitalik.ca/general/2022/03/14/trustedsetup.html)
