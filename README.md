@@ -173,6 +173,7 @@ Table of Contents
 - [Penumbra: a shielded, cross-chain network](https://penumbra.zone/)
 - [Zecrey: Bringing Cross-chain Privacy to Digital Assets](https://www.zecrey.com/)
 - [Suez: move Eth to the Starknet ecosystem](https://suez.dev/)
+- [ZKCross: a trustworthy cross-chain protocol built with multichain zkRollup](https://www.zkcross.org/)
 
 #### DeFi / DEX
 
