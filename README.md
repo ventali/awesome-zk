@@ -33,6 +33,7 @@ Table of Contents
     * [KYC](#kyc)
     * [Wallet](#wallet)
     * [Crosschain](#crosschain)
+    * [Marketplace](#marketplace)
     * [DeFi / DEX](#defi--dex)
     * [Tokens / NFT](#tokens--nft)
     * [Voting / Participation](#voting--participation)
@@ -175,6 +176,10 @@ Table of Contents
 - [Zecrey: Bringing Cross-chain Privacy to Digital Assets](https://www.zecrey.com/)
 - [Suez: move Eth to the Starknet ecosystem](https://suez.dev/)
 - [ZKCross: a trustworthy cross-chain protocol built with multichain zkRollup](https://www.zkcross.org/)
+
+#### Marketplace
+
+- [Modulo Zero: on-chain solution for private data exchange](https://modulozero.xyz/) and their [Repo](https://github.com/nulven/EthDataMarketplace)
 
 #### DeFi / DEX
 
