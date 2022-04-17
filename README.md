@@ -235,6 +235,7 @@ Table of Contents
 ### Bulletproofs
 
 - [Bulletproofs: Short Proofs for Confidential Transactions and More](https://eprint.iacr.org/2017/1066.pdf)
+- [Bulletproofs+: Shorter Proofs for Privacy-Enhanced Distributed Ledger](https://eprint.iacr.org/2020/735)
 
 ### Hash Functions
 
