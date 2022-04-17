@@ -162,6 +162,7 @@ Table of Contents
 
 - [zkKYC](https://eprint.iacr.org/2021/907.pdf)
 - [zCloak: DeFi KYC Gateway](https://app.zcloak.network/#/transfer)
+- [Iden3: future-proof tech stack for self-sovereign identity](https://iden3.io/)
 - [Polygon ID: identity system with programmable privacy](https://polygon.technology/polygon-id/)
 
 #### Wallet
