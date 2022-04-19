@@ -34,6 +34,7 @@ Table of Contents
     * [Wallet](#wallet)
     * [Crosschain](#crosschain)
     * [Marketplace](#marketplace)
+    * [Data Processing](#dataprocessing)
     * [DeFi / DEX](#defi--dex)
     * [Tokens / NFT](#tokens--nft)
     * [Voting / Participation](#voting--participation)
@@ -181,6 +182,10 @@ Table of Contents
 #### Marketplace
 
 - [Modulo Zero: on-chain solution for private data exchange](https://modulozero.xyz/) and their [Repo](https://github.com/nulven/EthDataMarketplace)
+
+#### Data Processing
+
+- [ZK Machine Learning: truly private machine learning, with zk-SNARKs and blockchain](https://github.com/zk-ml/demo)
 
 #### DeFi / DEX
 
