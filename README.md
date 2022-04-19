@@ -34,7 +34,7 @@ Table of Contents
     * [Wallet](#wallet)
     * [Crosschain](#crosschain)
     * [Marketplace](#marketplace)
-    * [Data Processing](#dataprocessing)
+    * [Data Processing](#data-processing)
     * [DeFi / DEX](#defi--dex)
     * [Tokens / NFT](#tokens--nft)
     * [Voting / Participation](#voting--participation)
