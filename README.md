@@ -30,7 +30,7 @@ Table of Contents
     * [Gaming](#gaming)
     * [Payment](#payment)
     * [Mixer](#mixer)
-    * [KYC](#kyc)
+    * [Identity](#identity)
     * [Wallet](#wallet)
     * [Crosschain](#crosschain)
     * [Marketplace](#marketplace)
@@ -279,6 +279,7 @@ Table of Contents
 
 - [Circom](https://docs.circom.io/getting-started/installation/)
 - [Library: ZK-Garage/Plonk](https://github.com/ZK-Garage/plonk)
+- [Picus: Symbolic Virtual Machine for Automated R1CS Verification](https://github.com/Veridise/Picus)
 
 ## Auditing and Consulting
 
