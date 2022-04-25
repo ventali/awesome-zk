@@ -154,6 +154,7 @@ Table of Contents
 - [Manta: a Plug and Play Private DeFi Stack](https://www.manta.network/) 
 - [SwapCT: Swap Confidential Transactions for Privacy-Preserving Multi-Token Exchanges](https://eprint.iacr.org/2021/631.pdf)
 - [Zef: Low-latency, Scalable, Private Payments](https://zefchain.com/) and their [Slides](https://zefchain.com/papers/zef_slides.pdf)
+- [Amona: A protocol for private, asset-agnostic digital cash](https://anoma.net/) and their [use of recursive zkps](https://anoma.net/blog/demystifying-recursive-zkp/)
 
 #### Mixer
 
