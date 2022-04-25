@@ -34,7 +34,7 @@ Table of Contents
     * [Wallet](#wallet)
     * [Crosschain](#crosschain)
     * [Marketplace](#marketplace)
-    * [Data Processing](#data-processing)
+    * [Data Infrastructure](#data-infrastructure)
     * [DeFi / DEX](#defi--dex)
     * [Tokens / NFT](#tokens--nft)
     * [Voting / Participation](#voting--participation)
@@ -123,6 +123,8 @@ Table of Contents
 
 - [Aleo: A SDK for Zero-Knowledge Transactions](https://github.com/AleoHQ/aleo)
 - [Iron Fish: the universal privacy layer for crypto](https://ironfish.network/)
+- [Mina: a payment system using a succinct blockchain](https://minaprotocol.com/wp-content/uploads/technicalWhitepaper.pdf)
+- [Celo: EVM compatible proof-of-stake layer-1](https://celo.org/) and their [Light clients with ZKPs](https://zeroknowledge.fm/93-2/)
 
 ### Zk-Layer2
 
@@ -150,7 +152,6 @@ Table of Contents
 - [Zcash: a privacy-protecting, digital currency](https://z.cash/technology/)
 - [Monero: private, decentralized cryptocurrency](https://www.getmonero.org/)
 - [Manta: a Plug and Play Private DeFi Stack](https://www.manta.network/) 
-- [Mina: a payment system using a succinct blockchain](https://minaprotocol.com/wp-content/uploads/technicalWhitepaper.pdf)
 - [SwapCT: Swap Confidential Transactions for Privacy-Preserving Multi-Token Exchanges](https://eprint.iacr.org/2021/631.pdf)
 - [Zef: Low-latency, Scalable, Private Payments](https://zefchain.com/) and their [Slides](https://zefchain.com/papers/zef_slides.pdf)
 
@@ -183,8 +184,9 @@ Table of Contents
 
 - [Modulo Zero: on-chain solution for private data exchange](https://modulozero.xyz/) and their [Repo](https://github.com/nulven/EthDataMarketplace)
 
-#### Data Processing
+#### Data Infrastructure
 
+- [Filecoin: Zero Knowledge and the Filecoin Network](https://filecoin.io/blog/posts/zero-knowledge-and-the-filecoin-network/)
 - [ZK Machine Learning: truly private machine learning, with zk-SNARKs and blockchain](https://github.com/zk-ml/demo)
 
 #### DeFi / DEX
@@ -206,8 +208,8 @@ Table of Contents
 
 ### Hardware Acceleration
 
-- [Hardware for ZKPs & VDFs with Supranational](https://www.supranational.net/)
-  - [Practical SNARK-based VDF](https://zkproof.org/2021/11/24/practical-snark-based-vdf/)
+- [Hardware for ZKPs & VDFs with Supranational](https://www.supranational.net/) and their [Practical SNARK-based VDF](https://zkproof.org/2021/11/24/practical-snark-based-vdf/)
+- [PipeZK: Accelerating Zero-Knowledge Proof with a Pipelined Architecture](https://www.microsoft.com/en-us/research/uploads/prod/2021/05/isca21_pizk-60a269dbb1310.pdf)
 
 ### Trusted Execution Environment (TEE) Based Projects
 - [Oasis Network](https://oasisprotocol.org/)
