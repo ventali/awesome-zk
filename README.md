@@ -205,6 +205,7 @@ Table of Contents
 
 - [StealthDrop: Anonymous Airdrops using ZK proofs](https://github.com/nalinbhardwaj/stealthdrop)
 - [ZKP Private Airdrop](https://github.com/a16z/zkp-merkle-airdrop-contracts) and their [Zk Merkle Airdrop Library](https://github.com/a16z/zkp-merkle-airdrop-lib)
+- [zk-NftMint: Mint an NFT if you know a secret](https://github.com/weijiekoh/zknftmint) and their [contract](https://goerli.etherscan.io/address/0xc4490d6407f81378c8d3620eA11092B2FC429Df2)
 - [Immutable X: the first layer-2 scaling solution for NFTs on Ethereum](https://www.immutable.com/)
 
 #### Voting / Participation
