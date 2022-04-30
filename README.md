@@ -35,6 +35,7 @@ Table of Contents
     * [Crosschain](#crosschain)
     * [Marketplace](#marketplace)
     * [Data Infrastructure](#data-infrastructure)
+    * [Artificial Intelligence](#artificial-intelligence)
     * [DeFi / DEX](#defi--dex)
     * [Tokens / NFT](#tokens--nft)
     * [Voting / Participation](#voting--participation)
@@ -189,6 +190,10 @@ Table of Contents
 
 - [Filecoin: Zero Knowledge and the Filecoin Network](https://filecoin.io/blog/posts/zero-knowledge-and-the-filecoin-network/)
 - [ZK Machine Learning: truly private machine learning, with zk-SNARKs and blockchain](https://github.com/zk-ml/demo)
+
+#### Artificial Intelligence
+
+- [zk-MNIST: web frontend app + Jupyter notebook with ML model generation](https://github.com/0xZKML/zk-mnist) and their [demo](https://zkmnist.netlify.app/)
 
 #### DeFi / DEX
 
