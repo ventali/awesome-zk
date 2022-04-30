@@ -302,6 +302,7 @@ Table of Contents
 - [The Strongest Crypto Gaming Thesis](https://gubsheep.substack.com/p/the-strongest-crypto-gaming-thesis?s=r)
 - [Hardware Acceleration for Zero Knowledge Proofs](https://www.paradigm.xyz/2022/04/zk-hardware)
 - [How do trusted setups work?](https://vitalik.ca/general/2022/03/14/trustedsetup.html)
+- [10 zkApps Use Cases on Mina Protocol](https://blog.o1labs.org/10-snapps-use-cases-on-mina-83e646010e52)
 
 ## Communities
 
