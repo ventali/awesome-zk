@@ -114,11 +114,11 @@ Table of Contents
 - [Matter Labs zkEVM](https://blog.matter-labs.io/unisync-a-port-of-uniswap-v2-on-the-zkevm-b12954748504)
 - [Hermez zkEVM](https://blog.hermez.io/introducing-hermez-zkevm/)
 - [Mir Protocol](https://mirprotocol.org/blog/Introducing-Mir)
-- [Scroll](https://hackmd.io/@yezhang/S1sJ2cEWY)
-  - [zkEVM](https://hackmd.io/@yezhang/S1_KMMbGt)
+- [Scroll](https://hackmd.io/@yezhang/S1sJ2cEWY) and their [zkEVM](https://hackmd.io/@yezhang/S1_KMMbGt)
 - [Sin7Y zkEVM](https://medium.com/@sin7y)
 - [zCloak Space](https://zcloak.network/#/)
-- [Circuits for zkEVM](https://github.com/appliedzkp/zkevm-circuits)
+- [Appliedzkp: Circuits for zkEVM](https://github.com/appliedzkp/zkevm-circuits)
+- [ConsenSys zkEVM](https://ethresear.ch/uploads/short-url/3DM8kjFfIG6PHXu4qpYpmujXgme.pdf) and their [gnark library](https://github.com/consensys/gnark)
 
 ### Zk-Layer1
 
@@ -133,6 +133,7 @@ Table of Contents
 - [StarkNet](https://starkware.co/starknet/)
 - [Polygon Miden](https://polygon.technology/solutions/polygon-miden/)
 - [Polygon Zero](https://polygon.technology/solutions/polygon-zero/)
+- [Taikocha: a zkEVM-based general-purpose zkRollup network](https://taikocha.in/)
 
 ### Basic Computing
 
