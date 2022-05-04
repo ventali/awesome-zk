@@ -135,6 +135,7 @@ Table of Contents
 - [Polygon Miden](https://polygon.technology/solutions/polygon-miden/)
 - [Polygon Zero](https://polygon.technology/solutions/polygon-zero/)
 - [Taikocha: a zkEVM-based general-purpose zkRollup network](https://taikocha.in/)
+- [Twilight: Layer 2 for Private Computation](https://twilight.finance/)
 
 ### Basic Computing
 
@@ -174,6 +175,7 @@ Table of Contents
 #### Wallet
 
 - [Argent (based on zkSync)](https://www.argent.xyz/)
+- [Numio: Layer 2 focused wallet built on zkSync](https://www.numio.one/)
 
 #### Crosschain
 
@@ -202,6 +204,7 @@ Table of Contents
 - [Panther Protocol](https://www.pantherprotocol.io/resources/panther-protocol-v-1-0-1.pdf)
 - [Loopring Launches zkRollup Exchange](https://medium.com/loopring-protocol/loopring-launches-zkrollup-exchange-loopring-io-d6a85beeed21)
 - [Railgun: brings privacy to cryptocurrencies](https://www.railgun.org/#/)
+- [EdgeSwap: Ethereum-based layer 2 trading protocol](https://www.edgeswap.io/)
 
 #### Tokens / NFT
 
