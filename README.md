@@ -227,6 +227,7 @@ Table of Contents
 ### Trusted Execution Environment (TEE) Based Projects
 - [Oasis Network](https://oasisprotocol.org/)
 - [Secret Network](https://scrt.network/)
+- [Obscuro](https://www.obscu.ro/)
 
 ## Advanced Topics
 
