@@ -294,6 +294,7 @@ Table of Contents
 ## Tools
 
 - [Circom](https://docs.circom.io/getting-started/installation/)
+- [ZoKrates: a toolbox for zkSNARKs on Ethereum](https://zokrates.github.io/)
 - [Library: ZK-Garage/Plonk](https://github.com/ZK-Garage/plonk)
 - [Picus: Symbolic Virtual Machine for Automated R1CS Verification](https://github.com/Veridise/Picus)
 
