@@ -177,6 +177,8 @@ Table of Contents
 
 - [Argent (based on zkSync)](https://www.argent.xyz/)
 - [Numio: Layer 2 focused wallet built on zkSync](https://www.numio.one/)
+- [Zkopru: Affordable Ethereum Privacy Wallet](https://zkopru.network/)
+- [Bunkyr: zero‑knowledge security without seed phrases or backup codes](https://bunkyr.com/)
 
 #### Crosschain
 
