@@ -137,6 +137,7 @@ Table of Contents
 - [Polygon Zero](https://polygon.technology/solutions/polygon-zero/)
 - [Taikocha: a zkEVM-based general-purpose zkRollup network](https://taikocha.in/)
 - [Twilight: Layer 2 for Private Computation](https://twilight.finance/)
+- [Orbis: A Layer 2 ZK-Rollup Scaling Solution Built on Cardano](https://linktr.ee/orbisprotocol)
 
 ### Basic Computing
 
@@ -166,6 +167,7 @@ Table of Contents
 
 - [CoinJoin: an open-source way to mix bitcoins](https://coinjoin.io/en)
 - [Tornado Cash: Introducing Private Transactions On Ethereum](https://tornado-cash.medium.com/introducing-private-transactions-on-ethereum-now-69fb059a14a1)
+- [Otter Cash: A privacy layer for the Solana ecosystem](https://otter.cash/)
 
 #### Identity
 
@@ -189,6 +191,8 @@ Table of Contents
 - [Zecrey: Bringing Cross-chain Privacy to Digital Assets](https://www.zecrey.com/)
 - [Suez: move Eth to the Starknet ecosystem](https://suez.dev/)
 - [ZKCross: a trustworthy cross-chain protocol built with multichain zkRollup](https://www.zkcross.org/)
+- [Electron Labs: ZK Light Clients for NEAR Rainbow Bridge](https://electronlabs.org/)
+- [Nil ](https://nil.foundation/)
 
 #### Marketplace
 
