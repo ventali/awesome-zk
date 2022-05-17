@@ -192,7 +192,7 @@ Table of Contents
 - [Suez: move Eth to the Starknet ecosystem](https://suez.dev/)
 - [ZKCross: a trustworthy cross-chain protocol built with multichain zkRollup](https://www.zkcross.org/)
 - [Electron Labs: ZK Light Clients for NEAR Rainbow Bridge](https://electronlabs.org/)
-- [Nil ](https://nil.foundation/)
+- [Nil Foundation: Mina's bridge to Ethereum](https://nil.foundation/)
 
 #### Marketplace
 
