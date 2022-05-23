@@ -175,6 +175,8 @@ Table of Contents
 - [zCloak: DeFi KYC Gateway](https://app.zcloak.network/#/transfer)
 - [Iden3: future-proof tech stack for self-sovereign identity](https://iden3.io/)
 - [Polygon ID: identity system with programmable privacy](https://polygon.technology/polygon-id/)
+- [Sealance: building financial compliance into digital currencies](https://www.sealance.io/)
+- [Humanode: biologically verified human nodes as a basis for a fair financial system](https://humanode.io/)
 
 #### Wallet
 
