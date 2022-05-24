@@ -146,6 +146,7 @@ Table of Contents
 ### Framework / SDK
 
 - [Espresso Systems](http://espressosys.com)
+- [Light Protocol: DeFi Privacy Infrastructure that Scales](https://www.lightprotocol.com/)
 
 ### Zk-Applications
 
