@@ -198,7 +198,7 @@ Table of Contents
 - [ZKCross: a trustworthy cross-chain protocol built with multichain zkRollup](https://www.zkcross.org/)
 - [Electron Labs: ZK Light Clients for NEAR Rainbow Bridge](https://electronlabs.org/)
 - [Nil Foundation: Mina's bridge to Ethereum](https://nil.foundation/)
-- [ZeroPool: a fully private multi-blokchain solution](https://zeropool.network/)
+- [ZeroPool: a fully private multi-blockchain solution](https://zeropool.network/)
 
 #### Marketplace
 
