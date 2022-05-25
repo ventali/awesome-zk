@@ -138,6 +138,7 @@ Table of Contents
 - [Taikocha: a zkEVM-based general-purpose zkRollup network](https://taikocha.in/)
 - [Twilight: Layer 2 for Private Computation](https://twilight.finance/)
 - [Orbis: A Layer 2 ZK-Rollup Scaling Solution Built on Cardano](https://linktr.ee/orbisprotocol)
+- [Radius: MEV-resistant ZK-Rollups with Practical VDE (PVDE)](https://ethresear.ch/t/mev-resistant-zk-rollups-with-practical-vde-pvde/12677)
 
 ### Basic Computing
 
