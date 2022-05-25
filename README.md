@@ -164,6 +164,7 @@ Table of Contents
 - [SwapCT: Swap Confidential Transactions for Privacy-Preserving Multi-Token Exchanges](https://eprint.iacr.org/2021/631.pdf)
 - [Zef: Low-latency, Scalable, Private Payments](https://zefchain.com/) and their [Slides](https://zefchain.com/papers/zef_slides.pdf)
 - [Amona: A protocol for private, asset-agnostic digital cash](https://anoma.net/) and their [use of recursive zkps](https://anoma.net/blog/demystifying-recursive-zkp/)
+- [Raze Network: a EVM-compatible privacy protocol](https://www.raze.network/)
 
 #### Mixer
 
@@ -197,15 +198,18 @@ Table of Contents
 - [ZKCross: a trustworthy cross-chain protocol built with multichain zkRollup](https://www.zkcross.org/)
 - [Electron Labs: ZK Light Clients for NEAR Rainbow Bridge](https://electronlabs.org/)
 - [Nil Foundation: Mina's bridge to Ethereum](https://nil.foundation/)
+- [ZeroPool: a fully private multi-blokchain solution](https://zeropool.network/)
 
 #### Marketplace
 
 - [Modulo Zero: on-chain solution for private data exchange](https://modulozero.xyz/) and their [Repo](https://github.com/nulven/EthDataMarketplace)
+- [Ruby Protocol: Building a Cross-chain Cryptographic Infrastructure for Data Monetization](https://wiki.ruby.io/)
 
 #### Data Infrastructure
 
 - [Filecoin: Zero Knowledge and the Filecoin Network](https://filecoin.io/blog/posts/zero-knowledge-and-the-filecoin-network/)
 - [ZK Machine Learning: truly private machine learning, with zk-SNARKs and blockchain](https://github.com/zk-ml/demo)
+- [Nectar Protocol: Web3 infrastructure for healthcare](https://nectar.haus/) and their [documentation](https://github.com/NectarProtocol/documentation)
 
 #### Artificial Intelligence
 
@@ -217,6 +221,7 @@ Table of Contents
 - [Loopring Launches zkRollup Exchange](https://medium.com/loopring-protocol/loopring-launches-zkrollup-exchange-loopring-io-d6a85beeed21)
 - [Railgun: brings privacy to cryptocurrencies](https://www.railgun.org/#/)
 - [EdgeSwap: Ethereum-based layer 2 trading protocol](https://www.edgeswap.io/)
+- [ZigZag: ZK Rollup order book DEX](https://docs.zigzag.exchange/)
 
 #### Tokens / NFT
 
@@ -229,6 +234,7 @@ Table of Contents
 
 - [Zero Knowledge Message Board by Nulven](https://github.com/nulven/zk-polling)
 - [Semaphore: a privacy gadget built on Ethereum](https://medium.com/coinmonks/to-mixers-and-beyond-presenting-semaphore-a-privacy-gadget-built-on-ethereum-4c8b00857c9b)
+- [zkC.R.E.A.M: Confidential Reliable Ethereum Anonymous Mixer](https://zkcre.am/)
 
 ### Hardware Acceleration
 
