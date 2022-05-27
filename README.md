@@ -310,7 +310,7 @@ Table of Contents
 
 ## Tools
 
-- [Circom](https://docs.circom.io/getting-started/installation/)
+- [Circom: zkSnark circuit compiler](https://github.com/iden3/circom)
 - [Library: ZK-Garage/Plonk](https://github.com/ZK-Garage/plonk)
 - [ZoKrates: a toolbox for zkSNARKs on Ethereum](https://zokrates.github.io/)
 - [zk-ECDSA: zkSNARKs for ECDSA](https://0xparc.org/blog/zk-ecdsa-1)
@@ -323,6 +323,7 @@ Table of Contents
 
 - [ABDK](https://www.abdk.consulting/)
 - [Least Authority](https://leastauthority.com/)
+- [Hashcloak](https://hashcloak.com/)
 
 ## Discussions
 
