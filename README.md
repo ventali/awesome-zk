@@ -311,8 +311,12 @@ Table of Contents
 ## Tools
 
 - [Circom](https://docs.circom.io/getting-started/installation/)
-- [ZoKrates: a toolbox for zkSNARKs on Ethereum](https://zokrates.github.io/)
 - [Library: ZK-Garage/Plonk](https://github.com/ZK-Garage/plonk)
+- [ZoKrates: a toolbox for zkSNARKs on Ethereum](https://zokrates.github.io/)
+- [zk-ECDSA: zkSNARKs for ECDSA](https://0xparc.org/blog/zk-ecdsa-1)
+- [Arkworks: An ecosystem for developing and programming with zkSNARKs](https://github.com/arkworks-rs)
+- [Snarkjs: zkSNARK implementation in JavaScript & WASM](https://github.com/iden3/snarkjs)
+- [zkREPL: an in-browser collaborative development environment for writing ZK circuits](https://zkrepl.dev/)
 - [Picus: Symbolic Virtual Machine for Automated R1CS Verification](https://github.com/Veridise/Picus)
 
 ## Auditing and Consulting
