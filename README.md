@@ -324,6 +324,7 @@ Table of Contents
 - [ABDK](https://www.abdk.consulting/)
 - [Least Authority](https://leastauthority.com/)
 - [Hashcloak](https://hashcloak.com/)
+- [Taurus](https://blog.taurushq.com/zero-knowledge-security/)
 
 ## Discussions
 
