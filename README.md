@@ -180,6 +180,7 @@ Table of Contents
 - [Polygon ID: identity system with programmable privacy](https://polygon.technology/polygon-id/)
 - [Sealance: building financial compliance into digital currencies](https://www.sealance.io/)
 - [Humanode: biologically verified human nodes as a basis for a fair financial system](https://humanode.io/)
+- [Notebook: B2B2C identity protocol](https://notebook-6.gitbook.io/notebook-docs-1.0/)
 
 #### Wallet
 
