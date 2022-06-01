@@ -241,6 +241,7 @@ Table of Contents
 
 - [Hardware for ZKPs & VDFs with Supranational](https://www.supranational.net/) and their [Practical SNARK-based VDF](https://zkproof.org/2021/11/24/practical-snark-based-vdf/)
 - [PipeZK: Accelerating Zero-Knowledge Proof with a Pipelined Architecture](https://www.microsoft.com/en-us/research/uploads/prod/2021/05/isca21_pizk-60a269dbb1310.pdf)
+- [Ingonyama: building a ZK processing unit](https://www.ingonyama.com/) and their [slides](https://drive.google.com/file/d/1VfLrC6CQinM3DCVfaAu_5qTOoc5eigue/view)
 
 ### Trusted Execution Environment (TEE) Based Projects
 - [Oasis Network](https://oasisprotocol.org/)
