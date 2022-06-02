@@ -174,13 +174,14 @@ Table of Contents
 
 #### Identity
 
-- [zkKYC](https://eprint.iacr.org/2021/907.pdf)
+- [zkKYC: A solution concept for KYC without knowing your customer](https://eprint.iacr.org/2021/907.pdf)
 - [zCloak: DeFi KYC Gateway](https://app.zcloak.network/#/transfer)
+- [Notebook: B2B2C identity protocol](https://notebook-6.gitbook.io/notebook-docs-1.0/)
 - [Iden3: future-proof tech stack for self-sovereign identity](https://iden3.io/)
 - [Polygon ID: identity system with programmable privacy](https://polygon.technology/polygon-id/)
 - [Sealance: building financial compliance into digital currencies](https://www.sealance.io/)
 - [Humanode: biologically verified human nodes as a basis for a fair financial system](https://humanode.io/)
-- [Notebook: B2B2C identity protocol](https://notebook-6.gitbook.io/notebook-docs-1.0/)
+- [OutDID: your zero-knowledge, decentralized KYC filter of blockchain users](https://www.outdid.io/)
 
 #### Wallet
 
