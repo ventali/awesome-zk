@@ -24,7 +24,7 @@ Table of Contents
   * [Zk\-VM](#zk-vm)
   * [Zk\-Layer1](#zk-layer1)
   * [Zk\-Layer2](#zk-layer2)
-  * [Basic Computing](#basic-computing)
+  * [Computing Infrastructure](#computing-infrastructure)
   * [Framework / SDK](#framework--sdk)
   * [Zk\-Applications](#zk-applications)
     * [Gaming](#gaming)
@@ -140,9 +140,10 @@ Table of Contents
 - [Orbis: A Layer 2 ZK-Rollup Scaling Solution Built on Cardano](https://linktr.ee/orbisprotocol)
 - [Radius: MEV-resistant ZK-Rollups with Practical VDE (PVDE)](https://ethresear.ch/t/mev-resistant-zk-rollups-with-practical-vde-pvde/12677)
 
-### Basic Computing
+### Computing Infrastructure
 
 - [Risc0: a zero-knowledge verifiable general computing platform](https://github.com/risc0/risc0)
+- [CirC: Compiler Infrastructure for Cryptosystems and Verification](https://github.com/circify/circ)
 
 ### Framework / SDK
 
@@ -224,6 +225,7 @@ Table of Contents
 - [Railgun: brings privacy to cryptocurrencies](https://www.railgun.org/#/)
 - [EdgeSwap: Ethereum-based layer 2 trading protocol](https://www.edgeswap.io/)
 - [ZigZag: ZK Rollup order book DEX](https://docs.zigzag.exchange/)
+- [Mute: a ZK-Rollup based AMM exchange](https://mute.io/)
 
 #### Tokens / NFT
 
@@ -237,6 +239,7 @@ Table of Contents
 - [Zero Knowledge Message Board by Nulven](https://github.com/nulven/zk-polling)
 - [Semaphore: a privacy gadget built on Ethereum](https://medium.com/coinmonks/to-mixers-and-beyond-presenting-semaphore-a-privacy-gadget-built-on-ethereum-4c8b00857c9b)
 - [zkC.R.E.A.M: Confidential Reliable Ethereum Anonymous Mixer](https://zkcre.am/)
+- [Cabal: a Discord bot to create credibly pseudonymous channels based on members' Ethereum activity](https://www.cabal.xyz/)
 
 ### Hardware Acceleration
 
@@ -315,8 +318,9 @@ Table of Contents
 
 - [Circom: zkSnark circuit compiler](https://github.com/iden3/circom)
 - [Library: ZK-Garage/Plonk](https://github.com/ZK-Garage/plonk)
-- [ZoKrates: a toolbox for zkSNARKs on Ethereum](https://zokrates.github.io/)
 - [zk-ECDSA: zkSNARKs for ECDSA](https://0xparc.org/blog/zk-ecdsa-1)
+- [ZoKrates: a toolbox for zkSNARKs on Ethereum](https://zokrates.github.io/)
+- [Ecne: an engine for verifying the soundness of R1CS constraints](https://github.com/franklynwang/EcneProject)
 - [Arkworks: An ecosystem for developing and programming with zkSNARKs](https://github.com/arkworks-rs)
 - [Snarkjs: zkSNARK implementation in JavaScript & WASM](https://github.com/iden3/snarkjs)
 - [zkREPL: an in-browser collaborative development environment for writing ZK circuits](https://zkrepl.dev/)
