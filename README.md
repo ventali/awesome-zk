@@ -98,6 +98,8 @@ Table of Contents
   - [Succinct NIZK without the PCP Theorem](http://www0.cs.ucl.ac.uk/staff/J.Groth/ShortNIZK.pdf) - Groth10
   - [Succinct NIZK without PCP Theorem & Quasi-linear prover time](https://eprint.iacr.org/2012/215.pdf) - GGPR13
   - [Verifiable Delay Function](https://eprint.iacr.org/2018/601.pdf)
+- Circuit optimization
+  - [Circuit Optimisation Handout](https://docs.google.com/document/d/1aZ1GUAJOBFuqD4GOo9HqAH8w4xJo7HM4Bjte5-wkdnU/edit)
 
 ## Layer 2
 
