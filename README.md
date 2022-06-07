@@ -63,6 +63,7 @@ Table of Contents
 ## Basics
 
 - [Prerequisite understanding questions](https://0xparc.notion.site/Prerequisite-understanding-questions-c5ebb77a5cc049f39577ec9a7fb7b22c)
+- [ZKP Overview: History, Proving Systems, Circuits, Compilers](https://zkp.science)
 - Introduction
   - [Understanding ZKPs Through Illustrated Examples](https://blog.goodaudience.com/understanding-zero-knowledge-proofs-through-simple-examples-df673f796d99)
   - [Zero Knowledge Proofs: An Illustrated Primer](https://blog.cryptographyengineering.com/2014/11/27/zero-knowledge-proofs-illustrated-primer/)
@@ -135,6 +136,7 @@ Table of Contents
 
 - [Aztec: Scalable Privacy on Ethereum](https://aztec.network/)
 - [StarkNet](https://starkware.co/starknet/)
+- [zkSync](https://zksync.io)
 - [Polygon Miden](https://polygon.technology/solutions/polygon-miden/)
 - [Polygon Zero](https://polygon.technology/solutions/polygon-zero/)
 - [Taikocha: a zkEVM-based general-purpose zkRollup network](https://taikocha.in/)
@@ -315,6 +317,9 @@ Table of Contents
 ### Slush: Fractal Scaling
 
 - [Slush, a proposal for Fractal scaling](https://hackmd.io/@kalmanlajko/rkgg9GLG5#Our-trustless-bridging)
+
+### DIZK: Distributed ZKP
+- [DIZK: A Distributed Zero Knowledge Proof System](https://eprint.iacr.org/2018/691.pdf)
 
 ## Tools
 
