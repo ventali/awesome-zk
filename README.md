@@ -24,6 +24,7 @@ Table of Contents
   * [Zk\-VM](#zk-vm)
   * [Zk\-Layer1](#zk-layer1)
   * [Zk\-Layer2](#zk-layer2)
+  * [Transpiler](#transpiler)
   * [Computing Infrastructure](#computing-infrastructure)
   * [Framework / SDK](#framework--sdk)
   * [Zk\-Applications](#zk-applications)
@@ -143,6 +144,12 @@ Table of Contents
 - [Twilight: Layer 2 for Private Computation](https://twilight.finance/)
 - [Orbis: A Layer 2 ZK-Rollup Scaling Solution Built on Cardano](https://linktr.ee/orbisprotocol)
 - [Radius: MEV-resistant ZK-Rollups with Practical VDE (PVDE)](https://ethresear.ch/t/mev-resistant-zk-rollups-with-practical-vde-pvde/12677)
+
+### Transpiler
+
+- [Starlight: Generate a zApp from a Solidity contract](https://github.com/EYBlockchain/starlight/blob/master/doc/WRITEUP.md)
+- [Warp: transpile Ethereum smart contracts to Cairo](https://github.com/NethermindEth/warp)
+- [zkay: A Language for Private Smart Contracts on Ethereum](https://github.com/eth-sri/zkay)
 
 ### Computing Infrastructure
 
