@@ -132,6 +132,7 @@ Table of Contents
 - [Mina: a payment system using a succinct blockchain](https://minaprotocol.com/wp-content/uploads/technicalWhitepaper.pdf)
 - [Celo: EVM compatible proof-of-stake layer-1](https://celo.org/) and their [Light clients with ZKPs](https://zeroknowledge.fm/93-2/)
 - [Zeeka Network: a light and scalable blockchain using ZKPs](https://hackmd.io/_Sw5u2lUR9GfBV5vwtoMSQ#Zeeka-Network---Whitepaper)
+- [quark: decentralized state machine with STARK proofs](https://github.com/liamzebedee/quark-blockchain/blob/master/whitepaper.md)
 
 ### Zk-Layer2
 
@@ -179,10 +180,8 @@ Table of Contents
 - [SwapCT: Swap Confidential Transactions for Privacy-Preserving Multi-Token Exchanges](https://eprint.iacr.org/2021/631.pdf)
 - [Zef: Low-latency, Scalable, Private Payments](https://zefchain.com/) and their [Slides](https://zefchain.com/papers/zef_slides.pdf)
 - [Amona: A protocol for private, asset-agnostic digital cash](https://anoma.net/) and their [use of recursive zkps](https://anoma.net/blog/demystifying-recursive-zkp/)
-- [Raze Network: a EVM-compatible privacy protocol](https://www.raze.network/)
 - [Nightfall: Private Token Transaction on Ethereum](https://github.com/EYBlockchain/nightfall/blob/master/doc/whitepaper/nightfall-v1.pdf)
 - [Lelantus](https://lelantus.io/lelantus.pdf)
-- [quark](https://github.com/liamzebedee/quark-blockchain/blob/master/whitepaper.md)
 
 #### Mixer
 
@@ -225,6 +224,7 @@ Table of Contents
 - [Electron Labs: ZK Light Clients for NEAR Rainbow Bridge](https://electronlabs.org/)
 - [Nil Foundation: Mina's bridge to Ethereum](https://nil.foundation/)
 - [ZeroPool: a fully private multi-blockchain solution](https://zeropool.network/)
+- [Raze Network: Multichain Privacy Middleware](https://www.raze.network/)
 
 #### Marketplace
 
