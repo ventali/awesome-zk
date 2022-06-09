@@ -335,10 +335,11 @@ Table of Contents
 - [zk-ECDSA: zkSNARKs for ECDSA](https://0xparc.org/blog/zk-ecdsa-1)
 - [ZoKrates: a toolbox for zkSNARKs on Ethereum](https://zokrates.github.io/)
 - [Ecne: an engine for verifying the soundness of R1CS constraints](https://github.com/franklynwang/EcneProject)
-- [Arkworks: An ecosystem for developing and programming with zkSNARKs](https://github.com/arkworks-rs)
+- [Arkworks: an ecosystem for developing with zkSNARKs](https://github.com/arkworks-rs)
 - [Snarkjs: zkSNARK implementation in JavaScript & WASM](https://github.com/iden3/snarkjs)
-- [zkREPL: an in-browser collaborative development environment for writing ZK circuits](https://zkrepl.dev/)
+- [zkREPL: an in-browser collaborative development environment](https://zkrepl.dev/)
 - [Picus: Symbolic Virtual Machine for Automated R1CS Verification](https://github.com/Veridise/Picus)
+- [Papyrus: A Symbolic Execution Tool for Cairo](https://github.com/Veridise/Papyrus)
 
 ## Auditing and Consulting
 
