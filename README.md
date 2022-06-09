@@ -144,12 +144,15 @@ Table of Contents
 - [Twilight: Layer 2 for Private Computation](https://twilight.finance/)
 - [Orbis: A Layer 2 ZK-Rollup Scaling Solution Built on Cardano](https://linktr.ee/orbisprotocol)
 - [Radius: MEV-resistant ZK-Rollups with Practical VDE (PVDE)](https://ethresear.ch/t/mev-resistant-zk-rollups-with-practical-vde-pvde/12677)
+- [ZEXE on Plasma](https://devpost.com/software/zexe-on-ethereum)
+- [Enigma: Decentralized Computation Platform with Guaranteed Privacy](https://www.enigma.co/enigma_full.pdf)
 
 ### Transpiler
 
 - [Starlight: Generate a zApp from a Solidity contract](https://github.com/EYBlockchain/starlight/blob/master/doc/WRITEUP.md)
 - [Warp: transpile Ethereum smart contracts to Cairo](https://github.com/NethermindEth/warp)
 - [zkay: A Language for Private Smart Contracts on Ethereum](https://github.com/eth-sri/zkay)
+- [ZeeStar: Private Smart Contracts by Homomorphic Encryption and Zero-knowledge Proofs](https://files.sri.inf.ethz.ch/website/papers/sp22-zeestar.pdf)
 
 ### Computing Infrastructure
 
@@ -177,12 +180,18 @@ Table of Contents
 - [Zef: Low-latency, Scalable, Private Payments](https://zefchain.com/) and their [Slides](https://zefchain.com/papers/zef_slides.pdf)
 - [Amona: A protocol for private, asset-agnostic digital cash](https://anoma.net/) and their [use of recursive zkps](https://anoma.net/blog/demystifying-recursive-zkp/)
 - [Raze Network: a EVM-compatible privacy protocol](https://www.raze.network/)
+- [Nightfall: Private Token Transaction on Ethereum](https://github.com/EYBlockchain/nightfall/blob/master/doc/whitepaper/nightfall-v1.pdf)
+- [Lelantus](https://lelantus.io/lelantus.pdf)
 
 #### Mixer
 
 - [CoinJoin: an open-source way to mix bitcoins](https://coinjoin.io/en)
 - [Tornado Cash: Introducing Private Transactions On Ethereum](https://tornado-cash.medium.com/introducing-private-transactions-on-ethereum-now-69fb059a14a1)
 - [Otter Cash: A privacy layer for the Solana ecosystem](https://otter.cash/)
+- [ZETH: Integrating Zerocash on Ethereum](https://arxiv.org/pdf/1904.00905.pdf)
+- [Mobius: Trustless Tumbling for Transaction Privacy](https://eprint.iacr.org/2017/881.pdf)
+- [TumbleBit](https://eprint.iacr.org/2016/575)
+- [Mixcoin: Anonymity for Bitcoin with accountable mixes](https://eprint.iacr.org/2014/077.pdf)
 
 #### Identity
 
@@ -201,6 +210,8 @@ Table of Contents
 - [Numio: Layer 2 focused wallet built on zkSync](https://www.numio.one/)
 - [Zkopru: Affordable Ethereum Privacy Wallet](https://zkopru.network/)
 - [Bunkyr: zero‑knowledge security without seed phrases or backup codes](https://bunkyr.com/)
+- [Wasabi Wallet](https://wasabiwallet.io)
+- [CashShuffle](https://cashshuffle.com)
 
 #### Crosschain
 
@@ -327,6 +338,10 @@ Table of Contents
 
 ### DIZK: Distributed ZKP
 - [DIZK: A Distributed Zero Knowledge Proof System](https://eprint.iacr.org/2018/691.pdf)
+
+### Network Privacy
+- [Dandelion: Redesigning the Bitcoin Network for Anonymity](https://arxiv.org/pdf/1701.04439.pdf)
+- [A Flexible Network Approach to Privacy of Blockchain Transactions](https://arxiv.org/pdf/1807.11338.pdf)
 
 ## Tools
 
