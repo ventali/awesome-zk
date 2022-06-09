@@ -182,6 +182,7 @@ Table of Contents
 - [Raze Network: a EVM-compatible privacy protocol](https://www.raze.network/)
 - [Nightfall: Private Token Transaction on Ethereum](https://github.com/EYBlockchain/nightfall/blob/master/doc/whitepaper/nightfall-v1.pdf)
 - [Lelantus](https://lelantus.io/lelantus.pdf)
+- [quark](https://github.com/liamzebedee/quark-blockchain/blob/master/whitepaper.md)
 
 #### Mixer
 
