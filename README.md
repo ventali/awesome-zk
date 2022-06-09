@@ -146,7 +146,6 @@ Table of Contents
 - [Orbis: A Layer 2 ZK-Rollup Scaling Solution Built on Cardano](https://linktr.ee/orbisprotocol)
 - [Radius: MEV-resistant ZK-Rollups with Practical VDE (PVDE)](https://ethresear.ch/t/mev-resistant-zk-rollups-with-practical-vde-pvde/12677)
 - [ZEXE on Plasma](https://devpost.com/software/zexe-on-ethereum)
-- [Enigma: Decentralized Computation Platform with Guaranteed Privacy](https://www.enigma.co/enigma_full.pdf)
 
 ### Transpiler
 
@@ -181,7 +180,7 @@ Table of Contents
 - [Zef: Low-latency, Scalable, Private Payments](https://zefchain.com/) and their [Slides](https://zefchain.com/papers/zef_slides.pdf)
 - [Amona: A protocol for private, asset-agnostic digital cash](https://anoma.net/) and their [use of recursive zkps](https://anoma.net/blog/demystifying-recursive-zkp/)
 - [Nightfall: Private Token Transaction on Ethereum](https://github.com/EYBlockchain/nightfall/blob/master/doc/whitepaper/nightfall-v1.pdf)
-- [Lelantus](https://lelantus.io/lelantus.pdf)
+- [Lelantus: transaction confidentiality and anonymity](https://lelantus.io/lelantus.pdf)
 
 #### Mixer
 
@@ -190,7 +189,7 @@ Table of Contents
 - [Otter Cash: A privacy layer for the Solana ecosystem](https://otter.cash/)
 - [ZETH: Integrating Zerocash on Ethereum](https://arxiv.org/pdf/1904.00905.pdf)
 - [Mobius: Trustless Tumbling for Transaction Privacy](https://eprint.iacr.org/2017/881.pdf)
-- [TumbleBit](https://eprint.iacr.org/2016/575)
+- [TumbleBit: An Untrusted Bitcoin-Compatible Anonymous Payment Hub](https://eprint.iacr.org/2016/575)
 - [Mixcoin: Anonymity for Bitcoin with accountable mixes](https://eprint.iacr.org/2014/077.pdf)
 
 #### Identity
@@ -210,8 +209,8 @@ Table of Contents
 - [Numio: Layer 2 focused wallet built on zkSync](https://www.numio.one/)
 - [Zkopru: Affordable Ethereum Privacy Wallet](https://zkopru.network/)
 - [Bunkyr: zero‑knowledge security without seed phrases or backup codes](https://bunkyr.com/)
-- [Wasabi Wallet](https://wasabiwallet.io)
-- [CashShuffle](https://cashshuffle.com)
+- [Wasabi Wallet: non-custodial, privacy-focused Bitcoin wallet](https://wasabiwallet.io)
+- [CashShuffle: decentralized privacy protocol for Bitcoin Cash](https://cashshuffle.com)
 
 #### Crosschain
 
