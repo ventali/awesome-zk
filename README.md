@@ -188,6 +188,7 @@ Table of Contents
 - [Mobius: Trustless Tumbling for Transaction Privacy](https://eprint.iacr.org/2017/881.pdf)
 - [TumbleBit: An Untrusted Bitcoin-Compatible Anonymous Payment Hub](https://eprint.iacr.org/2016/575)
 - [Mixcoin: Anonymity for Bitcoin with accountable mixes](https://eprint.iacr.org/2014/077.pdf)
+- [CashShuffle: background coin shuffling for Bitcoin Cash](https://cashshuffle.com)
 
 #### Identity
 
@@ -199,7 +200,6 @@ Table of Contents
 - [Sealance: building financial compliance into digital currencies](https://www.sealance.io/)
 - [Humanode: biologically verified human nodes as a basis for a fair financial system](https://humanode.io/)
 - [OutDID: your zero-knowledge, decentralized KYC filter of blockchain users](https://www.outdid.io/)
-- [CashShuffle: background coin shuffling for Bitcoin Cash](https://cashshuffle.com)
 
 #### Wallet
 
