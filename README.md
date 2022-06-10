@@ -152,7 +152,6 @@ Table of Contents
 - [Starlight: Generate a zApp from a Solidity contract](https://github.com/EYBlockchain/starlight/blob/master/doc/WRITEUP.md)
 - [Warp: transpile Ethereum smart contracts to Cairo](https://github.com/NethermindEth/warp)
 - [zkay: A Language for Private Smart Contracts on Ethereum](https://github.com/eth-sri/zkay)
-- [ZeeStar: Private Smart Contracts by Homomorphic Encryption and Zero-knowledge Proofs](https://files.sri.inf.ethz.ch/website/papers/sp22-zeestar.pdf)
 
 ### Computing Infrastructure
 
@@ -179,15 +178,13 @@ Table of Contents
 - [SwapCT: Swap Confidential Transactions for Privacy-Preserving Multi-Token Exchanges](https://eprint.iacr.org/2021/631.pdf)
 - [Zef: Low-latency, Scalable, Private Payments](https://zefchain.com/) and their [Slides](https://zefchain.com/papers/zef_slides.pdf)
 - [Amona: A protocol for private, asset-agnostic digital cash](https://anoma.net/) and their [use of recursive zkps](https://anoma.net/blog/demystifying-recursive-zkp/)
-- [Nightfall: Private Token Transaction on Ethereum](https://github.com/EYBlockchain/nightfall/blob/master/doc/whitepaper/nightfall-v1.pdf)
-- [Lelantus: transaction confidentiality and anonymity](https://lelantus.io/lelantus.pdf)
+- [ZETH: Integrating Zerocash on Ethereum](https://github.com/clearmatics/zeth)
 
 #### Mixer
 
 - [CoinJoin: an open-source way to mix bitcoins](https://coinjoin.io/en)
 - [Tornado Cash: Introducing Private Transactions On Ethereum](https://tornado-cash.medium.com/introducing-private-transactions-on-ethereum-now-69fb059a14a1)
 - [Otter Cash: A privacy layer for the Solana ecosystem](https://otter.cash/)
-- [ZETH: Integrating Zerocash on Ethereum](https://arxiv.org/pdf/1904.00905.pdf)
 - [Mobius: Trustless Tumbling for Transaction Privacy](https://eprint.iacr.org/2017/881.pdf)
 - [TumbleBit: An Untrusted Bitcoin-Compatible Anonymous Payment Hub](https://eprint.iacr.org/2016/575)
 - [Mixcoin: Anonymity for Bitcoin with accountable mixes](https://eprint.iacr.org/2014/077.pdf)
@@ -202,6 +199,7 @@ Table of Contents
 - [Sealance: building financial compliance into digital currencies](https://www.sealance.io/)
 - [Humanode: biologically verified human nodes as a basis for a fair financial system](https://humanode.io/)
 - [OutDID: your zero-knowledge, decentralized KYC filter of blockchain users](https://www.outdid.io/)
+- [CashShuffle: background coin shuffling for Bitcoin Cash](https://cashshuffle.com)
 
 #### Wallet
 
@@ -210,7 +208,6 @@ Table of Contents
 - [Zkopru: Affordable Ethereum Privacy Wallet](https://zkopru.network/)
 - [Bunkyr: zero‑knowledge security without seed phrases or backup codes](https://bunkyr.com/)
 - [Wasabi Wallet: non-custodial, privacy-focused Bitcoin wallet](https://wasabiwallet.io)
-- [CashShuffle: decentralized privacy protocol for Bitcoin Cash](https://cashshuffle.com)
 
 #### Crosschain
 
