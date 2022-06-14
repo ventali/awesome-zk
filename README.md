@@ -64,6 +64,8 @@ Table of Contents
 * [Auditing and Consulting](#auditing-and-consulting)
 * [Discussions](#discussions)
 * [Communities](#communities)
+* [Programming Languages](#programming-languages)
+* [Programming Libraries](#programming-libraries)
 
 ## Basics
 
@@ -388,3 +390,30 @@ Table of Contents
 - [0xPARC: Program for Applied Research in Cryptography](https://0xparc.org/blog/program-for-applied-research)
 - [ZPrize: accelerate zero-knowledge cryptography](https://www.zprize.io/)
 - [zkMesh: a monthly newsletter](https://zkmesh.substack.com/)
+
+## Programming Languages 
+
+| Name  | Ecosystem | Type | GitHub | Documentation | 
+| ------------- |:-------------:|:-------------:|:-------------:|:-------------:|
+| Cairo     | StarkNet    | STARK-provable programs for general computation  | https://github.com/starkware-libs/cairo-lang | https://cairo-lang.org/docs/ | 
+| ZoKrates     | Python subset   | R1CS SNARKs Frontend | https://github.com/Zokrates/ZoKrates | https://zokrates.github.io |
+| Leo      | Aleo     | Functional, statically-typed  | https://github.com/AleoHQ/leo | https://developer.aleo.org/developer/language/layout/ |
+| Circom | Typed JS | Circuit compiler   | https://github.com/iden3/circom | https://docs.circom.io |
+| Noir | Aztec | Private contract language  | https://github.com/noir-lang/noir | https://noir-lang.github.io/book/index.html
+| Snarky | Mina | R1CS SNARKs OCaml frontend | https://github.com/o1-labs/snarky | 
+| Zinc | zkSync | Turing-complete smart contract | https://github.com/matter-labs/zinc | 
+
+## Programming Libraries 
+
+| Name  | Host Language | Features | GitHub |
+| ------------- |:-------------:|:-------------:|:-------------:|
+| Libsnark     | C++    | General-purpose proof systems, gadget libraries | https://github.com/scipr-lab/libsnark |
+| Bellman     | Rust   | Circuit traits, primitive structures, basic gadget implementations | https://github.com/zkcrypto/bellman |
+| gnark      | Go     | High level API with frontend and backend to design circuits | https://github.com/ConsenSys/gnark| 
+| Bulletproofs | Rust | Single-party proofs, online multi-party computation, R1CS  | https://github.com/dalek-cryptography/bulletproofs |
+| Circomlib | Javascript | Circom templates | https://github.com/iden3/circomlib |
+| Arkworks | Rust | R1CS, curves, Groth16, finite field, curves | https://github.com/arkworks-rs | 
+| libSTARK | C++ | ZK-STARK library | https://github.com/elibensasson/libSTARK | 
+|DIZK | Java | Distributed polynomial interpolation, Lagrange polynomials, multi-scalar multiplication | https://github.com/scipr-lab/dizk | 
+| wasmsnark | Javascript | Generate zkSnark proofs and verify from web browser | https://github.com/iden3/wasmsnark | 
+| libiop | C++ | IOP-based zkSNARKs | https://github.com/scipr-lab/libiop | 
