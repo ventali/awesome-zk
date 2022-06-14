@@ -400,8 +400,12 @@ Table of Contents
 | Leo      | Aleo     | Functional, statically-typed  | https://github.com/AleoHQ/leo | https://developer.aleo.org/developer/language/layout/ |
 | Circom | Typed JS | Circuit compiler   | https://github.com/iden3/circom | https://docs.circom.io |
 | Noir | Aztec | Private contract language  | https://github.com/noir-lang/noir | https://noir-lang.github.io/book/index.html
-| Snarky | Mina | R1CS SNARKs OCaml frontend | https://github.com/o1-labs/snarky | 
-| Zinc | zkSync | Turing-complete smart contract | https://github.com/matter-labs/zinc | 
+| Snarky | Mina | R1CS SNARKs OCaml frontend | https://github.com/o1-labs/snarky | / | 
+| Zinc | zkSync | Turing-complete smart contract | https://github.com/matter-labs/zinc | / | 
+| Juxiv | Anoma | Functional | https://github.com/anoma/juvix | https://juvix.readthedocs.io/en/latest/index.html | 
+| ZKPDL | / | High-level | https://github.com/brownie/cashlib | http://cs.brown.edu/research/brownie/usenix10.pdf |
+| zkVM | / | Stack machine with a string of bytecode representing ZkVM instructions | https://github.com/stellar/slingshot/tree/main/zkvm | https://github.com/stellar/slingshot/files/3164245/zkvm-whitepaper-2019-05-09.pdf | 
+
 
 ## Programming Libraries 
 
