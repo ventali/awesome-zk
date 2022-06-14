@@ -30,6 +30,7 @@ Table of Contents
   * [Zk\-Applications](#zk-applications)
     * [Gaming](#gaming)
     * [Payment](#payment)
+    * [Confidential Transactions](#confidential-transactions)
     * [Mixer](#mixer)
     * [Identity](#identity)
     * [Wallet](#wallet)
@@ -56,6 +57,9 @@ Table of Contents
   * [Anonymous Zether](#anonymous-zether)
   * [Quisquis](#quisquis)
   * [Zk\-VM](#zk-vm-1)
+  * [Slush: Fractal Scaling](#slush-fractal-scaling)
+  * [DIZK: Distributed ZKP](#dizk-distributed-zkp)
+  * [Network Privacy](#network-privacy)
 * [Tools](#tools)
 * [Auditing and Consulting](#auditing-and-consulting)
 * [Discussions](#discussions)
@@ -179,6 +183,11 @@ Table of Contents
 - [Zef: Low-latency, Scalable, Private Payments](https://zefchain.com/) and their [Slides](https://zefchain.com/papers/zef_slides.pdf)
 - [Amona: A protocol for private, asset-agnostic digital cash](https://anoma.net/) and their [use of recursive zkps](https://anoma.net/blog/demystifying-recursive-zkp/)
 - [ZETH: Integrating Zerocash on Ethereum](https://github.com/clearmatics/zeth)
+
+#### Confidential Transactions
+
+- [Nightfall: Private Token Transaction on Ethereum](https://github.com/EYBlockchain/nightfall/blob/master/doc/whitepaper/nightfall-v1.pdf)
+- [Lelantus: transaction confidentiality and anonymity](https://lelantus.io)
 
 #### Mixer
 
