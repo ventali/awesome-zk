@@ -106,7 +106,6 @@ Table of Contents
   - [Verifiable Delay Function](https://eprint.iacr.org/2018/601.pdf)
 - Circuit optimization
   - [Circuit Optimisation Handout](https://docs.google.com/document/d/1aZ1GUAJOBFuqD4GOo9HqAH8w4xJo7HM4Bjte5-wkdnU/edit)
-
 - Introduction to Layer 2
   - [An Incomplete Guide to Rollups](https://vitalik.ca/general/2021/01/05/rollup.html)
   - [Why rollups + data shards are the only sustainable solution for high scalability](https://polynya.medium.com/why-rollups-data-shards-are-the-only-sustainable-solution-for-high-scalability-c9aabd6fbb48)
