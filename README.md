@@ -30,7 +30,6 @@ Table of Contents
   * [Zk\-Applications](#zk-applications)
     * [Gaming](#gaming)
     * [Payment](#payment)
-    * [Confidential Transactions](#confidential-transactions)
     * [Mixer](#mixer)
     * [Identity](#identity)
     * [Wallet](#wallet)
@@ -43,6 +42,8 @@ Table of Contents
     * [Voting / Participation](#voting--participation)
   * [Hardware Acceleration](#hardware-acceleration)
   * [Trusted Execution Environment (TEE) Based Projects](#trusted-execution-environment-tee-based-projects)
+  * [Programming Languages](#programming-languages)
+  * [Programming Libraries](#programming-libraries)
 * [Advanced Topics](#advanced-topics)
   * [PLONK](#plonk)
   * [Groth16](#groth16)
@@ -64,8 +65,6 @@ Table of Contents
 * [Auditing and Consulting](#auditing-and-consulting)
 * [Discussions](#discussions)
 * [Communities](#communities)
-* [Programming Languages](#programming-languages)
-* [Programming Libraries](#programming-libraries)
 
 ## Basics
 
@@ -139,6 +138,7 @@ Table of Contents
 - [Celo: EVM compatible proof-of-stake layer-1](https://celo.org/) and their [Light clients with ZKPs](https://zeroknowledge.fm/93-2/)
 - [Zeeka Network: a light and scalable blockchain using ZKPs](https://hackmd.io/_Sw5u2lUR9GfBV5vwtoMSQ#Zeeka-Network---Whitepaper)
 - [quark: decentralized state machine with STARK proofs](https://github.com/liamzebedee/quark-blockchain/blob/master/whitepaper.md)
+- [Lelantus: transaction confidentiality and anonymity](https://lelantus.io)
 
 ### Zk-Layer2
 
@@ -152,6 +152,7 @@ Table of Contents
 - [Orbis: A Layer 2 ZK-Rollup Scaling Solution Built on Cardano](https://linktr.ee/orbisprotocol)
 - [Radius: MEV-resistant ZK-Rollups with Practical VDE (PVDE)](https://ethresear.ch/t/mev-resistant-zk-rollups-with-practical-vde-pvde/12677)
 - [ZEXE on Plasma](https://devpost.com/software/zexe-on-ethereum)
+- [Nightfall: Private Token Transaction on Ethereum](https://github.com/EYBlockchain/nightfall/blob/master/doc/whitepaper/nightfall-v1.pdf) 
 
 ### Transpiler
 
@@ -185,11 +186,6 @@ Table of Contents
 - [Zef: Low-latency, Scalable, Private Payments](https://zefchain.com/) and their [Slides](https://zefchain.com/papers/zef_slides.pdf)
 - [Amona: A protocol for private, asset-agnostic digital cash](https://anoma.net/) and their [use of recursive zkps](https://anoma.net/blog/demystifying-recursive-zkp/)
 - [ZETH: Integrating Zerocash on Ethereum](https://github.com/clearmatics/zeth)
-
-#### Confidential Transactions
-
-- [Nightfall: Private Token Transaction on Ethereum](https://github.com/EYBlockchain/nightfall/blob/master/doc/whitepaper/nightfall-v1.pdf)
-- [Lelantus: transaction confidentiality and anonymity](https://lelantus.io)
 
 #### Mixer
 
@@ -282,6 +278,36 @@ Table of Contents
 - [Oasis Network](https://oasisprotocol.org/)
 - [Secret Network](https://scrt.network/)
 - [Obscuro](https://www.obscu.ro/)
+
+### Programming Languages 
+
+| Name  | Ecosystem | Type | GitHub | Documentation | 
+| ------------- |:-------------:|:-------------:|:-------------:|:-------------:|
+| Cairo     | StarkNet    | STARK-provable programs for general computation  | https://github.com/starkware-libs/cairo-lang | https://cairo-lang.org/docs/ | 
+| ZoKrates     | Python subset   | R1CS SNARKs Frontend | https://github.com/Zokrates/ZoKrates | https://zokrates.github.io |
+| Leo      | Aleo     | Functional, statically-typed  | https://github.com/AleoHQ/leo | https://developer.aleo.org/developer/language/layout/ |
+| Circom | Typed JS | Circuit compiler   | https://github.com/iden3/circom | https://docs.circom.io |
+| Noir | Aztec | Private contract language  | https://github.com/noir-lang/noir | https://noir-lang.github.io/book/index.html
+| Snarky | Mina | R1CS SNARKs OCaml frontend | https://github.com/o1-labs/snarky | / | 
+| Zinc | zkSync | Turing-complete smart contract | https://github.com/matter-labs/zinc | / | 
+| Juxiv | Anoma | Functional | https://github.com/anoma/juvix | https://juvix.readthedocs.io/en/latest/index.html | 
+| ZKPDL | / | High-level | https://github.com/brownie/cashlib | http://cs.brown.edu/research/brownie/usenix10.pdf |
+| zkVM | / | Stack machine with a string of bytecode representing ZkVM instructions | https://github.com/stellar/slingshot/tree/main/zkvm | https://github.com/stellar/slingshot/files/3164245/zkvm-whitepaper-2019-05-09.pdf | 
+
+### Programming Libraries 
+
+| Name  | Host Language | Features | GitHub |
+| ------------- |:-------------:|:-------------:|:-------------:|
+| Libsnark     | C++    | General-purpose proof systems, gadget libraries | https://github.com/scipr-lab/libsnark |
+| Bellman     | Rust   | Circuit traits, primitive structures, basic gadget implementations | https://github.com/zkcrypto/bellman |
+| gnark      | Go     | High level API with frontend and backend to design circuits | https://github.com/ConsenSys/gnark| 
+| Bulletproofs | Rust | Single-party proofs, online multi-party computation, R1CS  | https://github.com/dalek-cryptography/bulletproofs |
+| Circomlib | Javascript | Circom templates | https://github.com/iden3/circomlib |
+| Arkworks | Rust | R1CS, curves, Groth16, finite field, curves | https://github.com/arkworks-rs | 
+| libSTARK | C++ | ZK-STARK library | https://github.com/elibensasson/libSTARK | 
+|DIZK | Java | Distributed polynomial interpolation, Lagrange polynomials, multi-scalar multiplication | https://github.com/scipr-lab/dizk | 
+| wasmsnark | Javascript | Generate zkSnark proofs and verify from web browser | https://github.com/iden3/wasmsnark | 
+| libiop | C++ | IOP-based zkSNARKs | https://github.com/scipr-lab/libiop | 
 
 ## Advanced Topics
 
@@ -390,34 +416,3 @@ Table of Contents
 - [0xPARC: Program for Applied Research in Cryptography](https://0xparc.org/blog/program-for-applied-research)
 - [ZPrize: accelerate zero-knowledge cryptography](https://www.zprize.io/)
 - [zkMesh: a monthly newsletter](https://zkmesh.substack.com/)
-
-## Programming Languages 
-
-| Name  | Ecosystem | Type | GitHub | Documentation | 
-| ------------- |:-------------:|:-------------:|:-------------:|:-------------:|
-| Cairo     | StarkNet    | STARK-provable programs for general computation  | https://github.com/starkware-libs/cairo-lang | https://cairo-lang.org/docs/ | 
-| ZoKrates     | Python subset   | R1CS SNARKs Frontend | https://github.com/Zokrates/ZoKrates | https://zokrates.github.io |
-| Leo      | Aleo     | Functional, statically-typed  | https://github.com/AleoHQ/leo | https://developer.aleo.org/developer/language/layout/ |
-| Circom | Typed JS | Circuit compiler   | https://github.com/iden3/circom | https://docs.circom.io |
-| Noir | Aztec | Private contract language  | https://github.com/noir-lang/noir | https://noir-lang.github.io/book/index.html
-| Snarky | Mina | R1CS SNARKs OCaml frontend | https://github.com/o1-labs/snarky | / | 
-| Zinc | zkSync | Turing-complete smart contract | https://github.com/matter-labs/zinc | / | 
-| Juxiv | Anoma | Functional | https://github.com/anoma/juvix | https://juvix.readthedocs.io/en/latest/index.html | 
-| ZKPDL | / | High-level | https://github.com/brownie/cashlib | http://cs.brown.edu/research/brownie/usenix10.pdf |
-| zkVM | / | Stack machine with a string of bytecode representing ZkVM instructions | https://github.com/stellar/slingshot/tree/main/zkvm | https://github.com/stellar/slingshot/files/3164245/zkvm-whitepaper-2019-05-09.pdf | 
-
-
-## Programming Libraries 
-
-| Name  | Host Language | Features | GitHub |
-| ------------- |:-------------:|:-------------:|:-------------:|
-| Libsnark     | C++    | General-purpose proof systems, gadget libraries | https://github.com/scipr-lab/libsnark |
-| Bellman     | Rust   | Circuit traits, primitive structures, basic gadget implementations | https://github.com/zkcrypto/bellman |
-| gnark      | Go     | High level API with frontend and backend to design circuits | https://github.com/ConsenSys/gnark| 
-| Bulletproofs | Rust | Single-party proofs, online multi-party computation, R1CS  | https://github.com/dalek-cryptography/bulletproofs |
-| Circomlib | Javascript | Circom templates | https://github.com/iden3/circomlib |
-| Arkworks | Rust | R1CS, curves, Groth16, finite field, curves | https://github.com/arkworks-rs | 
-| libSTARK | C++ | ZK-STARK library | https://github.com/elibensasson/libSTARK | 
-|DIZK | Java | Distributed polynomial interpolation, Lagrange polynomials, multi-scalar multiplication | https://github.com/scipr-lab/dizk | 
-| wasmsnark | Javascript | Generate zkSnark proofs and verify from web browser | https://github.com/iden3/wasmsnark | 
-| libiop | C++ | IOP-based zkSNARKs | https://github.com/scipr-lab/libiop | 
