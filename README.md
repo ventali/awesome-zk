@@ -19,7 +19,6 @@ Table of Contents
 =================
 
 * [Basics](#basics)
-* [Layer 2](#layer-2)
 * [Projects](#projects)
   * [Zk\-VM](#zk-vm)
   * [Zk\-Layer1](#zk-layer1)
@@ -42,8 +41,8 @@ Table of Contents
     * [Voting / Participation](#voting--participation)
   * [Hardware Acceleration](#hardware-acceleration)
   * [Trusted Execution Environment (TEE) Based Projects](#trusted-execution-environment-tee-based-projects)
-  * [Programming Languages](#programming-languages)
-  * [Programming Libraries](#programming-libraries)
+* [Programming Languages](#programming-languages)
+* [Programming Libraries](#programming-libraries)
 * [Advanced Topics](#advanced-topics)
   * [PLONK](#plonk)
   * [Groth16](#groth16)
@@ -108,13 +107,12 @@ Table of Contents
 - Circuit optimization
   - [Circuit Optimisation Handout](https://docs.google.com/document/d/1aZ1GUAJOBFuqD4GOo9HqAH8w4xJo7HM4Bjte5-wkdnU/edit)
 
-## Layer 2
-
-- [An Incomplete Guide to Rollups](https://vitalik.ca/general/2021/01/05/rollup.html)
-- [Why rollups + data shards are the only sustainable solution for high scalability](https://polynya.medium.com/why-rollups-data-shards-are-the-only-sustainable-solution-for-high-scalability-c9aabd6fbb48)
-- [Introducing zkSync: the missing link to mass adoption of Ethereum](https://medium.com/matter-labs/introducing-zk-sync-the-missing-link-to-mass-adoption-of-ethereum-14c9cea83f58)
-- [Validity Proofs vs. Fraud Proofs](https://starkware.medium.com/validity-proofs-vs-fraud-proofs-4ef8b4d3d87a)
-- [A Pre-consensus Mechanism by Leohio](https://ethresear.ch/t/a-pre-consensus-mechanism-to-secure-instant-finality-and-long-interval-in-zkrollup/8749)
+- Introduction to Layer 2
+  - [An Incomplete Guide to Rollups](https://vitalik.ca/general/2021/01/05/rollup.html)
+  - [Why rollups + data shards are the only sustainable solution for high scalability](https://polynya.medium.com/why-rollups-data-shards-are-the-only-sustainable-solution-for-high-scalability-c9aabd6fbb48)
+  - [Introducing zkSync: the missing link to mass adoption of Ethereum](https://medium.com/matter-labs/introducing-zk-sync-the-missing-link-to-mass-adoption-of-ethereum-14c9cea83f58)
+  - [Validity Proofs vs. Fraud Proofs](https://starkware.medium.com/validity-proofs-vs-fraud-proofs-4ef8b4d3d87a)
+  - [A Pre-consensus Mechanism by Leohio](https://ethresear.ch/t/a-pre-consensus-mechanism-to-secure-instant-finality-and-long-interval-in-zkrollup/8749)
 
 ## Projects
 
@@ -279,7 +277,7 @@ Table of Contents
 - [Secret Network](https://scrt.network/)
 - [Obscuro](https://www.obscu.ro/)
 
-### Programming Languages 
+## Programming Languages 
 
 | Name  | Ecosystem | Type | GitHub | Documentation | 
 | ------------- |:-------------:|:-------------:|:-------------:|:-------------:|
@@ -294,7 +292,7 @@ Table of Contents
 | ZKPDL | / | High-level | https://github.com/brownie/cashlib | http://cs.brown.edu/research/brownie/usenix10.pdf |
 | zkVM | / | Stack machine with a string of bytecode representing ZkVM instructions | https://github.com/stellar/slingshot/tree/main/zkvm | https://github.com/stellar/slingshot/files/3164245/zkvm-whitepaper-2019-05-09.pdf | 
 
-### Programming Libraries 
+## Programming Libraries 
 
 | Name  | Host Language | Features | GitHub |
 | ------------- |:-------------:|:-------------:|:-------------:|
