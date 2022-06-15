@@ -140,15 +140,15 @@ Table of Contents
 ### Zk-Layer2
 
 - [Aztec: Scalable Privacy on Ethereum](https://aztec.network/)
-- [StarkNet](https://starkware.co/starknet/)
-- [zkSync](https://zksync.io)
-- [Polygon Miden](https://polygon.technology/solutions/polygon-miden/)
-- [Polygon Zero](https://polygon.technology/solutions/polygon-zero/)
+- [StarkNet: permissionless decentralized ZK-Rollup](https://starkware.co/starknet/)
+- [zkSync: an EVM-compatible ZK Rollup](https://zksync.io)
+- [Polygon Miden: a STARK-based, Zero-Knowledge rollup](https://polygon.technology/solutions/polygon-miden/)
+- [Polygon Zero: a layer 2 scaling solution for Ethereum](https://polygon.technology/solutions/polygon-zero/)
 - [Taikocha: a zkEVM-based general-purpose zkRollup network](https://taikocha.in/)
 - [Twilight: Layer 2 for Private Computation](https://twilight.finance/)
 - [Orbis: A Layer 2 ZK-Rollup Scaling Solution Built on Cardano](https://linktr.ee/orbisprotocol)
 - [Radius: MEV-resistant ZK-Rollups with Practical VDE (PVDE)](https://ethresear.ch/t/mev-resistant-zk-rollups-with-practical-vde-pvde/12677)
-- [ZEXE on Plasma](https://devpost.com/software/zexe-on-ethereum)
+- [ZEXE on Plasma: An implementation of ZEXE on Ethereum](https://devpost.com/software/zexe-on-ethereum)
 - [Nightfall: Private Token Transaction on Ethereum](https://github.com/EYBlockchain/nightfall/blob/master/doc/whitepaper/nightfall-v1.pdf) 
 
 ### Transpiler
