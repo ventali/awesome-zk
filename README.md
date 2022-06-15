@@ -225,6 +225,7 @@ Table of Contents
 - [Nil Foundation: Mina's bridge to Ethereum](https://nil.foundation/)
 - [ZeroPool: a fully private multi-blockchain solution](https://zeropool.network/)
 - [Raze Network: Multichain Privacy Middleware](https://www.raze.network/)
+- [Zendoo: A zk-SNARK enabled verifiable cross-chain transfer protocol](https://www.horizen.io/zendoo/) and their [whitepaper](https://www.horizen.io/assets/files/Horizen-Sidechain-Zendoo-A_zk-SNARK-Verifiable-Cross-Chain-Transfer-Protocol.pdf)
 
 #### Marketplace
 
