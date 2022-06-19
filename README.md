@@ -164,7 +164,7 @@ Table of Contents
 
 ### Framework / SDK
 
-- [Espresso Systems](http://espressosys.com)
+- [Espresso Systems: single-shot scaling & privacy solution](http://espressosys.com)
 - [Light Protocol: DeFi Privacy Infrastructure that Scales](https://www.lightprotocol.com/)
 
 ### Zk-Applications
@@ -193,17 +193,19 @@ Table of Contents
 - [TumbleBit: An Untrusted Bitcoin-Compatible Anonymous Payment Hub](https://eprint.iacr.org/2016/575)
 - [Mixcoin: Anonymity for Bitcoin with accountable mixes](https://eprint.iacr.org/2014/077.pdf)
 - [CashShuffle: background coin shuffling for Bitcoin Cash](https://cashshuffle.com)
+- [MicroMix: A noncustodial Ethereum mixer](https://github.com/privacy-scaling-explorations/mixer)
 
 #### Identity
 
 - [zkKYC: A solution concept for KYC without knowing your customer](https://eprint.iacr.org/2021/907.pdf)
-- [zCloak: DeFi KYC Gateway](https://app.zcloak.network/#/transfer)
-- [Notebook: B2B2C identity protocol](https://notebook-6.gitbook.io/notebook-docs-1.0/)
+- [zkID.app: A Privacy-Preserving Passport to the Web 3.0 World](https://zkid.app/)
+- [Notebook: a zero-knowledge B2B2C identity protocol](https://notebook-6.gitbook.io/notebook-docs-1.0/)
 - [Iden3: future-proof tech stack for self-sovereign identity](https://iden3.io/)
 - [Polygon ID: identity system with programmable privacy](https://polygon.technology/polygon-id/)
 - [Sealance: building financial compliance into digital currencies](https://www.sealance.io/)
-- [Humanode: biologically verified human nodes as a basis for a fair financial system](https://humanode.io/)
+- [Humanode: biologically verified human nodes for a fair financial system](https://humanode.io/)
 - [OutDID: your zero-knowledge, decentralized KYC filter of blockchain users](https://www.outdid.io/)
+- [Interep: verify users' reputation without exposing their identities](https://github.com/interep-project)
 
 #### Wallet
 
