@@ -62,6 +62,7 @@ Table of Contents
   * [Network Privacy](#network-privacy)
 * [Tools](#tools)
 * [Auditing and Consulting](#auditing-and-consulting)
+* [Books](#books)
 * [Discussions](#discussions)
 * [Communities](#communities)
 
@@ -398,6 +399,11 @@ Table of Contents
 - [Hashcloak](https://hashcloak.com/)
 - [Taurus](https://blog.taurushq.com/zero-knowledge-security/)
 
+## Books
+
+- [Proofs, Arguments, and Zero-Knowledge](https://people.cs.georgetown.edu/jthaler/ProofsArgsAndZK.pdf) (Justin Thaler, 2022)
+- [A Graduate Course in Applied Cryptography](http://toc.cryptobook.us/book.pdf) (Dan Boneh and Victor Shoup, 2020)
+
 ## Discussions
 
 - [Why Dark Forest Matters: A Good Game, not a Crypto Game](https://mirror.xyz/omarmezenner.eth/gFCfCVwTfUU91SDXeROEaDQe4984nbFBIgv9QSY0r1U)
@@ -416,3 +422,4 @@ Table of Contents
 - [0xPARC: Program for Applied Research in Cryptography](https://0xparc.org/blog/program-for-applied-research)
 - [ZPrize: accelerate zero-knowledge cryptography](https://www.zprize.io/)
 - [zkMesh: a monthly newsletter](https://zkmesh.substack.com/)
+- [ZKHack Discord](https://discord.com/invite/tHXyEbEqVN): Read, discuss, and implement ZK in Rust/Python (Fridays at 11:30ET)
