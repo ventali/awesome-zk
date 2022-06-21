@@ -398,6 +398,7 @@ Table of Contents
 - [Least Authority](https://leastauthority.com/)
 - [Hashcloak](https://hashcloak.com/)
 - [Taurus](https://blog.taurushq.com/zero-knowledge-security/)
+- [Common Prefix](https://www.commonprefix.com/)
 
 ## Books
 
