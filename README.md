@@ -414,6 +414,7 @@ Table of Contents
 - [Hardware Acceleration for Zero Knowledge Proofs](https://www.paradigm.xyz/2022/04/zk-hardware)
 - [How do trusted setups work?](https://vitalik.ca/general/2022/03/14/trustedsetup.html)
 - [10 zkApps Use Cases on Mina Protocol](https://blog.o1labs.org/10-snapps-use-cases-on-mina-83e646010e52)
+- [Programming Languages in ZKP](https://medium.com/@delendum/thoughts-of-programming-languages-in-zkp-c906e96f056e)
 
 ## Communities
 
@@ -425,3 +426,4 @@ Table of Contents
 - [ZPrize: accelerate zero-knowledge cryptography](https://www.zprize.io/)
 - [zkMesh: a monthly newsletter](https://zkmesh.substack.com/)
 - [ZKHack Discord](https://discord.com/invite/tHXyEbEqVN): Read, discuss, and implement ZK in Rust/Python (Fridays at 11:30ET)
+- [ZKP Discussion Group Chat by Delendum](https://t.me/+gucKN1RBchMxMjVh): idea sharing, seeking advice/review/co-publish
