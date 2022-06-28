@@ -39,6 +39,7 @@ Table of Contents
     * [DeFi / DEX](#defi--dex)
     * [Tokens / NFT](#tokens--nft)
     * [Voting / Participation](#voting--participation)
+    * [Document Management](#document-management)
   * [Hardware Acceleration](#hardware-acceleration)
   * [Trusted Execution Environment (TEE) Based Projects](#trusted-execution-environment-tee-based-projects)
 * [Programming Languages](#programming-languages)
@@ -210,7 +211,7 @@ Table of Contents
 
 #### Wallet
 
-- [Argent (based on zkSync)](https://www.argent.xyz/)
+- [Argent: smart contract wallet based on zkSync](https://www.argent.xyz/)
 - [Numio: Layer 2 focused wallet built on zkSync](https://www.numio.one/)
 - [Zkopru: Affordable Ethereum Privacy Wallet](https://zkopru.network/)
 - [Bunkyr: zero‑knowledge security without seed phrases or backup codes](https://bunkyr.com/)
@@ -268,6 +269,10 @@ Table of Contents
 - [Semaphore: a privacy gadget built on Ethereum](https://medium.com/coinmonks/to-mixers-and-beyond-presenting-semaphore-a-privacy-gadget-built-on-ethereum-4c8b00857c9b)
 - [zkC.R.E.A.M: Confidential Reliable Ethereum Anonymous Mixer](https://zkcre.am/)
 - [Cabal: a Discord bot to create credibly pseudonymous channels based on members' Ethereum activity](https://www.cabal.xyz/)
+
+#### Document Management
+
+- [zkDocs: information attestation and verification workflows](https://github.com/a16z/zkdocs)
 
 ### Hardware Acceleration
 
