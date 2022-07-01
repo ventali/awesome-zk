@@ -300,7 +300,7 @@ Table of Contents
 | Juxiv | Anoma | Functional | https://github.com/anoma/juvix | https://juvix.readthedocs.io/en/latest/index.html | 
 | ZKPDL | / | High-level | https://github.com/brownie/cashlib | http://cs.brown.edu/research/brownie/usenix10.pdf |
 | zkVM | / | Stack machine with a string of bytecode representing ZkVM instructions | https://github.com/stellar/slingshot/tree/main/zkvm | https://github.com/stellar/slingshot/files/3164245/zkvm-whitepaper-2019-05-09.pdf | 
-| lurk | Protocol Labs | Lurk is a statically scoped dialect of Lisp, influenced by Scheme and Common Lisp. | https://github.com/lurk-lang/lurk-rs | https://github.com/lurk-lang/lurk/blob/master/spec/v0-1.md |
+| lurk | Protocol Labs | Lurk is a statically scoped dialect of Lisp, influenced by Scheme and Common Lisp | https://github.com/lurk-lang/lurk-rs | https://github.com/lurk-lang/lurk/blob/master/spec/v0-1.md |
 
 ## Programming Libraries 
 
@@ -316,9 +316,9 @@ Table of Contents
 | DIZK | Java | Distributed polynomial interpolation, Lagrange polynomials, multi-scalar multiplication | https://github.com/scipr-lab/dizk | 
 | wasmsnark | Javascript | Generate zkSnark proofs and verify from web browser | https://github.com/iden3/wasmsnark | 
 | libiop | C++ | IOP-based zkSNARKs | https://github.com/scipr-lab/libiop | 
-| plonky2 | rust | A SNARK implementation based on techniques from PLONK and FRI | https://github.com/mir-protocol/plonky2 |
+| plonky2 | rust | SNARK implementation based on techniques from PLONK and FRI | https://github.com/mir-protocol/plonky2 |
 | plonk | rust | Pure Rust implementation of the PLONK ZKProof System | https://github.com/dusk-network/plonk |
-| jellyfish | rust | A Rust Implementation of the PLONK ZKP System and Extensions | https://github.com/EspressoSystems/jellyfish |
+| jellyfish | rust | Rust Implementation of the PLONK ZKP System and Extensions | https://github.com/EspressoSystems/jellyfish |
 | Spartan | rust | High-speed zkSNARKs without trusted setup | https://github.com/microsoft/Spartan |
 | Nova | rust | Recursive SNARKs without trusted setup | https://github.com/microsoft/Nova |
 
