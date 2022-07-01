@@ -307,19 +307,19 @@ Table of Contents
 | Name  | Host Language | Features | GitHub |
 | ------------- |:-------------:|:-------------:|:-------------:|
 | Libsnark     | C++    | General-purpose proof systems, gadget libraries | https://github.com/scipr-lab/libsnark |
-| Bellman     | Rust   | Circuit traits, primitive structures, basic gadget implementations | https://github.com/zkcrypto/bellman |
-| gnark      | Go     | High level API with frontend and backend to design circuits | https://github.com/ConsenSys/gnark| 
 | Bulletproofs | Rust | Single-party proofs, online multi-party computation, R1CS  | https://github.com/dalek-cryptography/bulletproofs |
-| Circomlib | Javascript | Circom templates | https://github.com/iden3/circomlib |
+| Bellman     | Rust   | Circuit traits, primitive structures, basic gadget implementations | https://github.com/zkcrypto/bellman |
+| gnark      | Go     | High level API with frontend and backend to design circuits | https://github.com/ConsenSys/gnark | 
 | Arkworks | Rust | R1CS, curves, Groth16, finite field, curves | https://github.com/arkworks-rs | 
+| Circomlib | Javascript | Circom templates | https://github.com/iden3/circomlib |
 | libSTARK | C++ | ZK-STARK library | https://github.com/elibensasson/libSTARK | 
-| DIZK | Java | Distributed polynomial interpolation, Lagrange polynomials, multi-scalar multiplication | https://github.com/scipr-lab/dizk | 
-| wasmsnark | Javascript | Generate zkSnark proofs and verify from web browser | https://github.com/iden3/wasmsnark | 
-| libiop | C++ | IOP-based zkSNARKs | https://github.com/scipr-lab/libiop | 
 | plonky2 | rust | SNARK implementation based on techniques from PLONK and FRI | https://github.com/mir-protocol/plonky2 |
 | plonk | rust | Pure Rust implementation of the PLONK ZKProof System | https://github.com/dusk-network/plonk |
-| jellyfish | rust | Rust Implementation of the PLONK ZKP System and Extensions | https://github.com/EspressoSystems/jellyfish |
 | Spartan | rust | High-speed zkSNARKs without trusted setup | https://github.com/microsoft/Spartan |
+| DIZK | Java | Distributed polynomial interpolation, Lagrange polynomials, multi-scalar multiplication | https://github.com/scipr-lab/dizk | 
+| wasmsnark | Javascript | Generate zkSnark proofs and verify from web browser | https://github.com/iden3/wasmsnark | 
+| jellyfish | rust | Rust Implementation of the PLONK ZKP System and Extensions | https://github.com/EspressoSystems/jellyfish |
+| libiop | C++ | IOP-based zkSNARKs | https://github.com/scipr-lab/libiop | 
 | Nova | rust | Recursive SNARKs without trusted setup | https://github.com/microsoft/Nova |
 
 ## Advanced Topics
