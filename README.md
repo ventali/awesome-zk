@@ -405,6 +405,7 @@ Table of Contents
 ## Tools
 
 - [Circom: zkSnark circuit compiler](https://github.com/iden3/circom)
+- [plonkit: zkSNARK toolkit to work with circom DSL in PLONK proof system](https://github.com/fluidex/plonkit)
 - [Library: ZK-Garage/Plonk](https://github.com/ZK-Garage/plonk)
 - [zk-ECDSA: zkSNARKs for ECDSA](https://0xparc.org/blog/zk-ecdsa-1)
 - [ZoKrates: a toolbox for zkSNARKs on Ethereum](https://zokrates.github.io/)
