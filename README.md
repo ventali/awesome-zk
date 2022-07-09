@@ -34,7 +34,7 @@ Table of Contents
     * [Wallet](#wallet)
     * [Crosschain](#crosschain)
     * [Marketplace](#marketplace)
-    * [Fiat On-ramp](#fiat)
+    * [Fiat On-ramp](#fiat-on\-ramp)
     * [User Profiling](#user-profiling)
     * [Data Infrastructure](#data-infrastructure)
     * [Artificial Intelligence](#artificial-intelligence)
