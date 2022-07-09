@@ -34,6 +34,8 @@ Table of Contents
     * [Wallet](#wallet)
     * [Crosschain](#crosschain)
     * [Marketplace](#marketplace)
+    * [Fiat On-ramp](#fiat)
+    * [User Profiling](#user-profiling)
     * [Data Infrastructure](#data-infrastructure)
     * [Artificial Intelligence](#artificial-intelligence)
     * [DeFi / DEX](#defi--dex)
@@ -175,6 +177,7 @@ Table of Contents
 
 - [Dark Forest: an MMO space-conquest game](https://blog.zkga.me/announcing-darkforest) and their [ZK Circuit Walkthrough](https://blog.zkga.me/df-init-circuit)
 - [Isaac: a physics-powered onchain reality on Starknet](https://topology.gg/) and their [blog](https://www.guiltygyoza.xyz/2022/05/topology-isaac-defcon)
+- [Crypto Maze: action-packed MMO](https://www.cryptomaze.app/)
 
 #### Payment
 
@@ -207,7 +210,6 @@ Table of Contents
 - [Sealance: building financial compliance into digital currencies](https://www.sealance.io/)
 - [Humanode: biologically verified human nodes for a fair financial system](https://humanode.io/)
 - [OutDID: your zero-knowledge, decentralized KYC filter of blockchain users](https://www.outdid.io/)
-- [Interep: verify users' reputation without exposing their identities](https://github.com/interep-project)
 
 #### Wallet
 
@@ -235,6 +237,15 @@ Table of Contents
 
 - [Modulo Zero: on-chain solution for private data exchange](https://modulozero.xyz/) and their [Repo](https://github.com/nulven/EthDataMarketplace)
 - [Ruby Protocol: Building a Cross-chain Cryptographic Infrastructure for Data Monetization](https://wiki.ruby.io/)
+
+#### Fiat On-ramp
+
+- [Ladder: KYC on-ramp solution implementing an oraclized peer-to-peer protocol](https://www.ladderpay.xyz/)
+
+#### User Profiling
+
+- [FirstBatch: create a representation of your identity from your social data](https://firstbatch.xyz/)
+- [Interep: verify users' reputation without exposing their identities](https://github.com/interep-project)
 
 #### Data Infrastructure
 
