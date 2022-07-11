@@ -12,7 +12,7 @@
     </a>
   </p>
 
-  <p align="center">A curated list of awesome ZK resources, libraries, tools and more.</p>
+  <p align="center">A curated list of awesome ZK resources, libraries, tools and more. For a ZK knowledge base, please see https://github.com/delendum-xyz/zk-knowledge </p>
 </div>
 
 Table of Contents
