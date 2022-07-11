@@ -423,6 +423,10 @@ Table of Contents
 - [Hashcloak](https://hashcloak.com/)
 - [Taurus](https://blog.taurushq.com/zero-knowledge-security/)
 - [Common Prefix](https://www.commonprefix.com/)
+- [ZK Labs](https://zklabs.io/#audits)
+- [Diligence](https://consensys.net/diligence/)
+- [Trail of Bits](https://www.trailofbits.com/)
+- [Kudelski Security](https://kudelskisecurity.com/)
 
 ## Books
 
