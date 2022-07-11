@@ -60,6 +60,7 @@ Table of Contents
   * [Anonymous Zether](#anonymous-zether)
   * [Quisquis](#quisquis)
   * [Zk\-VM](#zk-vm-1)
+  * [Elliptic Curves](#elliptic-curves)
   * [Slush: Fractal Scaling](#slush-fractal-scaling)
   * [DIZK: Distributed ZKP](#dizk-distributed-zkp)
   * [Network Privacy](#network-privacy)
@@ -390,6 +391,12 @@ Table of Contents
 
 - [ZKVM book](https://hackmd.io/@liangcc/zkvmbook)
 - [Introduction to zkEVM](https://hackmd.io/@yezhang/S1_KMMbGt)
+
+### Elliptic Curve
+
+- [2-chains of elliptic curves](https://eprint.iacr.org/2021/1359.pdf)
+- [A survey of elliptic curves for proof systems](https://eprint.iacr.org/2022/586.pdf)
+- [ECFFT: Fast Polynomial Algorithms over all Finite Fields](https://arxiv.org/abs/2107.08473)
 
 ### Slush: Fractal Scaling
 
