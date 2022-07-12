@@ -66,6 +66,7 @@ Table of Contents
   * [Network Privacy](#network-privacy)
 * [Tools](#tools)
 * [Auditing and Consulting](#auditing-and-consulting)
+* [Validator Services](#validator-services)
 * [Books](#books)
 * [Discussions](#discussions)
 * [Communities](#communities)
@@ -434,6 +435,14 @@ Table of Contents
 - [Diligence](https://consensys.net/diligence/)
 - [Trail of Bits](https://www.trailofbits.com/)
 - [Kudelski Security](https://kudelskisecurity.com/)
+
+## Validator Services
+
+- [Nysa Network](https://nysa.network)
+- [Bware Labs](https://bwarelabs.com/validators)
+- [ZK Validator](https://zkvalidator.com/)
+- [Stake Fish](https://stake.fish/en/)
+- [Aquanow](https://www.aquanow.io/insights/aquanodes-validating-blockchain-networks)
 
 ## Books
 
