@@ -281,7 +281,8 @@ Table of Contents
 - [Zero Knowledge Message Board by Nulven](https://github.com/nulven/zk-polling)
 - [Semaphore: a privacy gadget built on Ethereum](https://medium.com/coinmonks/to-mixers-and-beyond-presenting-semaphore-a-privacy-gadget-built-on-ethereum-4c8b00857c9b)
 - [zkC.R.E.A.M: Confidential Reliable Ethereum Anonymous Mixer](https://zkcre.am/)
-- [Cabal: a Discord bot to create credibly pseudonymous channels based on members' Ethereum activity](https://www.cabal.xyz/)
+- [Cabal: create credibly pseudonymous channels based on members' Ethereum activity](https://www.cabal.xyz/)
+- [OVOTE: Offchain Voting with Onchain Trustless Execution](https://forum.aragon.org/t/we-present-ovote-offchain-voting-with-onchain-trustless-execution/3603) and their [document](https://forum.aragon.org/t/we-present-ovote-offchain-voting-with-onchain-trustless-execution/3603)
 
 #### Document Management
 
@@ -438,11 +439,7 @@ Table of Contents
 
 ## Validator Services
 
-- [Nysa Network](https://nysa.network)
-- [Bware Labs](https://bwarelabs.com/validators)
 - [ZK Validator](https://zkvalidator.com/)
-- [Stake Fish](https://stake.fish/en/)
-- [Aquanow](https://www.aquanow.io/insights/aquanodes-validating-blockchain-networks)
 
 ## Books
 
