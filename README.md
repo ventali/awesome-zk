@@ -142,6 +142,7 @@ Table of Contents
 - [Zeeka Network: a light and scalable blockchain using ZKPs](https://hackmd.io/_Sw5u2lUR9GfBV5vwtoMSQ#Zeeka-Network---Whitepaper)
 - [quark: decentralized state machine with STARK proofs](https://github.com/liamzebedee/quark-blockchain/blob/master/whitepaper.md)
 - [Lelantus: transaction confidentiality and anonymity](https://lelantus.io)
+- [Coda: A Constant-Size Blockchain (recursive SNARKs)](https://codaprotocol.com/)
 
 ### Zk-Layer2
 
@@ -239,6 +240,7 @@ Table of Contents
 
 - [Modulo Zero: on-chain solution for private data exchange](https://modulozero.xyz/) and their [Repo](https://github.com/nulven/EthDataMarketplace)
 - [Ruby Protocol: Building a Cross-chain Cryptographic Infrastructure for Data Monetization](https://wiki.ruby.io/)
+- [zkPoD: A decentralized system for data exchange](https://github.com/sec-bit/zkPoD-node)
 
 #### Fiat On-ramp
 
