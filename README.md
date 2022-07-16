@@ -142,7 +142,6 @@ Table of Contents
 - [Zeeka Network: a light and scalable blockchain using ZKPs](https://hackmd.io/_Sw5u2lUR9GfBV5vwtoMSQ#Zeeka-Network---Whitepaper)
 - [quark: decentralized state machine with STARK proofs](https://github.com/liamzebedee/quark-blockchain/blob/master/whitepaper.md)
 - [Lelantus: transaction confidentiality and anonymity](https://lelantus.io)
-- [Coda: A Constant-Size Blockchain (recursive SNARKs)](https://codaprotocol.com/)
 
 ### Zk-Layer2
 
@@ -298,6 +297,7 @@ Table of Contents
 - [PipeZK: Accelerating Zero-Knowledge Proof with a Pipelined Architecture](https://www.microsoft.com/en-us/research/uploads/prod/2021/05/isca21_pizk-60a269dbb1310.pdf)
 - [Ingonyama: building a ZK processing unit](https://www.ingonyama.com/) and their [slides](https://drive.google.com/file/d/1VfLrC6CQinM3DCVfaAu_5qTOoc5eigue/view)
 - [ZKAccel: Accelerated ZKP as a Service](https://inaccel.com/)
+- [DZK: decentralized zero-knowledge proof platform](https://dzk.org/)
 
 ### Trusted Execution Environment (TEE) Based Projects
 - [Oasis Network](https://oasisprotocol.org/)
