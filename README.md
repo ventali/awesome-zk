@@ -279,12 +279,14 @@ Table of Contents
 - [Immutable X: the first layer-2 scaling solution for NFTs on Ethereum](https://www.immutable.com/)
 
 #### Voting / Participation
-- [Thinking in ZK: A Socratic Dialogue to Come Up With a Secure ZK Message Board Architecture](https://mirror.xyz/0x3FD6f213ae1B8a7B6bd8f14BE9BF316a5e5A5d28/VTGpmEYLKIslUPf66VQzHUneB0R7EhMpJJ_mGrMvTwY) 
-- [Zero Knowledge Message Board by nulven, yush\_g](https://github.com/nulven/zk-message-board)
+
+- [Zero Knowledge Message Board by nulven, yush\_g](https://github.com/nulven/zk-message-board) and their [article](https://mirror.xyz/0x3FD6f213ae1B8a7B6bd8f14BE9BF316a5e5A5d28/VTGpmEYLKIslUPf66VQzHUneB0R7EhMpJJ_mGrMvTwY)
 - [Semaphore: a privacy gadget built on Ethereum](https://medium.com/coinmonks/to-mixers-and-beyond-presenting-semaphore-a-privacy-gadget-built-on-ethereum-4c8b00857c9b)
 - [zkC.R.E.A.M: Confidential Reliable Ethereum Anonymous Mixer](https://zkcre.am/)
 - [Cabal: create credibly pseudonymous channels based on members' Ethereum activity](https://www.cabal.xyz/)
 - [OVOTE: Offchain Voting with Onchain Trustless Execution](https://forum.aragon.org/t/we-present-ovote-offchain-voting-with-onchain-trustless-execution/3603) and their [document](https://forum.aragon.org/t/we-present-ovote-offchain-voting-with-onchain-trustless-execution/3603)
+- [Scaffold-ETH: Prove Membership with Circom and Zero Knowledge](https://github.com/scaffold-eth/scaffold-eth-examples/tree/zk-prove-membership)
+- [Double Blind: semi-anonymously sign messages for a group of people](https://github.com/doubleblind-xyz/double-blind) and their [documentation](https://double-blind.xyz/docs/#/)
 
 #### Document Management
 
@@ -452,6 +454,7 @@ Table of Contents
 
 - [Why Dark Forest Matters: A Good Game, not a Crypto Game](https://mirror.xyz/omarmezenner.eth/gFCfCVwTfUU91SDXeROEaDQe4984nbFBIgv9QSY0r1U)
 - [Six Moonshot ZK Applications](https://gubsheep.substack.com/p/six-moonshot-zk-applications?s=r)
+- [A Socratic Dialogue to Come Up With a Secure ZK Message Board Architecture](https://mirror.xyz/0x3FD6f213ae1B8a7B6bd8f14BE9BF316a5e5A5d28/VTGpmEYLKIslUPf66VQzHUneB0R7EhMpJJ_mGrMvTwY)
 - [The Strongest Crypto Gaming Thesis](https://gubsheep.substack.com/p/the-strongest-crypto-gaming-thesis?s=r)
 - [Hardware Acceleration for Zero Knowledge Proofs](https://www.paradigm.xyz/2022/04/zk-hardware)
 - [How do trusted setups work?](https://vitalik.ca/general/2022/03/14/trustedsetup.html)
