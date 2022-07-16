@@ -279,8 +279,8 @@ Table of Contents
 - [Immutable X: the first layer-2 scaling solution for NFTs on Ethereum](https://www.immutable.com/)
 
 #### Voting / Participation
-
-- [Zero Knowledge Message Board by Nulven](https://github.com/nulven/zk-polling)
+- [Thinking in ZK: A Socratic Dialogue to Come Up With a Secure ZK Message Board Architecture](https://mirror.xyz/0x3FD6f213ae1B8a7B6bd8f14BE9BF316a5e5A5d28/VTGpmEYLKIslUPf66VQzHUneB0R7EhMpJJ_mGrMvTwY) 
+- [Zero Knowledge Message Board by nulven, yush\_g](https://github.com/nulven/zk-message-board)
 - [Semaphore: a privacy gadget built on Ethereum](https://medium.com/coinmonks/to-mixers-and-beyond-presenting-semaphore-a-privacy-gadget-built-on-ethereum-4c8b00857c9b)
 - [zkC.R.E.A.M: Confidential Reliable Ethereum Anonymous Mixer](https://zkcre.am/)
 - [Cabal: create credibly pseudonymous channels based on members' Ethereum activity](https://www.cabal.xyz/)
