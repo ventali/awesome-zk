@@ -182,6 +182,7 @@ Table of Contents
 - [Dark Forest: an MMO space-conquest game](https://blog.zkga.me/announcing-darkforest) and their [ZK Circuit Walkthrough](https://blog.zkga.me/df-init-circuit)
 - [Isaac: a physics-powered onchain reality on Starknet](https://topology.gg/) and their [blog](https://www.guiltygyoza.xyz/2022/05/topology-isaac-defcon)
 - [Crypto Maze: action-packed MMO](https://www.cryptomaze.app/)
+- [Zordle: the first end-to-end web app built using Halo 2 ZK proofs](https://github.com/nalinbhardwaj/zordle)
 
 #### Payment
 
