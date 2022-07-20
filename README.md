@@ -132,6 +132,8 @@ Table of Contents
 - [Delphinus zkWASM](https://delphinuslab.com/zk-wasm/)
 - [Appliedzkp: Circuits for zkEVM](https://github.com/appliedzkp/zkevm-circuits)
 - [ConsenSys zkEVM](https://ethresear.ch/uploads/short-url/3DM8kjFfIG6PHXu4qpYpmujXgme.pdf) and their [gnark library](https://github.com/consensys/gnark)
+- [zkMove: bytecode VM](https://www.zkmove.net/) and their [github](https://github.com/young-rocks/zkmove)
+- [zkRiscV: RV32I Risc-V instruction set](https://github.com/lucasgleba/zkRiscV)
 
 ### Zk-Layer1
 
