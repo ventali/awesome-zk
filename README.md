@@ -15,6 +15,9 @@
   <p align="center">A curated list of awesome ZK resources, libraries, tools and more. For a ZK knowledge base, please see https://github.com/delendum-xyz/zk-knowledge </p>
 </div>
 
+### Telegram Group
+Join the discussion [group chat](https://t.me/+gucKN1RBchMxMjVh) with other developers and researchers
+
 Table of Contents
 =================
 
@@ -27,43 +30,11 @@ Table of Contents
   * [Computing Infrastructure](#computing-infrastructure)
   * [Framework / SDK](#framework--sdk)
   * [Zk\-Applications](#zk-applications)
-    * [Gaming](#gaming)
-    * [Payment](#payment)
-    * [Mixer](#mixer)
-    * [Identity](#identity)
-    * [Wallet](#wallet)
-    * [Crosschain](#crosschain)
-    * [Marketplace](#marketplace)
-    * [Fiat On-ramp](#fiat-on\-ramp)
-    * [User Profiling](#user-profiling)
-    * [Data Infrastructure](#data-infrastructure)
-    * [Artificial Intelligence](#artificial-intelligence)
-    * [DeFi / DEX](#defi--dex)
-    * [Tokens / NFT](#tokens--nft)
-    * [Voting / Participation](#voting--participation)
-    * [Document Management](#document-management)
   * [Hardware Acceleration](#hardware-acceleration)
-  * [Trusted Execution Environment (TEE) Based Projects](#trusted-execution-environment-tee-based-projects)
+  * [TEE Based Projects](#trusted-execution-environment-tee-based-projects)
 * [Programming Languages](#programming-languages)
 * [Programming Libraries](#programming-libraries)
 * [Advanced Topics](#advanced-topics)
-  * [PLONK](#plonk)
-  * [Groth16](#groth16)
-  * [Halo](#halo)
-  * [Probabilistic Proof Systems](#probabilistic-proof-systems)
-  * [Pinocchio](#pinocchio)
-  * [Bulletproofs](#bulletproofs)
-  * [Hash Functions](#hash-functions)
-  * [Systems](#systems)
-  * [Quadratic Span Programs](#quadratic-span-programs)
-  * [Zether](#zether)
-  * [Anonymous Zether](#anonymous-zether)
-  * [Quisquis](#quisquis)
-  * [Zk\-VM](#zk-vm-1)
-  * [Elliptic Curves](#elliptic-curves)
-  * [Slush: Fractal Scaling](#slush-fractal-scaling)
-  * [DIZK: Distributed ZKP](#dizk-distributed-zkp)
-  * [Network Privacy](#network-privacy)
 * [Tools](#tools)
 * [Auditing and Consulting](#auditing-and-consulting)
 * [Validator Services](#validator-services)
