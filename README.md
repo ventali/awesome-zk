@@ -105,6 +105,7 @@ Table of Contents
 - [ConsenSys zkEVM](https://ethresear.ch/uploads/short-url/3DM8kjFfIG6PHXu4qpYpmujXgme.pdf) and their [gnark library](https://github.com/consensys/gnark)
 - [zkMove: bytecode VM](https://www.zkmove.net/) and their [github](https://github.com/young-rocks/zkmove)
 - [zkRiscV: RV32I Risc-V instruction set](https://github.com/lucasgleba/zkRiscV)
+- [TinyZKEVM](https://github.com/leonardoalt/tinyzkevm)
 
 ### Zk-Layer1
 
