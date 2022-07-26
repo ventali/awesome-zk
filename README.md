@@ -188,6 +188,7 @@ Table of Contents
 - [Sealance: building financial compliance into digital currencies](https://www.sealance.io/)
 - [Humanode: biologically verified human nodes for a fair financial system](https://humanode.io/)
 - [OutDID: your zero-knowledge, decentralized KYC filter of blockchain users](https://www.outdid.io/)
+- [IdentityBlockchain: state-certified electronic identities to establish blockchain identities](https://github.com/IdentityBlockchain)
 
 #### Wallet
 
