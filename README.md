@@ -106,6 +106,7 @@ Table of Contents
 - [zkMove: bytecode VM](https://www.zkmove.net/) and their [github](https://github.com/young-rocks/zkmove)
 - [zkRiscV: RV32I Risc-V instruction set](https://github.com/lucasgleba/zkRiscV)
 - [TinyZKEVM](https://github.com/leonardoalt/tinyzkevm)
+- [OlaVM: An Ethereum compatible ZKVM](https://olavm.org/)
 
 ### Zk-Layer1
 
