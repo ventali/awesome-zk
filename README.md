@@ -106,6 +106,7 @@ Table of Contents
 - [zkRiscV: RV32I Risc-V instruction set](https://github.com/lucasgleba/zkRiscV)
 - [TinyZKEVM](https://github.com/leonardoalt/tinyzkevm)
 - [OlaVM: An Ethereum compatible ZKVM](https://olavm.org/)
+- [Tritron VM](https://github.com/TritonVM/triton-vm)
 
 ### Zk-Layer1
 
