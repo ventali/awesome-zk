@@ -98,7 +98,6 @@ Table of Contents
 - [Hermez zkEVM](https://blog.hermez.io/introducing-hermez-zkevm/)
 - [Mir Protocol](https://mirprotocol.org/blog/Introducing-Mir)
 - [Scroll](https://hackmd.io/@yezhang/S1sJ2cEWY) and their [zkEVM](https://hackmd.io/@yezhang/S1_KMMbGt)
-- [Sin7Y zkEVM](https://medium.com/@sin7y)
 - [zCloak Space](https://zcloak.network/#/)
 - [Delphinus zkWASM](https://delphinuslab.com/zk-wasm/)
 - [Appliedzkp: Circuits for zkEVM](https://github.com/appliedzkp/zkevm-circuits)
