@@ -34,13 +34,13 @@ Table of Contents
   * [TEE Based Projects](#trusted-execution-environment-tee-based-projects)
 * [Programming Languages](#programming-languages)
 * [Programming Libraries](#programming-libraries)
-* [Advanced Topics](#advanced-topics)
-* [Tools](#tools)
+* [Developer Tools](#tools)
 * [Auditing and Consulting](#auditing-and-consulting)
 * [Validator Services](#validator-services)
 * [Books](#books)
 * [Discussions](#discussions)
 * [Communities](#communities)
+* [Advanced Topics](#advanced-topics)
 
 ## Basics
 
@@ -263,6 +263,7 @@ Table of Contents
 - [OVOTE: Offchain Voting with Onchain Trustless Execution](https://forum.aragon.org/t/we-present-ovote-offchain-voting-with-onchain-trustless-execution/3603) and their [document](https://forum.aragon.org/t/we-present-ovote-offchain-voting-with-onchain-trustless-execution/3603)
 - [Scaffold-ETH: Prove Membership with Circom and Zero Knowledge](https://github.com/scaffold-eth/scaffold-eth-examples/tree/zk-prove-membership)
 - [Double Blind: semi-anonymously sign messages for a group of people](https://github.com/doubleblind-xyz/double-blind) and their [documentation](https://double-blind.xyz/docs/#/)
+- [Vocdoni: A decentralized self sovereign governance platform](https://docs.vocdoni.io/) and their [architecture](https://docs.vocdoni.io/architecture/general.html)
 
 #### Document Management
 
@@ -316,6 +317,65 @@ Table of Contents
 | jellyfish | rust | Rust Implementation of the PLONK ZKP System and Extensions | https://github.com/EspressoSystems/jellyfish |
 | libiop | C++ | IOP-based zkSNARKs | https://github.com/scipr-lab/libiop | 
 | Nova | rust | Recursive SNARKs without trusted setup | https://github.com/microsoft/Nova |
+
+## Tools
+
+- [Circom: zkSnark circuit compiler](https://github.com/iden3/circom)
+- [Shield: a development framework for circom developers](https://xord.notion.site/SHIELD-5306223ca4f745d19f54b9a5f4004cd6)
+- [plonkit: zkSNARK toolkit to work with circom DSL in PLONK proof system](https://github.com/fluidex/plonkit)
+- [Library: ZK-Garage/Plonk](https://github.com/ZK-Garage/plonk)
+- [zk-ECDSA: zkSNARKs for ECDSA](https://0xparc.org/blog/zk-ecdsa-1)
+- [ZoKrates: a toolbox for zkSNARKs on Ethereum](https://zokrates.github.io/)
+- [Ecne: an engine for verifying the soundness of R1CS constraints](https://github.com/franklynwang/EcneProject)
+- [Arkworks: an ecosystem for developing with zkSNARKs](https://github.com/arkworks-rs)
+- [Snarkjs: zkSNARK implementation in JavaScript & WASM](https://github.com/iden3/snarkjs)
+- [zkREPL: an in-browser collaborative development environment](https://zkrepl.dev/)
+- [Picus: Symbolic Virtual Machine for Automated R1CS Verification](https://github.com/Veridise/Picus)
+- [Papyrus: A Symbolic Execution Tool for Cairo](https://github.com/Veridise/Papyrus)
+
+## Auditing and Consulting
+
+- [ABDK](https://www.abdk.consulting/)
+- [Least Authority](https://leastauthority.com/)
+- [Hashcloak](https://hashcloak.com/)
+- [Taurus](https://blog.taurushq.com/zero-knowledge-security/)
+- [Common Prefix](https://www.commonprefix.com/)
+- [ZK Labs](https://zklabs.io/#audits)
+- [Diligence](https://consensys.net/diligence/)
+- [Trail of Bits](https://www.trailofbits.com/)
+- [Kudelski Security](https://kudelskisecurity.com/)
+
+## Validator Services
+
+- [ZK Validator](https://zkvalidator.com/)
+
+## Books
+
+- [Proofs, Arguments, and Zero-Knowledge](https://people.cs.georgetown.edu/jthaler/ProofsArgsAndZK.pdf) (Justin Thaler, 2022)
+- [A Graduate Course in Applied Cryptography](http://toc.cryptobook.us/book.pdf) (Dan Boneh and Victor Shoup, 2020)
+
+## Discussions
+
+- [Why Dark Forest Matters: A Good Game, not a Crypto Game](https://mirror.xyz/omarmezenner.eth/gFCfCVwTfUU91SDXeROEaDQe4984nbFBIgv9QSY0r1U)
+- [Six Moonshot ZK Applications](https://gubsheep.substack.com/p/six-moonshot-zk-applications?s=r)
+- [A Socratic Dialogue to Come Up With a Secure ZK Message Board Architecture](https://mirror.xyz/0x3FD6f213ae1B8a7B6bd8f14BE9BF316a5e5A5d28/VTGpmEYLKIslUPf66VQzHUneB0R7EhMpJJ_mGrMvTwY)
+- [The Strongest Crypto Gaming Thesis](https://gubsheep.substack.com/p/the-strongest-crypto-gaming-thesis?s=r)
+- [Hardware Acceleration for Zero Knowledge Proofs](https://www.paradigm.xyz/2022/04/zk-hardware)
+- [How do trusted setups work?](https://vitalik.ca/general/2022/03/14/trustedsetup.html)
+- [10 zkApps Use Cases on Mina Protocol](https://blog.o1labs.org/10-snapps-use-cases-on-mina-83e646010e52)
+- [Programming Languages in ZKP](https://medium.com/@delendum/thoughts-of-programming-languages-in-zkp-c906e96f056e)
+
+## Communities
+
+- [Harmony zkDAO](https://harmonyone.notion.site/zkDAO-Succinct-Private-Fair-2f14d3d954264bd38091b418fd6b9bd5)
+- [Zero Knowledge University](https://zku.one/)
+- [ZK Hash Bounties](https://www.zkhashbounties.info/)
+- [Zero Knowledge Forum](https://zeroknowledge.fm/)
+- [0xPARC: Program for Applied Research in Cryptography](https://0xparc.org/blog/program-for-applied-research)
+- [ZPrize: accelerate zero-knowledge cryptography](https://www.zprize.io/)
+- [zkMesh: a monthly newsletter](https://zkmesh.substack.com/)
+- [ZKHack Discord](https://discord.com/invite/tHXyEbEqVN): Read, discuss, and implement ZK in Rust/Python (Fridays at 11:30ET)
+- [ZKP Discussion Group Chat by Delendum](https://t.me/+gucKN1RBchMxMjVh): idea sharing, seeking advice/review/co-publish
 
 ## Advanced Topics
 
@@ -391,61 +451,3 @@ Table of Contents
 ### Network Privacy
 - [Dandelion: Redesigning the Bitcoin Network for Anonymity](https://arxiv.org/pdf/1701.04439.pdf)
 - [A Flexible Network Approach to Privacy of Blockchain Transactions](https://arxiv.org/pdf/1807.11338.pdf)
-
-## Tools
-
-- [Circom: zkSnark circuit compiler](https://github.com/iden3/circom)
-- [plonkit: zkSNARK toolkit to work with circom DSL in PLONK proof system](https://github.com/fluidex/plonkit)
-- [Library: ZK-Garage/Plonk](https://github.com/ZK-Garage/plonk)
-- [zk-ECDSA: zkSNARKs for ECDSA](https://0xparc.org/blog/zk-ecdsa-1)
-- [ZoKrates: a toolbox for zkSNARKs on Ethereum](https://zokrates.github.io/)
-- [Ecne: an engine for verifying the soundness of R1CS constraints](https://github.com/franklynwang/EcneProject)
-- [Arkworks: an ecosystem for developing with zkSNARKs](https://github.com/arkworks-rs)
-- [Snarkjs: zkSNARK implementation in JavaScript & WASM](https://github.com/iden3/snarkjs)
-- [zkREPL: an in-browser collaborative development environment](https://zkrepl.dev/)
-- [Picus: Symbolic Virtual Machine for Automated R1CS Verification](https://github.com/Veridise/Picus)
-- [Papyrus: A Symbolic Execution Tool for Cairo](https://github.com/Veridise/Papyrus)
-
-## Auditing and Consulting
-
-- [ABDK](https://www.abdk.consulting/)
-- [Least Authority](https://leastauthority.com/)
-- [Hashcloak](https://hashcloak.com/)
-- [Taurus](https://blog.taurushq.com/zero-knowledge-security/)
-- [Common Prefix](https://www.commonprefix.com/)
-- [ZK Labs](https://zklabs.io/#audits)
-- [Diligence](https://consensys.net/diligence/)
-- [Trail of Bits](https://www.trailofbits.com/)
-- [Kudelski Security](https://kudelskisecurity.com/)
-
-## Validator Services
-
-- [ZK Validator](https://zkvalidator.com/)
-
-## Books
-
-- [Proofs, Arguments, and Zero-Knowledge](https://people.cs.georgetown.edu/jthaler/ProofsArgsAndZK.pdf) (Justin Thaler, 2022)
-- [A Graduate Course in Applied Cryptography](http://toc.cryptobook.us/book.pdf) (Dan Boneh and Victor Shoup, 2020)
-
-## Discussions
-
-- [Why Dark Forest Matters: A Good Game, not a Crypto Game](https://mirror.xyz/omarmezenner.eth/gFCfCVwTfUU91SDXeROEaDQe4984nbFBIgv9QSY0r1U)
-- [Six Moonshot ZK Applications](https://gubsheep.substack.com/p/six-moonshot-zk-applications?s=r)
-- [A Socratic Dialogue to Come Up With a Secure ZK Message Board Architecture](https://mirror.xyz/0x3FD6f213ae1B8a7B6bd8f14BE9BF316a5e5A5d28/VTGpmEYLKIslUPf66VQzHUneB0R7EhMpJJ_mGrMvTwY)
-- [The Strongest Crypto Gaming Thesis](https://gubsheep.substack.com/p/the-strongest-crypto-gaming-thesis?s=r)
-- [Hardware Acceleration for Zero Knowledge Proofs](https://www.paradigm.xyz/2022/04/zk-hardware)
-- [How do trusted setups work?](https://vitalik.ca/general/2022/03/14/trustedsetup.html)
-- [10 zkApps Use Cases on Mina Protocol](https://blog.o1labs.org/10-snapps-use-cases-on-mina-83e646010e52)
-- [Programming Languages in ZKP](https://medium.com/@delendum/thoughts-of-programming-languages-in-zkp-c906e96f056e)
-
-## Communities
-
-- [Harmony zkDAO](https://harmonyone.notion.site/zkDAO-Succinct-Private-Fair-2f14d3d954264bd38091b418fd6b9bd5)
-- [Zero Knowledge University](https://zku.one/)
-- [ZK Hash Bounties](https://www.zkhashbounties.info/)
-- [Zero Knowledge Forum](https://zeroknowledge.fm/)
-- [0xPARC: Program for Applied Research in Cryptography](https://0xparc.org/blog/program-for-applied-research)
-- [ZPrize: accelerate zero-knowledge cryptography](https://www.zprize.io/)
-- [zkMesh: a monthly newsletter](https://zkmesh.substack.com/)
-- [ZKHack Discord](https://discord.com/invite/tHXyEbEqVN): Read, discuss, and implement ZK in Rust/Python (Fridays at 11:30ET)
-- [ZKP Discussion Group Chat by Delendum](https://t.me/+gucKN1RBchMxMjVh): idea sharing, seeking advice/review/co-publish
