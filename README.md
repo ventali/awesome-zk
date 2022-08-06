@@ -142,6 +142,7 @@ Table of Contents
 
 - [Risc0: a zero-knowledge verifiable general computing platform](https://github.com/risc0/risc0)
 - [CirC: Compiler Infrastructure for Cryptosystems and Verification](https://github.com/circify/circ)
+- [Trustless Labs: ZK-friendly Multi-rollup Architecture for Web3 Applications](https://trustless.org/)
 
 ### Framework / SDK
 
@@ -232,6 +233,7 @@ Table of Contents
 - [Filecoin: Zero Knowledge and the Filecoin Network](https://filecoin.io/blog/posts/zero-knowledge-and-the-filecoin-network/)
 - [ZK Machine Learning: truly private machine learning, with zk-SNARKs and blockchain](https://github.com/zk-ml/demo)
 - [Nectar Protocol: Web3 infrastructure for healthcare](https://nectar.haus/) and their [documentation](https://github.com/NectarProtocol/documentation)
+- [zk-SQL: ZK-based engine for self-sovereign SQL queries](https://github.com/timoth-y/zk-SQL)
 
 #### Artificial Intelligence
 
@@ -278,9 +280,14 @@ Table of Contents
 - [DZK: decentralized zero-knowledge proof platform](https://dzk.org/)
 
 ### Trusted Execution Environment (TEE) Based Projects
+
 - [Oasis Network](https://oasisprotocol.org/)
 - [Secret Network](https://scrt.network/)
 - [Obscuro](https://www.obscu.ro/)
+
+### Fully Homomorphic Encryption (FHE) Based Projects
+
+- [Zama ](https://www.zama.ai/)
 
 ## Programming Languages 
 
@@ -332,6 +339,8 @@ Table of Contents
 - [zkREPL: an in-browser collaborative development environment](https://zkrepl.dev/)
 - [Picus: Symbolic Virtual Machine for Automated R1CS Verification](https://github.com/Veridise/Picus)
 - [Papyrus: A Symbolic Execution Tool for Cairo](https://github.com/Veridise/Papyrus)
+- [emp-zk: Efficient and Interactive Zero-Knowledge Proofs](https://github.com/pornin/crrl)
+- [crrl: Rust library for cryptographic research](https://github.com/pornin/crrl)
 
 ## Auditing and Consulting
 
