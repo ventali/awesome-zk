@@ -16,7 +16,7 @@
 </div>
 
 ### Telegram Group
-Join the discussion [group chat](delendum.xyz/telegram) with other developers and researchers
+Join the discussion [group chat](https://t.me/+9WAAmCpPRadjOTNh) with other developers and researchers
 
 Table of Contents
 =================
