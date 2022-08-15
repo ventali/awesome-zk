@@ -63,7 +63,9 @@ Table of Contents
   - [Part IV: The STARK Polynomial IOP](https://aszepieniec.github.io/stark-anatomy/stark)
   - [Part V: A Rescue-Prime STARK](https://aszepieniec.github.io/stark-anatomy/rescue-prime)
   - [Part VI: Speeding Things Up](https://aszepieniec.github.io/stark-anatomy/faster)
+  - [Brainfuck STARK Tutorial](https://neptune.cash/learn/brainfuck-tutorial/)
 - [zkSNARKs in a nutshell](https://blog.ethereum.org/2016/12/05/zksnarks-in-a-nutshell/)
+- [The MoonMath Manual to zk-SNARKs](https://leastauthority.com/community-matters/moonmath-manual/)
 - [Comments on paper: zkSNARKs in a Nutshell by Aaron](https://github.com/ventali/awesome-zk/tree/main/zk-intro)
 - [An approximate introduction to how zk-SNARKs are possible](https://vitalik.ca/general/2021/01/26/snarks.html)
 - Explaining SNARKs
@@ -178,6 +180,7 @@ Table of Contents
 - [Mixcoin: Anonymity for Bitcoin with accountable mixes](https://eprint.iacr.org/2014/077.pdf)
 - [CashShuffle: background coin shuffling for Bitcoin Cash](https://cashshuffle.com)
 - [MicroMix: A noncustodial Ethereum mixer](https://github.com/privacy-scaling-explorations/mixer)
+- [Juicer Protocol: trusted and secure ](https://github.com/wasmjuicer/juicer)
 
 #### Identity
 
@@ -239,6 +242,7 @@ Table of Contents
 
 - [zk-MNIST: web frontend app + Jupyter notebook with ML model generation](https://github.com/0xZKML/zk-mnist) and their [demo](https://zkmnist.netlify.app/)
 - [zkCNN: GKR-based zero-knowledge proof protocol for CNN model inference](https://github.com/TAMUCrypto/zkCNN) and their [paper](https://eprint.iacr.org/2021/673.pdf)
+- [Modulus Labs: bringing powerful ML models on-chain](https://www.moduluslabs.xyz/) and their [blogs](https://medium.com/@ModulusLabs)
 
 #### DeFi / DEX
 
@@ -341,6 +345,7 @@ Table of Contents
 - [Papyrus: A Symbolic Execution Tool for Cairo](https://github.com/Veridise/Papyrus)
 - [emp-zk: Efficient and Interactive Zero-Knowledge Proofs](https://github.com/pornin/crrl)
 - [crrl: Rust library for cryptographic research](https://github.com/pornin/crrl)
+- [Atlas Protocol: Zero-Knowlege Blockchain Development Platform](http://atlaszk.com/ide)
 
 ## Auditing and Consulting
 
