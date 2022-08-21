@@ -109,6 +109,7 @@ Table of Contents
 - [TinyZKEVM](https://github.com/leonardoalt/tinyzkevm)
 - [OlaVM: An Ethereum compatible ZKVM](https://olavm.org/)
 - [Tritron VM](https://github.com/TritonVM/triton-vm)
+- [Sovereign Labs: zkEVM on Risc0](https://github.com/Sovereign-Labs/ethereum-vpm)
 
 ### Zk-Layer1
 
@@ -119,6 +120,7 @@ Table of Contents
 - [Zeeka Network: a light and scalable blockchain using ZKPs](https://hackmd.io/_Sw5u2lUR9GfBV5vwtoMSQ#Zeeka-Network---Whitepaper)
 - [quark: decentralized state machine with STARK proofs](https://github.com/liamzebedee/quark-blockchain/blob/master/whitepaper.md)
 - [Lelantus: transaction confidentiality and anonymity](https://lelantus.io)
+- [Neptune: a new privacy layer-one blockchain](https://neptune.cash/) 
 
 ### Zk-Layer2
 
@@ -132,7 +134,7 @@ Table of Contents
 - [Orbis: A Layer 2 ZK-Rollup Scaling Solution Built on Cardano](https://linktr.ee/orbisprotocol)
 - [Radius: MEV-resistant ZK-Rollups with Practical VDE (PVDE)](https://ethresear.ch/t/mev-resistant-zk-rollups-with-practical-vde-pvde/12677)
 - [ZEXE on Plasma: An implementation of ZEXE on Ethereum](https://devpost.com/software/zexe-on-ethereum)
-- [Nightfall: Private Token Transaction on Ethereum](https://github.com/EYBlockchain/nightfall/blob/master/doc/whitepaper/nightfall-v1.pdf) 
+- [Nightfall: Private Token Transaction on Ethereum](https://github.com/EYBlockchain/nightfall/blob/master/doc/whitepaper/nightfall-v1.pdf)
 
 ### Transpiler
 
