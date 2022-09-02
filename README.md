@@ -408,6 +408,7 @@ Table of Contents
 
 - [Vitalik Buterin: Halo and more: exploring incremental verification and SNARKs without pairings](https://vitalik.ca/general/2021/11/05/halo.html) - Proof size reduction
 - [Recursive Proof Composition without a Trusted Setup](https://eprint.iacr.org/2019/1021.pdf)
+- [The halo2 Book](https://zcash.github.io/halo2/)
 
 ### Probabilistic Proof Systems
 
