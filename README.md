@@ -12,7 +12,7 @@
     </a>
   </p>
 
-  <p align="center">A curated list of awesome ZK resources, libraries, tools and more. For a ZK knowledge base, please see https://github.com/delendum-xyz/zk-knowledge </p>
+  <p align="center">A curated list of awesome ZK resources, libraries, tools and more. For a ZKP knowledge base, please see https://kb.delendum.xyz/ </p>
 </div>
 
 ### Telegram Group
