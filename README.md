@@ -204,6 +204,10 @@ Table of Contents
 - [Bunkyr: zero‑knowledge security without seed phrases or backup codes](https://bunkyr.com/)
 - [Wasabi Wallet: non-custodial, privacy-focused Bitcoin wallet](https://wasabiwallet.io)
 
+#### Trustless Bridge
+
+- [Succinct Labs: the trust-minimized interoperability layer](https://www.succinct.xyz/)
+
 #### Crosschain
 
 - [ZkLink: cross chain amm swap protocol powered by ZK-Rollup](https://github.com/zkLinkProtocol/zklink-contracts)
