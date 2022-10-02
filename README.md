@@ -12,7 +12,7 @@
     </a>
   </p>
 
-  <p align="center">A curated list of awesome ZK resources, libraries, tools and more. For a ZKP knowledge base, please see https://kb.delendum.xyz/ </p>
+  <p align="center">A curated list of awesome ZK resources, libraries, tools and more. For a ZK knowledge base, please see https://github.com/delendum-xyz/zk-knowledge </p>
 </div>
 
 ### Telegram Group
@@ -207,6 +207,7 @@ Table of Contents
 #### Trustless Bridge
 
 - [Succinct Labs: the trust-minimized interoperability layer](https://www.succinct.xyz/)
+- [Overeality: Infrastructure for Web3 Interoperability](https://overeality.io/home) and their [paper] (https://overeality.io/zkBridge.pdf)
 
 #### Crosschain
 
@@ -412,7 +413,6 @@ Table of Contents
 
 - [Vitalik Buterin: Halo and more: exploring incremental verification and SNARKs without pairings](https://vitalik.ca/general/2021/11/05/halo.html) - Proof size reduction
 - [Recursive Proof Composition without a Trusted Setup](https://eprint.iacr.org/2019/1021.pdf)
-- [The halo2 Book](https://zcash.github.io/halo2/)
 
 ### Probabilistic Proof Systems
 
