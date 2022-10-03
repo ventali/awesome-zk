@@ -207,7 +207,7 @@ Table of Contents
 #### Trustless Bridge
 
 - [Succinct Labs: the trust-minimized interoperability layer](https://www.succinct.xyz/)
-- [Overeality: Infrastructure for Web3 Interoperability](https://overeality.io/home) and their [paper] (https://overeality.io/zkBridge.pdf)
+- [Overeality: Infrastructure for Web3 Interoperability](https://overeality.io/home) and their [paper](https://overeality.io/zkBridge.pdf)
 
 #### Crosschain
 
