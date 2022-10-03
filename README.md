@@ -101,7 +101,7 @@ Table of Contents
 - [Mir Protocol](https://mirprotocol.org/blog/Introducing-Mir)
 - [Scroll](https://hackmd.io/@yezhang/S1sJ2cEWY) and their [zkEVM](https://hackmd.io/@yezhang/S1_KMMbGt)
 - [zCloak Space](https://zcloak.network/#/)
-- [Delphinus zkWASM](https://delphinuslab.com/zk-wasm/)
+- [Delphinus zkWASM](https://delphinuslab.com/zk-wasm/) and their [github](https://github.com/DelphinusLab/zkWasm)
 - [Appliedzkp: Circuits for zkEVM](https://github.com/appliedzkp/zkevm-circuits)
 - [ConsenSys zkEVM](https://ethresear.ch/uploads/short-url/3DM8kjFfIG6PHXu4qpYpmujXgme.pdf) and their [gnark library](https://github.com/consensys/gnark)
 - [zkMove: bytecode VM](https://www.zkmove.net/) and their [github](https://github.com/young-rocks/zkmove)
