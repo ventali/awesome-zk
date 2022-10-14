@@ -120,7 +120,8 @@ Table of Contents
 - [Zeeka Network: a light and scalable blockchain using ZKPs](https://hackmd.io/_Sw5u2lUR9GfBV5vwtoMSQ#Zeeka-Network---Whitepaper)
 - [quark: decentralized state machine with STARK proofs](https://github.com/liamzebedee/quark-blockchain/blob/master/whitepaper.md)
 - [Lelantus: transaction confidentiality and anonymity](https://lelantus.io)
-- [Neptune: a new privacy layer-one blockchain](https://neptune.cash/) 
+- [Neptune: a new privacy layer-one blockchain](https://neptune.cash/)
+- [DarkFi: a new Layer 1 blockchain, designed with anonymity at the forefront](https://dark.fi) 
 
 ### Zk-Layer2
 
@@ -246,11 +247,12 @@ Table of Contents
 - [Nectar Protocol: Web3 infrastructure for healthcare](https://nectar.haus/) and their [documentation](https://github.com/NectarProtocol/documentation)
 - [zk-SQL: ZK-based engine for self-sovereign SQL queries](https://github.com/timoth-y/zk-SQL)
 
-#### Artificial Intelligence
+#### Machine Learning
 
 - [zk-MNIST: web frontend app + Jupyter notebook with ML model generation](https://github.com/0xZKML/zk-mnist) and their [demo](https://zkmnist.netlify.app/)
 - [zkCNN: GKR-based zero-knowledge proof protocol for CNN model inference](https://github.com/TAMUCrypto/zkCNN) and their [paper](https://eprint.iacr.org/2021/673.pdf)
 - [Modulus Labs: bringing powerful ML models on-chain](https://www.moduluslabs.xyz/) and their [blogs](https://medium.com/@ModulusLabs)
+- [zkonduit: inference for deep learning models and other computational graphs in a zk-snark](https://github.com/zkonduit/ezkl)
 
 #### DeFi / DEX
 
@@ -270,14 +272,18 @@ Table of Contents
 
 #### Voting / Participation
 
-- [Zero Knowledge Message Board by nulven, yush\_g](https://github.com/nulven/zk-message-board) and their [article](https://mirror.xyz/0x3FD6f213ae1B8a7B6bd8f14BE9BF316a5e5A5d28/VTGpmEYLKIslUPf66VQzHUneB0R7EhMpJJ_mGrMvTwY)
 - [Semaphore: a privacy gadget built on Ethereum](https://medium.com/coinmonks/to-mixers-and-beyond-presenting-semaphore-a-privacy-gadget-built-on-ethereum-4c8b00857c9b)
 - [zkC.R.E.A.M: Confidential Reliable Ethereum Anonymous Mixer](https://zkcre.am/)
 - [Cabal: create credibly pseudonymous channels based on members' Ethereum activity](https://www.cabal.xyz/)
 - [OVOTE: Offchain Voting with Onchain Trustless Execution](https://forum.aragon.org/t/we-present-ovote-offchain-voting-with-onchain-trustless-execution/3603) and their [document](https://forum.aragon.org/t/we-present-ovote-offchain-voting-with-onchain-trustless-execution/3603)
 - [Scaffold-ETH: Prove Membership with Circom and Zero Knowledge](https://github.com/scaffold-eth/scaffold-eth-examples/tree/zk-prove-membership)
-- [Double Blind: semi-anonymously sign messages for a group of people](https://github.com/doubleblind-xyz/double-blind) and their [documentation](https://double-blind.xyz/docs/#/)
 - [Vocdoni: A decentralized self sovereign governance platform](https://docs.vocdoni.io/) and their [architecture](https://docs.vocdoni.io/architecture/general.html)
+
+#### Communication
+
+- [Waku: a suite of privacy-preserving, peer-to-peer messaging protocols](https://waku.org)
+- [Zero Knowledge Message Board by nulven, yush\_g](https://github.com/nulven/zk-message-board) and their [article](https://mirror.xyz/0x3FD6f213ae1B8a7B6bd8f14BE9BF316a5e5A5d28/VTGpmEYLKIslUPf66VQzHUneB0R7EhMpJJ_mGrMvTwY)
+- [Double Blind: semi-anonymously sign messages for a group of people](https://github.com/doubleblind-xyz/double-blind) and their [documentation](https://double-blind.xyz/docs/#/)
 
 #### Document Management
 
@@ -290,6 +296,7 @@ Table of Contents
 - [Ingonyama: building a ZK processing unit](https://www.ingonyama.com/) and their [slides](https://drive.google.com/file/d/1VfLrC6CQinM3DCVfaAu_5qTOoc5eigue/view)
 - [ZKAccel: Accelerated ZKP as a Service](https://inaccel.com/)
 - [DZK: decentralized zero-knowledge proof platform](https://dzk.org/)
+- [Cysic: Hardware Accelerating Zero-Knowledge Proof](https://cysic.xyz)
 
 ### Trusted Execution Environment (TEE) Based Projects
 
