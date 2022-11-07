@@ -196,6 +196,8 @@ Table of Contents
 - [Humanode: biologically verified human nodes for a fair financial system](https://humanode.io/)
 - [OutDID: your zero-knowledge, decentralized KYC filter of blockchain users](https://www.outdid.io/)
 - [IdentityBlockchain: state-certified electronic identities to establish blockchain identities](https://github.com/IdentityBlockchain)
+- [Worldcoin: Privacy-Preserving Proof-of-Personhood Protocol](https://worldcoin.org/)
+- [ZeroBiometrics: Privacy Preserving and Data Protection Face Authentication](https://zerobiometrics.com/)
 
 #### Wallet
 
@@ -245,6 +247,11 @@ Table of Contents
 - [Filecoin: Zero Knowledge and the Filecoin Network](https://filecoin.io/blog/posts/zero-knowledge-and-the-filecoin-network/)
 - [Nectar Protocol: Web3 infrastructure for healthcare](https://nectar.haus/) and their [documentation](https://github.com/NectarProtocol/documentation)
 - [zk-SQL: ZK-based engine for self-sovereign SQL queries](https://github.com/timoth-y/zk-SQL)
+
+#### State Attestation
+
+- [Relic Protocol: the first provably secure source of historical data on chain](https://relicprotocol.com/)
+- [Axiom: generate proofs for various computations completed previously on chain](https://www.axiomcrypto.xyz/)
 
 #### Machine Learning
 
