@@ -18,6 +18,9 @@
 ### Telegram Group
 Join the discussion [group chat](https://t.me/+9WAAmCpPRadjOTNh) with other developers and researchers
 
+### Fellowship Program
+If you are interested in working together with top experts to explore practical use cases of new research ideas, please consider applying to our [fellowship program](https://delendum.xyz/fellow). The deadline for 2023 Jan - Feb fellowship application is 2022 Dec 8.
+
 Table of Contents
 =================
 
