@@ -156,6 +156,7 @@ Table of Contents
 
 - [Espresso Systems: single-shot scaling & privacy solution](http://espressosys.com)
 - [Light Protocol: DeFi Privacy Infrastructure that Scales](https://www.lightprotocol.com/)
+- [Adapt Framework: a toolkit for building end-to-end decentralized systems](https://www.adaptframework.solutions)
 
 ### Zk-Applications
 
