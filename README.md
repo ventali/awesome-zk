@@ -314,6 +314,7 @@ Table of Contents
 - [Oasis Network](https://oasisprotocol.org/)
 - [Secret Network](https://scrt.network/)
 - [Obscuro](https://www.obscu.ro/)
+- [Phala](https://www.phala.network/en/)
 
 ### Fully Homomorphic Encryption (FHE) Based Projects
 
