@@ -130,6 +130,7 @@ Table of Contents
 
 - [Aztec: Scalable Privacy on Ethereum](https://aztec.network/)
 - [StarkNet: permissionless decentralized ZK-Rollup](https://starkware.co/starknet/)
+- [Scroll: an EVM-equivalent zkRollup](https://scroll.io/)
 - [zkSync: an EVM-compatible ZK Rollup](https://zksync.io)
 - [Polygon Miden: a STARK-based, Zero-Knowledge rollup](https://polygon.technology/solutions/polygon-miden/)
 - [Polygon Zero: a layer 2 scaling solution for Ethereum](https://polygon.technology/solutions/polygon-zero/)
