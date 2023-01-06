@@ -116,6 +116,7 @@ Table of Contents
 
 ### Zk-Layer1
 
+- [=nil; \`DROP DATABASE \*: A trustless data accessibility layer](https://dbms.nil.foundation)
 - [Aleo: A SDK for Zero-Knowledge Transactions](https://github.com/AleoHQ/aleo)
 - [Iron Fish: the universal privacy layer for crypto](https://ironfish.network/)
 - [Mina: a payment system using a succinct blockchain](https://minaprotocol.com/wp-content/uploads/technicalWhitepaper.pdf)
@@ -149,7 +150,7 @@ Table of Contents
 
 ### Computing Infrastructure
 
-- [zkLLVM: LLVM-based zero-knowledge proof systems compiler coupled with =nil;'s Proof Market](https://github.com/nilfoundation/zkllvm)
+- [=nil;'s zkLLVM: LLVM-based zero-knowledge proof systems compiler coupled with =nil;'s Proof Market](https://github.com/nilfoundation/zkllvm)
 - [Risc0: a zero-knowledge verifiable general computing platform](https://github.com/risc0/risc0)
 - [CirC: Compiler Infrastructure for Cryptosystems and Verification](https://github.com/circify/circ)
 - [Trustless Labs: ZK-friendly Multi-rollup Architecture for Web3 Applications](https://trustless.org/)
