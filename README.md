@@ -124,7 +124,7 @@ Table of Contents
 - [quark: decentralized state machine with STARK proofs](https://github.com/liamzebedee/quark-blockchain/blob/master/whitepaper.md)
 - [Lelantus: transaction confidentiality and anonymity](https://lelantus.io)
 - [Neptune: a new privacy layer-one blockchain](https://neptune.cash/)
-- [DarkFi: a new Layer 1 blockchain, designed with anonymity at the forefront](https://dark.fi) 
+- [DarkFi: a new Layer 1 blockchain, designed with anonymity at the forefront](https://dark.fi)
 
 ### Zk-Layer2
 
@@ -149,6 +149,7 @@ Table of Contents
 
 ### Computing Infrastructure
 
+- [zkLLVM: an LLVM-based zero-knowledge proof systems compiler coupled with =nil;'s Proof Market](https://github.com/nilfoundation/zkllvm)
 - [Risc0: a zero-knowledge verifiable general computing platform](https://github.com/risc0/risc0)
 - [CirC: Compiler Infrastructure for Cryptosystems and Verification](https://github.com/circify/circ)
 - [Trustless Labs: ZK-friendly Multi-rollup Architecture for Web3 Applications](https://trustless.org/)
@@ -214,6 +215,7 @@ Table of Contents
 
 #### Trustless Bridge
 
+- [=nil;'s zkBridge](https://nil.foundation)
 - [Succinct Labs: the trust-minimized interoperability layer](https://www.succinct.xyz/)
 - [Overeality: Infrastructure for Web3 Interoperability](https://overeality.io/home) and their [paper](https://overeality.io/zkBridge.pdf)
 
@@ -226,7 +228,7 @@ Table of Contents
 - [Suez: move Eth to the Starknet ecosystem](https://suez.dev/)
 - [ZKCross: a trustworthy cross-chain protocol built with multichain zkRollup](https://www.zkcross.org/)
 - [Electron Labs: ZK Light Clients for NEAR Rainbow Bridge](https://electronlabs.org/)
-- [Nil Foundation: Mina's bridge to Ethereum](https://nil.foundation/)
+- [=nil; Foundation: Mina's bridge to Ethereum](https://nil.foundation/)
 - [ZeroPool: a fully private multi-blockchain solution](https://zeropool.network/)
 - [Raze Network: Multichain Privacy Middleware](https://www.raze.network/)
 - [Zendoo: A zk-SNARK enabled verifiable cross-chain transfer protocol](https://www.horizen.io/zendoo/) and their [whitepaper](https://www.horizen.io/assets/files/Horizen-Sidechain-Zendoo-A_zk-SNARK-Verifiable-Cross-Chain-Transfer-Protocol.pdf)
@@ -234,6 +236,7 @@ Table of Contents
 
 #### Marketplace
 
+- [Proof Market: a decentralized proof market protocol](https://proof.market.nil.foundation)
 - [Modulo Zero: on-chain solution for private data exchange](https://modulozero.xyz/) and their [Repo](https://github.com/nulven/EthDataMarketplace)
 - [Ruby Protocol: Building a Cross-chain Cryptographic Infrastructure for Data Monetization](https://wiki.ruby.io/)
 - [zkPoD: A decentralized system for data exchange](https://github.com/sec-bit/zkPoD-node)
@@ -249,6 +252,7 @@ Table of Contents
 
 #### Data Infrastructure
 
+- [=nil; \`DROP DATABASE \*: A database management system for blockchains enhanced by provable SQL](https://dbms.nil.foundation)
 - [Filecoin: Zero Knowledge and the Filecoin Network](https://filecoin.io/blog/posts/zero-knowledge-and-the-filecoin-network/)
 - [Nectar Protocol: Web3 infrastructure for healthcare](https://nectar.haus/) and their [documentation](https://github.com/NectarProtocol/documentation)
 - [zk-SQL: ZK-based engine for self-sovereign SQL queries](https://github.com/timoth-y/zk-SQL)
