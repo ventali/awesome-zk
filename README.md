@@ -125,7 +125,7 @@ Table of Contents
 - [quark: decentralized state machine with STARK proofs](https://github.com/liamzebedee/quark-blockchain/blob/master/whitepaper.md)
 - [Lelantus: transaction confidentiality and anonymity](https://lelantus.io)
 - [Neptune: a new privacy layer-one blockchain](https://neptune.cash/)
-- [DarkFi: a new Layer 1 blockchain, designed with anonymity at the forefront](https://dark.fi)
+- [DarkFi: a new Layer 1 blockchain, designed with anonymity at the forefront](https://dark.fi) 
 
 ### Zk-Layer2
 
