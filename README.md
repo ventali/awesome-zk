@@ -167,6 +167,7 @@ Table of Contents
 - [Isaac: a physics-powered onchain reality on Starknet](https://topology.gg/) and their [blog](https://www.guiltygyoza.xyz/2022/05/topology-isaac-defcon)
 - [Crypto Maze: action-packed MMO](https://www.cryptomaze.app/)
 - [Zordle: the first end-to-end web app built using Halo 2 ZK proofs](https://github.com/nalinbhardwaj/zordle)
+- [zkSNARK-Sudoku: Sudoku verifier using zkSNARK and circom.](https://github.com/web3-master/zksnark-sudoku)
 
 #### Payment
 
