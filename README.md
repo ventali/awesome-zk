@@ -115,7 +115,8 @@ Table of Contents
 - [zkRiscV: RV32I Risc-V instruction set](https://github.com/lucasgleba/zkRiscV)
 - [OlaVM: An Ethereum compatible ZKVM](https://olavm.org/)
 - [Tritron VM](https://github.com/TritonVM/triton-vm)
-- [Risc0: a zero-knowledge verifiable general computing platform](https://github.com/risc0/risc0)
+- [Risc0: a general purpose zkVM](https://github.com/risc0/risc0)
+- [Miden: zero-knowledge virtual machine written in Rust](https://github.com/0xPolygonMiden/miden-vm)
 
 #### Benchmarking
 
@@ -141,8 +142,8 @@ Table of Contents
 - [StarkNet: permissionless decentralized ZK-Rollup](https://starkware.co/starknet/)
 - [Scroll: an EVM-equivalent zkRollup](https://scroll.io/)
 - [zkSync: an EVM-compatible ZK Rollup](https://zksync.io)
-- [Polygon Miden: a STARK-based, Zero-Knowledge rollup](https://polygon.technology/solutions/polygon-miden/)
 - [Polygon Zero: a layer 2 scaling solution for Ethereum](https://polygon.technology/solutions/polygon-zero/)
+- [Polygon Miden: a STARK-based, Zero-Knowledge rollup](https://polygon.technology/solutions/polygon-miden/)
 - [Taikocha: a zkEVM-based general-purpose zkRollup network](https://taikocha.in/)
 - [Twilight: Layer 2 for Private Computation](https://twilight.finance/)
 - [Orbis: A Layer 2 ZK-Rollup Scaling Solution Built on Cardano](https://linktr.ee/orbisprotocol)
@@ -152,7 +153,7 @@ Table of Contents
 
 ### Privacy Layer
 
-- [Light Protocol: DeFi Privacy Infrastructure that Scales](https://www.lightprotocol.com/)
+- [Light Protocol: DeFi Privacy Infrastructure on Solana](https://www.lightprotocol.com/)
 
 ### Transpiler
 
