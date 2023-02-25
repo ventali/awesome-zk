@@ -123,7 +123,6 @@ Table of Contents
 
 ### Zk-Layer1
 
-- [=nil; \`DROP DATABASE \*: A trustless data accessibility layer](https://dbms.nil.foundation)
 - [Mir Protocol](https://mirprotocol.org/blog/Introducing-Mir)
 - [Aleo: A SDK for Zero-Knowledge Transactions](https://github.com/AleoHQ/aleo)
 - [Iron Fish: the universal privacy layer for crypto](https://ironfish.network/)
@@ -133,7 +132,8 @@ Table of Contents
 - [quark: decentralized state machine with STARK proofs](https://github.com/liamzebedee/quark-blockchain/blob/master/whitepaper.md)
 - [Lelantus: transaction confidentiality and anonymity](https://lelantus.io)
 - [Neptune: a new privacy layer-one blockchain](https://neptune.cash/)
-- [DarkFi: a new Layer 1 blockchain, designed with anonymity at the forefront](https://dark.fi) 
+- [DarkFi: a new Layer 1 blockchain, designed with anonymity at the forefront](https://dark.fi)
+- [Espresso Systems: single-shot scaling & privacy solution](http://espressosys.com)
 
 ### Zk-Layer2
 
@@ -150,6 +150,10 @@ Table of Contents
 - [ZEXE on Plasma: An implementation of ZEXE on Ethereum](https://devpost.com/software/zexe-on-ethereum)
 - [Nightfall: Private Token Transaction on Ethereum](https://github.com/EYBlockchain/nightfall/blob/master/doc/whitepaper/nightfall-v1.pdf)
 
+### Privacy Layer
+
+- [Light Protocol: DeFi Privacy Infrastructure that Scales](https://www.lightprotocol.com/)
+
 ### Transpiler
 
 - [Starlight: Generate a zApp from a Solidity contract](https://github.com/EYBlockchain/starlight/blob/master/doc/WRITEUP.md)
@@ -158,16 +162,14 @@ Table of Contents
 
 ### Computing Infrastructure
 
-- [=nil;'s zkLLVM: LLVM-based zero-knowledge proof systems compiler coupled with =nil;'s Proof Market](https://github.com/nilfoundation/zkllvm)
-- [Risc0: a zero-knowledge verifiable general computing platform](https://github.com/risc0/risc0)
+- [=nil;'s zkLLVM: LLVM-based zero-knowledge proof systems compiler](https://github.com/nilfoundation/zkllvm)
 - [CirC: Compiler Infrastructure for Cryptosystems and Verification](https://github.com/circify/circ)
 - [Trustless Labs: ZK-friendly Multi-rollup Architecture for Web3 Applications](https://trustless.org/)
 
 ### Framework / SDK
 
-- [Espresso Systems: single-shot scaling & privacy solution](http://espressosys.com)
-- [Light Protocol: DeFi Privacy Infrastructure that Scales](https://www.lightprotocol.com/)
 - [Adapt Framework: a toolkit for building end-to-end decentralized systems](https://www.adaptframework.solutions)
+- [Atlas Protocol: Zero-Knowlege Blockchain Development Platform](http://atlaszk.com/ide)
 
 ### Zk-Applications
 
@@ -373,21 +375,33 @@ Table of Contents
 
 ## Tools
 
-- [Circom: zkSnark circuit compiler](https://github.com/iden3/circom)
-- [Shield: a development framework for circom developers](https://xord.notion.site/SHIELD-5306223ca4f745d19f54b9a5f4004cd6)
+### Plonk Toola
+
 - [plonkit: zkSNARK toolkit to work with circom DSL in PLONK proof system](https://github.com/fluidex/plonkit)
-- [Library: ZK-Garage/Plonk](https://github.com/ZK-Garage/plonk)
+- [Plonk: A pure Rust PLONK implementation](https://github.com/ZK-Garage/plonk)
+
+### ECDSA
+
 - [zk-ECDSA: zkSNARKs for ECDSA](https://0xparc.org/blog/zk-ecdsa-1)
-- [ZoKrates: a toolbox for zkSNARKs on Ethereum](https://zokrates.github.io/)
-- [Ecne: an engine for verifying the soundness of R1CS constraints](https://github.com/franklynwang/EcneProject)
+
+### Circuit Building Library
+
+- [Circom: zkSnark circuit compiler](https://github.com/iden3/circom)
 - [Arkworks: an ecosystem for developing with zkSNARKs](https://github.com/arkworks-rs)
+- [ZoKrates: a toolbox for zkSNARKs on Ethereum](https://zokrates.github.io/)
 - [Snarkjs: zkSNARK implementation in JavaScript & WASM](https://github.com/iden3/snarkjs)
-- [zkREPL: an in-browser collaborative development environment](https://zkrepl.dev/)
+
+### Formal Verification Tools
+
+- [Ecne: an engine for verifying the soundness of R1CS constraints](https://github.com/franklynwang/EcneProject)
 - [Picus: Symbolic Virtual Machine for Automated R1CS Verification](https://github.com/Veridise/Picus)
 - [Papyrus: A Symbolic Execution Tool for Cairo](https://github.com/Veridise/Papyrus)
-- [emp-zk: Efficient and Interactive Zero-Knowledge Proofs](https://github.com/pornin/crrl)
+
+### Other Tools
+
+- [zkREPL: an in-browser collaborative development environment](https://zkrepl.dev/)
 - [crrl: Rust library for cryptographic research](https://github.com/pornin/crrl)
-- [Atlas Protocol: Zero-Knowlege Blockchain Development Platform](http://atlaszk.com/ide)
+- [Shield: a development framework for circom developers](https://xord.notion.site/SHIELD-5306223ca4f745d19f54b9a5f4004cd6)
 
 ## Auditing and Consulting
 
