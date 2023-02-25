@@ -375,7 +375,7 @@ Table of Contents
 
 ## Tools
 
-### Plonk Toola
+### Plonk
 
 - [plonkit: zkSNARK toolkit to work with circom DSL in PLONK proof system](https://github.com/fluidex/plonkit)
 - [Plonk: A pure Rust PLONK implementation](https://github.com/ZK-Garage/plonk)
@@ -390,8 +390,9 @@ Table of Contents
 - [Arkworks: an ecosystem for developing with zkSNARKs](https://github.com/arkworks-rs)
 - [ZoKrates: a toolbox for zkSNARKs on Ethereum](https://zokrates.github.io/)
 - [Snarkjs: zkSNARK implementation in JavaScript & WASM](https://github.com/iden3/snarkjs)
+- [RCC: Rust Circuit Compiler](https://github.com/delendum-xyz/rcc)
 
-### Formal Verification Tools
+### Formal Verification
 
 - [Ecne: an engine for verifying the soundness of R1CS constraints](https://github.com/franklynwang/EcneProject)
 - [Picus: Symbolic Virtual Machine for Automated R1CS Verification](https://github.com/Veridise/Picus)
