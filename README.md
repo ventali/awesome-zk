@@ -97,26 +97,34 @@ Table of Contents
 
 ## Projects
 
-### Zk-VM
+### Zk-EVM
 
 - [Matter Labs zkEVM](https://blog.matter-labs.io/unisync-a-port-of-uniswap-v2-on-the-zkevm-b12954748504)
 - [Hermez zkEVM](https://blog.hermez.io/introducing-hermez-zkevm/)
-- [Mir Protocol](https://mirprotocol.org/blog/Introducing-Mir)
 - [Scroll](https://hackmd.io/@yezhang/S1sJ2cEWY) and their [zkEVM](https://hackmd.io/@yezhang/S1_KMMbGt)
-- [zCloak Space](https://zcloak.network/#/)
-- [Delphinus zkWASM](https://delphinuslab.com/zk-wasm/) and their [github](https://github.com/DelphinusLab/zkWasm)
 - [Appliedzkp: Circuits for zkEVM](https://github.com/appliedzkp/zkevm-circuits)
 - [ConsenSys zkEVM](https://ethresear.ch/uploads/short-url/3DM8kjFfIG6PHXu4qpYpmujXgme.pdf) and their [gnark library](https://github.com/consensys/gnark)
+- [TinyZKEVM](https://github.com/leonardoalt/tinyzkevm)
+- [Sovereign Labs: zkEVM on Risc0](https://github.com/Sovereign-Labs/ethereum-vpm)
+
+### Zk-VM
+
+- [zCloak Space](https://zcloak.network/#/)
+- [Delphinus zkWASM](https://delphinuslab.com/zk-wasm/) and their [github](https://github.com/DelphinusLab/zkWasm)
 - [zkMove: bytecode VM](https://www.zkmove.net/) and their [github](https://github.com/young-rocks/zkmove)
 - [zkRiscV: RV32I Risc-V instruction set](https://github.com/lucasgleba/zkRiscV)
-- [TinyZKEVM](https://github.com/leonardoalt/tinyzkevm)
 - [OlaVM: An Ethereum compatible ZKVM](https://olavm.org/)
 - [Tritron VM](https://github.com/TritonVM/triton-vm)
-- [Sovereign Labs: zkEVM on Risc0](https://github.com/Sovereign-Labs/ethereum-vpm)
+- [Risc0: a zero-knowledge verifiable general computing platform](https://github.com/risc0/risc0)
+
+#### Benchmarking
+
+- [ZK System Benchmarking: compare the performance of different zero-knowledge proof libraries](https://github.com/delendum-xyz/zk-benchmarking)
 
 ### Zk-Layer1
 
 - [=nil; \`DROP DATABASE \*: A trustless data accessibility layer](https://dbms.nil.foundation)
+- [Mir Protocol](https://mirprotocol.org/blog/Introducing-Mir)
 - [Aleo: A SDK for Zero-Knowledge Transactions](https://github.com/AleoHQ/aleo)
 - [Iron Fish: the universal privacy layer for crypto](https://ironfish.network/)
 - [Mina: a payment system using a succinct blockchain](https://minaprotocol.com/wp-content/uploads/technicalWhitepaper.pdf)
@@ -170,6 +178,7 @@ Table of Contents
 - [Crypto Maze: action-packed MMO](https://www.cryptomaze.app/)
 - [Zordle: the first end-to-end web app built using Halo 2 ZK proofs](https://github.com/nalinbhardwaj/zordle)
 - [zkSNARK-Sudoku: Sudoku verifier using zkSNARK and circom.](https://github.com/web3-master/zksnark-sudoku)
+- [Leela vs the World: the first zkAI game](https://twitter.com/VsLeela)
 
 #### Payment
 
