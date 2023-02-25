@@ -414,6 +414,7 @@ More specific to ZK:
 
 ### Formal Verification
 
+- [The State of Current Progress](https://delendum.xyz/2022/09/04/formal-verification-zk-constraint-systems.html#the-state-of-current-progress)
 - [Ecne: an engine for verifying the soundness of R1CS constraints](https://github.com/franklynwang/EcneProject)
 - [Picus: Symbolic Virtual Machine for Automated R1CS Verification](https://github.com/Veridise/Picus)
 - [Papyrus: A Symbolic Execution Tool for Cairo](https://github.com/Veridise/Papyrus)
