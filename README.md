@@ -106,7 +106,7 @@ Table of Contents
 - [Computational Introduction to Number Theory and Algebra](https://shoup.net/ntb/ntb-v2.pdf)
 - [A Graduate Course in Applied Cryptography](https://crypto.stanford.edu/~dabo/cryptobook/BonehShoup_0_4.pdf)
 - [Lattice Cryptography](https://eprint.iacr.org/2015/939.pdf)
-- [The design of Rijndael](https://cs.ru.nl/~joan/papers/JDA_VRI_Rijndael_2002.pdf)
+- [The Design of Rijndael](https://cs.ru.nl/~joan/papers/JDA_VRI_Rijndael_2002.pdf)
 
 More specific to ZK:
 
