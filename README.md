@@ -25,6 +25,7 @@ Table of Contents
 =================
 
 * [Basics](#basics)
+  * [Mathematical Foundations](#mathematical-foundations)
 * [Projects](#projects)
   * [Zk\-VM](#zk-vm)
   * [Zk\-Layer1](#zk-layer1)
@@ -94,6 +95,24 @@ Table of Contents
   - [Introducing zkSync: the missing link to mass adoption of Ethereum](https://medium.com/matter-labs/introducing-zk-sync-the-missing-link-to-mass-adoption-of-ethereum-14c9cea83f58)
   - [Validity Proofs vs. Fraud Proofs](https://starkware.medium.com/validity-proofs-vs-fraud-proofs-4ef8b4d3d87a)
   - [A Pre-consensus Mechanism by Leohio](https://ethresear.ch/t/a-pre-consensus-mechanism-to-secure-instant-finality-and-long-interval-in-zkrollup/8749)
+
+### Mathematical Foundations
+
+- [Introduction to Mathematical Cryptography](https://github.com/isislovecruft/library--/blob/master/cryptography%20%26%20mathematics/An%20Introduction%20to%20Mathematical%20Cryptography%20(2014)%20-%20Hoffstein%2C%20Pipher%2C%20Silverman.pdf)
+- [Modern Computer Algebra](https://maths-people.anu.edu.au/~brent/pd/mca-cup-0.5.9.pdf)
+- [Explicit-Formulas Database](http://hyperelliptic.org/EFD/)
+- [Abstract Algebra](http://abstract.ups.edu/download/aata-20220728.pdf)
+- [Algebraic Number Theory](https://kashanu.ac.ir/Files/Content/ANT.pdf)
+- [Computational Introduction to Number Theory and Algebra](https://shoup.net/ntb/ntb-v2.pdf)
+- [A Graduate Course in Applied Cryptography](https://crypto.stanford.edu/~dabo/cryptobook/BonehShoup_0_4.pdf)
+- [Lattice Cryptography](https://eprint.iacr.org/2015/939.pdf)
+- [The design of Rijndael](https://cs.ru.nl/~joan/papers/JDA_VRI_Rijndael_2002.pdf)
+
+More specific to ZK:
+
+- [Elliptic Curves Number Theory And Cryptography](https://people.cs.nctu.edu.tw/~rjchen/ECC2012S/Elliptic%20Curves%20Number%20Theory%20And%20Cryptography%202n.pdf)
+- [Pairings for Beginners](https://static1.squarespace.com/static/5fdbb09f31d71c1227082339/t/5ff394720493bd28278889c6/1609798774687/PairingsForBeginners.pdf)
+- [Proofs, Arguments, and Zero-Knowledge](https://people.cs.georgetown.edu/jthaler/ProofsArgsAndZK.pdf)
 
 ## Projects
 
