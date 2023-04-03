@@ -392,6 +392,7 @@ More specific to ZK:
 | jellyfish | rust | Rust Implementation of the PLONK ZKP System and Extensions | https://github.com/EspressoSystems/jellyfish |
 | libiop | C++ | IOP-based zkSNARKs | https://github.com/scipr-lab/libiop | 
 | Nova | rust | Recursive SNARKs without trusted setup | https://github.com/microsoft/Nova |
+| plonky3 | rust | a toolkit for implementing polynomial IOPs (PIOPs), such as PLONK and STARKs | https://github.com/Plonky3/Plonky3 |
 
 ## Tools
 
