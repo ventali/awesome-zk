@@ -134,8 +134,9 @@ More specific to ZK:
 - [zkRiscV: RV32I Risc-V instruction set](https://github.com/lucasgleba/zkRiscV)
 - [OlaVM: An Ethereum compatible ZKVM](https://olavm.org/)
 - [Tritron VM](https://github.com/TritonVM/triton-vm)
-- [Risc0: a general purpose zkVM](https://github.com/risc0/risc0)
-- [Miden: zero-knowledge virtual machine written in Rust](https://github.com/0xPolygonMiden/miden-vm)
+- [Risc0: a general purpose zkVM based on RISCV](https://github.com/risc0/risc0)
+- [Miden: STARK-based zero-knowledge virtual machine](https://github.com/0xPolygonMiden/miden-vm)
+- [Valida: A zkVM with an LLVM frontend](https://github.com/delendum-xyz/valida)
 
 #### Benchmarking
 
