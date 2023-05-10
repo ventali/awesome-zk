@@ -128,7 +128,6 @@ More specific to ZK:
 
 ### Zk-VM
 
-- [zCloak Space](https://zcloak.network/#/)
 - [Delphinus zkWASM](https://delphinuslab.com/zk-wasm/) and their [github](https://github.com/DelphinusLab/zkWasm)
 - [zkMove: bytecode VM](https://www.zkmove.net/) and their [github](https://github.com/young-rocks/zkmove)
 - [zkRiscV: RV32I Risc-V instruction set](https://github.com/lucasgleba/zkRiscV)
@@ -161,10 +160,10 @@ More specific to ZK:
 - [Aztec: Scalable Privacy on Ethereum](https://aztec.network/)
 - [StarkNet: permissionless decentralized ZK-Rollup](https://starkware.co/starknet/)
 - [Scroll: an EVM-equivalent zkRollup](https://scroll.io/)
-- [zkSync: an EVM-compatible ZK Rollup](https://zksync.io)
+- [zkSync: an EVM-compatible zkRollup](https://zksync.io)
 - [Polygon Zero: a layer 2 scaling solution for Ethereum](https://polygon.technology/solutions/polygon-zero/)
-- [Polygon Miden: a STARK-based, Zero-Knowledge rollup](https://polygon.technology/solutions/polygon-miden/)
-- [Taikocha: a zkEVM-based general-purpose zkRollup network](https://taikocha.in/)
+- [Polygon Miden: a STARK-based zkRollup](https://polygon.technology/solutions/polygon-miden/)
+- [Taikocha: a zkEVM-based general-purpose zkRollup](https://taikocha.in/)
 - [Twilight: Layer 2 for Private Computation](https://twilight.finance/)
 - [Orbis: A Layer 2 ZK-Rollup Scaling Solution Built on Cardano](https://linktr.ee/orbisprotocol)
 - [Radius: MEV-resistant ZK-Rollups with Practical VDE (PVDE)](https://ethresear.ch/t/mev-resistant-zk-rollups-with-practical-vde-pvde/12677)
@@ -238,6 +237,7 @@ More specific to ZK:
 - [IdentityBlockchain: state-certified electronic identities to establish blockchain identities](https://github.com/IdentityBlockchain)
 - [Worldcoin: Privacy-Preserving Proof-of-Personhood Protocol](https://worldcoin.org/)
 - [ZeroBiometrics: Privacy Preserving and Data Protection Face Authentication](https://zerobiometrics.com/)
+- [zCloak: Privacy-first DID and verifiable computation infrastructure](https://zcloak.network/#/)
 
 #### Wallet
 
