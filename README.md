@@ -206,7 +206,7 @@ More specific to ZK:
 
 - [Zcash: a privacy-protecting, digital currency](https://z.cash/technology/)
 - [Monero: private, decentralized cryptocurrency](https://www.getmonero.org/)
-- [Manta: a Plug and Play Private DeFi Stack](https://www.manta.network/) 
+- [Manta: a Plug and Play Private DeFi Stack](https://www.manta.network/)
 - [SwapCT: Swap Confidential Transactions for Privacy-Preserving Multi-Token Exchanges](https://eprint.iacr.org/2021/631.pdf)
 - [Zef: Low-latency, Scalable, Private Payments](https://zefchain.com/) and their [Slides](https://zefchain.com/papers/zef_slides.pdf)
 - [Anoma: A protocol for private, asset-agnostic digital cash](https://anoma.net/) and their [use of recursive zkps](https://anoma.net/blog/demystifying-recursive-zkp/)
@@ -289,6 +289,7 @@ More specific to ZK:
 - [Filecoin: Zero Knowledge and the Filecoin Network](https://filecoin.io/blog/posts/zero-knowledge-and-the-filecoin-network/)
 - [Nectar Protocol: Web3 infrastructure for healthcare](https://nectar.haus/) and their [documentation](https://github.com/NectarProtocol/documentation)
 - [zk-SQL: ZK-based engine for self-sovereign SQL queries](https://github.com/timoth-y/zk-SQL)
+- [Hyper Oracle: Programmable zkOracle network with zkIndexing and zkAutomation](https://hyperoracle.io/)
 
 #### State Attestation
 
@@ -358,40 +359,40 @@ More specific to ZK:
 
 - [Zama](https://www.zama.ai/)
 
-## Programming Languages 
+## Programming Languages
 
-| Name  | Ecosystem | Type | GitHub | Documentation | 
+| Name  | Ecosystem | Type | GitHub | Documentation |
 | ------------- |:-------------:|:-------------:|:-------------:|:-------------:|
-| Cairo     | StarkNet    | STARK-provable programs for general computation  | https://github.com/starkware-libs/cairo-lang | https://cairo-lang.org/docs/ | 
+| Cairo     | StarkNet    | STARK-provable programs for general computation  | https://github.com/starkware-libs/cairo-lang | https://cairo-lang.org/docs/ |
 | ZoKrates     | Python subset   | R1CS SNARKs Frontend | https://github.com/Zokrates/ZoKrates | https://zokrates.github.io |
 | Leo      | Aleo     | Functional, statically-typed  | https://github.com/AleoHQ/leo | https://developer.aleo.org/developer/language/layout/ |
 | Circom | Typed JS | Circuit compiler   | https://github.com/iden3/circom | https://docs.circom.io |
 | Noir | Aztec | Private contract language  | https://github.com/noir-lang/noir | https://noir-lang.github.io/book/index.html
-| Snarky | Mina | R1CS SNARKs OCaml frontend | https://github.com/o1-labs/snarky | / | 
-| Zinc | zkSync | Turing-complete smart contract | https://github.com/matter-labs/zinc | / | 
-| Juxiv | Anoma | Functional | https://github.com/anoma/juvix | https://juvix.readthedocs.io/en/latest/index.html | 
+| Snarky | Mina | R1CS SNARKs OCaml frontend | https://github.com/o1-labs/snarky | / |
+| Zinc | zkSync | Turing-complete smart contract | https://github.com/matter-labs/zinc | / |
+| Juxiv | Anoma | Functional | https://github.com/anoma/juvix | https://juvix.readthedocs.io/en/latest/index.html |
 | ZKPDL | / | High-level | https://github.com/brownie/cashlib | http://cs.brown.edu/research/brownie/usenix10.pdf |
-| zkVM | / | Stack machine with a string of bytecode representing ZkVM instructions | https://github.com/stellar/slingshot/tree/main/zkvm | https://github.com/stellar/slingshot/files/3164245/zkvm-whitepaper-2019-05-09.pdf | 
+| zkVM | / | Stack machine with a string of bytecode representing ZkVM instructions | https://github.com/stellar/slingshot/tree/main/zkvm | https://github.com/stellar/slingshot/files/3164245/zkvm-whitepaper-2019-05-09.pdf |
 | lurk | Protocol Labs | Lurk is a statically scoped dialect of Lisp, influenced by Scheme and Common Lisp | https://github.com/lurk-lang/lurk-rs | https://github.com/lurk-lang/lurk/blob/master/spec/v0-1.md |
 
-## Programming Libraries 
+## Programming Libraries
 
 | Name  | Host Language | Features | GitHub |
 | ------------- |:-------------:|:-------------:|:-------------:|
 | Libsnark     | C++    | General-purpose proof systems, gadget libraries | https://github.com/scipr-lab/libsnark |
 | Bulletproofs | Rust | Single-party proofs, online multi-party computation, R1CS  | https://github.com/dalek-cryptography/bulletproofs |
 | Bellman     | Rust   | Circuit traits, primitive structures, basic gadget implementations | https://github.com/zkcrypto/bellman |
-| gnark      | Go     | High level API with frontend and backend to design circuits | https://github.com/ConsenSys/gnark | 
-| Arkworks | Rust | R1CS, curves, Groth16, finite field, curves | https://github.com/arkworks-rs | 
+| gnark      | Go     | High level API with frontend and backend to design circuits | https://github.com/ConsenSys/gnark |
+| Arkworks | Rust | R1CS, curves, Groth16, finite field, curves | https://github.com/arkworks-rs |
 | Circomlib | Javascript | Circom templates | https://github.com/iden3/circomlib |
-| libSTARK | C++ | ZK-STARK library | https://github.com/elibensasson/libSTARK | 
+| libSTARK | C++ | ZK-STARK library | https://github.com/elibensasson/libSTARK |
 | plonky2 | rust | SNARK implementation based on techniques from PLONK and FRI | https://github.com/mir-protocol/plonky2 |
 | plonk | rust | Pure Rust implementation of the PLONK ZKProof System | https://github.com/dusk-network/plonk |
 | Spartan | rust | High-speed zkSNARKs without trusted setup | https://github.com/microsoft/Spartan |
-| DIZK | Java | Distributed polynomial interpolation, Lagrange polynomials, multi-scalar multiplication | https://github.com/scipr-lab/dizk | 
-| wasmsnark | Javascript | Generate zkSnark proofs and verify from web browser | https://github.com/iden3/wasmsnark | 
+| DIZK | Java | Distributed polynomial interpolation, Lagrange polynomials, multi-scalar multiplication | https://github.com/scipr-lab/dizk |
+| wasmsnark | Javascript | Generate zkSnark proofs and verify from web browser | https://github.com/iden3/wasmsnark |
 | jellyfish | rust | Rust Implementation of the PLONK ZKP System and Extensions | https://github.com/EspressoSystems/jellyfish |
-| libiop | C++ | IOP-based zkSNARKs | https://github.com/scipr-lab/libiop | 
+| libiop | C++ | IOP-based zkSNARKs | https://github.com/scipr-lab/libiop |
 | Nova | rust | Recursive SNARKs without trusted setup | https://github.com/microsoft/Nova |
 | plonky3 | rust | A toolkit for implementing polynomial IOPs (PIOPs), such as PLONK and STARKs | https://github.com/Plonky3/Plonky3 |
 
