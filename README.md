@@ -56,6 +56,7 @@ Table of Contents
   - [What are zk-SNARKs?](https://z.cash/technology/zksnarks/)
   - [ZKPs for Engineers: Introduction](https://blog.zkga.me/intro-to-zksnarks)
   - [Privacy in Cryptocurrencies: An Overview](https://medium.com/@yi.sun/privacy-in-cryptocurrencies-d4b268157f6c)
+  - [Zero Knowledge virtual machine step by step](https://blog.adaptframework.solutions/2023/06/30/zero-knowledge-virtual-machine-step-by-step)
 - Vitalik's blogs for STARKs
   - [Part 1: Proofs with Polynomials](https://vitalik.ca/general/2017/11/09/starks_part_1.html)
   - [Part 2: Thank Goodness It's FRI-day](https://vitalik.ca/general/2017/11/22/starks_part_2.html)
