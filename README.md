@@ -141,6 +141,7 @@ More specific to ZK:
 #### Benchmarking
 
 - [ZK System Benchmarking: compare the performance of different zero-knowledge proof libraries](https://github.com/delendum-xyz/zk-benchmarking)
+- [ZK-Bench: Benchmarks for popular ZK frameworks, continuously updated](https://zkbench.dev)
 
 ### Zk-Layer1
 
