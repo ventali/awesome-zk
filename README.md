@@ -19,7 +19,7 @@
 Join the discussion [group chat](https://t.me/+9WAAmCpPRadjOTNh) with other developers and researchers
 
 ### Fellowship Program
-If you are interested in working together with top experts to explore practical use cases of new research ideas, consider applying to our [fellowship program](https://delendum.xyz/fellow). The deadline for 2023 fellowship 2 application is March 15.
+If you are interested in working together with top experts to explore practical use cases of new research ideas, consider applying to our [fellowship program](https://delendum.xyz/fellow). 
 
 Table of Contents
 =================
