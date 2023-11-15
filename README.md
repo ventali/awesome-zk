@@ -249,6 +249,7 @@ More specific to ZK:
 - [Zkopru: Affordable Ethereum Privacy Wallet](https://zkopru.network/)
 - [Bunkyr: zero‑knowledge security without seed phrases or backup codes](https://bunkyr.com/)
 - [Wasabi Wallet: non-custodial, privacy-focused Bitcoin wallet](https://wasabiwallet.io)
+- [Particle Network: Zero Knowledge Wallet-as-a-Service, confidential social logins and transactions](https://blog.particle.network/zkwaas-private-social-logins-and-transactions-dapps)
 
 #### Trustless Bridge
 
