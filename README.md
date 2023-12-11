@@ -241,6 +241,7 @@ More specific to ZK:
 - [Worldcoin: Privacy-Preserving Proof-of-Personhood Protocol](https://worldcoin.org/)
 - [ZeroBiometrics: Privacy Preserving and Data Protection Face Authentication](https://zerobiometrics.com/)
 - [zCloak: Privacy-first DID and verifiable computation infrastructure](https://zcloak.network/#/)
+- [Everest ID: Your global everything account](https://everest.org/)
 
 #### Wallet
 
