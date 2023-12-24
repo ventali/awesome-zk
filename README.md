@@ -188,6 +188,7 @@ More specific to ZK:
 - [=nil;'s zkLLVM: LLVM-based zero-knowledge proof systems compiler](https://github.com/nilfoundation/zkllvm)
 - [CirC: Compiler Infrastructure for Cryptosystems and Verification](https://github.com/circify/circ)
 - [Trustless Labs: ZK-friendly Multi-rollup Architecture for Web3 Applications](https://trustless.org/)
+- [SuccinctX: Infrastructure for zk-app development](https://github.com/succinctlabs/succinctx)
 
 ### Framework / SDK
 
@@ -225,7 +226,8 @@ More specific to ZK:
 - [Mixcoin: Anonymity for Bitcoin with accountable mixes](https://eprint.iacr.org/2014/077.pdf)
 - [CashShuffle: background coin shuffling for Bitcoin Cash](https://cashshuffle.com)
 - [MicroMix: A noncustodial Ethereum mixer](https://github.com/privacy-scaling-explorations/mixer)
-- [Juicer Protocol: trusted and secure ](https://github.com/wasmjuicer/juicer)
+- [Juicer Protocol: trusted and secure](https://github.com/wasmjuicer/juicer)
+- [Privacy pools: Opt-in or Opt-out Anonymity Sets](https://github.com/ameensol/privacy-pools)
 
 #### Identity
 
@@ -242,6 +244,7 @@ More specific to ZK:
 - [ZeroBiometrics: Privacy Preserving and Data Protection Face Authentication](https://zerobiometrics.com/)
 - [zCloak: Privacy-first DID and verifiable computation infrastructure](https://zcloak.network/#/)
 - [Everest ID: Your global everything account](https://everest.org/)
+- [Proof of Passport: Privacy Preserving Passport Proving](https://github.com/zk-passport/proof-of-passport)
 
 #### Wallet
 
@@ -411,6 +414,7 @@ More specific to ZK:
 ### ECDSA
 
 - [zk-ECDSA: zkSNARKs for ECDSA](https://0xparc.org/blog/zk-ecdsa-1)
+- [Spartan ECDSA: Fast in-browser ECDSA verification](https://github.com/personaelabs/spartan-ecdsa)
 
 ### Circuit Building Library
 
