@@ -214,6 +214,7 @@ More specific to ZK:
 - [Zef: Low-latency, Scalable, Private Payments](https://zefchain.com/) and their [Slides](https://zefchain.com/papers/zef_slides.pdf)
 - [Anoma: A protocol for private, asset-agnostic digital cash](https://anoma.net/) and their [use of recursive zkps](https://anoma.net/blog/demystifying-recursive-zkp/)
 - [ZETH: Integrating Zerocash on Ethereum](https://github.com/clearmatics/zeth)
+- [Intmax2: A ZK-rollup with Minimal Onchain Data and Computation Costs](https://eprint.iacr.org/2023/1082.pdf)
 
 #### Mixer
 
@@ -419,6 +420,7 @@ More specific to ZK:
 - [ZoKrates: a toolbox for zkSNARKs on Ethereum](https://zokrates.github.io/)
 - [Snarkjs: zkSNARK implementation in JavaScript & WASM](https://github.com/iden3/snarkjs)
 - [RCC: Rust Circuit Compiler](https://github.com/delendum-xyz/rcc)
+- [Chiquito: DSL for Halo2 circuits](https://github.com/privacy-scaling-explorations/chiquito)
 
 ### Formal Verification
 
