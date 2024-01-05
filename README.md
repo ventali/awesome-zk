@@ -52,7 +52,7 @@ Table of Contents
 - [ZKP Overview: History, Proving Systems, Circuits, Compilers](https://zkp.science)
 - Introduction
   - [Understanding ZKPs Through Illustrated Examples](https://blog.goodaudience.com/understanding-zero-knowledge-proofs-through-simple-examples-df673f796d99)
-  - [Understanding zero-knowledge proofs without cryptograhy background](https://medium.com/@grehovodovbo/guide-to-understanding-guides-on-zero-knowledge-proofs-9ec4e8c4dff2)
+  - [Understanding zero-knowledge proofs without cryptography background](https://medium.com/@grehovodovbo/guide-to-understanding-guides-on-zero-knowledge-proofs-9ec4e8c4dff2)
   - [A Non-Mathematical Introduction to Zero Knowledge Proof](https://mirror.xyz/krinza.eth/5_Cr91cBK3XdkeHPQ9yjc7z_4NoTNxyqBiM4Jz4d5VE)
   - [Zero Knowledge Proofs: An Illustrated Primer](https://blog.cryptographyengineering.com/2014/11/27/zero-knowledge-proofs-illustrated-primer/)
   - [What are zk-SNARKs?](https://z.cash/technology/zksnarks/)
@@ -311,9 +311,11 @@ More specific to ZK:
 
 #### Machine Learning
 
+- [Checks and balances: Machine Learning and zero-knowledge proofs](https://a16zcrypto.com/posts/article/checks-and-balances-machine-learning-and-zero-knowledge-proofs/)
 - [zk-MNIST: web frontend app + Jupyter notebook with ML model generation](https://github.com/0xZKML/zk-mnist) and their [demo](https://zkmnist.netlify.app/)
 - [zkCNN: GKR-based zero-knowledge proof protocol for CNN model inference](https://github.com/TAMUCrypto/zkCNN) and their [paper](https://eprint.iacr.org/2021/673.pdf)
 - [Modulus Labs: bringing powerful ML models on-chain](https://www.moduluslabs.xyz/) and their [blogs](https://medium.com/@ModulusLabs)
+- [ZKML: Bridging AI/ML and Web3 with Zero-Knowledge Proofs](https://hackmd.io/@cathie/zkml)
 - [zkonduit: inference for deep learning models and other computational graphs in a zk-snark](https://github.com/zkonduit/ezkl)
 - [ZK Machine Learning: truly private machine learning, with zk-SNARKs and blockchain](https://github.com/zk-ml/demo)
 
