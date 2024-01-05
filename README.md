@@ -52,6 +52,8 @@ Table of Contents
 - [ZKP Overview: History, Proving Systems, Circuits, Compilers](https://zkp.science)
 - Introduction
   - [Understanding ZKPs Through Illustrated Examples](https://blog.goodaudience.com/understanding-zero-knowledge-proofs-through-simple-examples-df673f796d99)
+  - [Understanding zero-knowledge proofs without cryptograhy background](https://medium.com/@grehovodovbo/guide-to-understanding-guides-on-zero-knowledge-proofs-9ec4e8c4dff2)
+  - [A Non-Mathematical Introduction to Zero Knowledge Proof](https://mirror.xyz/krinza.eth/5_Cr91cBK3XdkeHPQ9yjc7z_4NoTNxyqBiM4Jz4d5VE)
   - [Zero Knowledge Proofs: An Illustrated Primer](https://blog.cryptographyengineering.com/2014/11/27/zero-knowledge-proofs-illustrated-primer/)
   - [What are zk-SNARKs?](https://z.cash/technology/zksnarks/)
   - [ZKPs for Engineers: Introduction](https://blog.zkga.me/intro-to-zksnarks)
@@ -70,7 +72,7 @@ Table of Contents
   - [Part VI: Speeding Things Up](https://aszepieniec.github.io/stark-anatomy/faster)
   - [Brainfuck STARK Tutorial](https://neptune.cash/learn/brainfuck-tutorial/)
 - [zkSNARKs in a nutshell](https://blog.ethereum.org/2016/12/05/zksnarks-in-a-nutshell/)
-- [The Rareskills Book of Zero Knowledge](https://www.rareskills.io/zk-book)
+- [The RareSkills Book of Zero Knowledge](https://www.rareskills.io/zk-book)
 - [The MoonMath Manual to zk-SNARKs](https://leastauthority.com/community-matters/moonmath-manual/)
 - [Comments on paper: zkSNARKs in a Nutshell by Aaron](https://github.com/ventali/awesome-zk/tree/main/zk-intro)
 - [An approximate introduction to how zk-SNARKs are possible](https://vitalik.ca/general/2021/01/26/snarks.html)
@@ -108,13 +110,13 @@ Table of Contents
 - [Computational Introduction to Number Theory and Algebra](https://shoup.net/ntb/ntb-v2.pdf)
 - [A Graduate Course in Applied Cryptography](https://crypto.stanford.edu/~dabo/cryptobook/BonehShoup_0_4.pdf)
 - [Lattice Cryptography](https://eprint.iacr.org/2015/939.pdf)
-- [Succint Proofs and Linear Algebra](https://eprint.iacr.org/2023/1478.pdf)
 - [The Design of Rijndael](https://cs.ru.nl/~joan/papers/JDA_VRI_Rijndael_2002.pdf)
 
 More specific to ZK:
 
 - [Elliptic Curves Number Theory And Cryptography](https://people.cs.nctu.edu.tw/~rjchen/ECC2012S/Elliptic%20Curves%20Number%20Theory%20And%20Cryptography%202n.pdf)
 - [Pairings for Beginners](https://static1.squarespace.com/static/5fdbb09f31d71c1227082339/t/5ff394720493bd28278889c6/1609798774687/PairingsForBeginners.pdf)
+- [Succint Proofs and Linear Algebra](https://eprint.iacr.org/2023/1478.pdf)
 - [Proofs, Arguments, and Zero-Knowledge](https://people.cs.georgetown.edu/jthaler/ProofsArgsAndZK.pdf)
 
 ## Projects
