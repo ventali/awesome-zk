@@ -60,9 +60,9 @@ Table of Contents
   - [Privacy in Cryptocurrencies: An Overview](https://medium.com/@yi.sun/privacy-in-cryptocurrencies-d4b268157f6c)
   - [Zero Knowledge virtual machine step by step](https://blog.adaptframework.solutions/2023/06/30/zero-knowledge-virtual-machine-step-by-step)
 - Vitalik's blogs for STARKs
-  - [Part 1: Proofs with Polynomials](https://vitalik.ca/general/2017/11/09/starks_part_1.html)
-  - [Part 2: Thank Goodness It's FRI-day](https://vitalik.ca/general/2017/11/22/starks_part_2.html)
-  - [Part 3: Into the Weeds](https://vitalik.ca/general/2018/07/21/starks_part_3.html)
+  - [Part 1: Proofs with Polynomials](https://vitalik.eth.limo/general/2017/11/09/starks_part_1.html)
+  - [Part 2: Thank Goodness It's FRI-day](https://vitalik.eth.limo/general/2017/11/22/starks_part_2.html)
+  - [Part 3: Into the Weeds](https://vitalik.eth.limo/general/2018/07/21/starks_part_3.html)
 - Explaining STARKs
   - [Part I: STARK Overview](https://aszepieniec.github.io/stark-anatomy/overview)
   - [Part II: Basic Tools](https://aszepieniec.github.io/stark-anatomy/basic-tools)
@@ -75,7 +75,7 @@ Table of Contents
 - [The RareSkills Book of Zero Knowledge](https://www.rareskills.io/zk-book)
 - [The MoonMath Manual to zk-SNARKs](https://leastauthority.com/community-matters/moonmath-manual/)
 - [Comments on paper: zkSNARKs in a Nutshell by Aaron](https://github.com/ventali/awesome-zk/tree/main/zk-intro)
-- [An approximate introduction to how zk-SNARKs are possible](https://vitalik.ca/general/2021/01/26/snarks.html)
+- [An approximate introduction to how zk-SNARKs are possible](https://vitalik.eth.limo/general/2021/01/26/snarks.html)
 - Explaining SNARKs
   - [Part I: Homomorphic Hidings](https://electriccoin.co/blog/snark-explain/)
   - [Part II: Blind Evaluation of Polynomials](https://electriccoin.co/blog/snark-explain2/)
@@ -94,7 +94,7 @@ Table of Contents
 - Circuit optimization
   - [Circuit Optimisation Handout](https://docs.google.com/document/d/1aZ1GUAJOBFuqD4GOo9HqAH8w4xJo7HM4Bjte5-wkdnU/edit)
 - Introduction to Layer 2
-  - [An Incomplete Guide to Rollups](https://vitalik.ca/general/2021/01/05/rollup.html)
+  - [An Incomplete Guide to Rollups](https://vitalik.eth.limo/general/2021/01/05/rollup.html)
   - [Why rollups + data shards are the only sustainable solution for high scalability](https://polynya.medium.com/why-rollups-data-shards-are-the-only-sustainable-solution-for-high-scalability-c9aabd6fbb48)
   - [Introducing zkSync: the missing link to mass adoption of Ethereum](https://medium.com/matter-labs/introducing-zk-sync-the-missing-link-to-mass-adoption-of-ethereum-14c9cea83f58)
   - [Validity Proofs vs. Fraud Proofs](https://starkware.medium.com/validity-proofs-vs-fraud-proofs-4ef8b4d3d87a)
@@ -472,7 +472,7 @@ More specific to ZK:
 - [A Socratic Dialogue to Come Up With a Secure ZK Message Board Architecture](https://mirror.xyz/0x3FD6f213ae1B8a7B6bd8f14BE9BF316a5e5A5d28/VTGpmEYLKIslUPf66VQzHUneB0R7EhMpJJ_mGrMvTwY)
 - [The Strongest Crypto Gaming Thesis](https://gubsheep.substack.com/p/the-strongest-crypto-gaming-thesis?s=r)
 - [Hardware Acceleration for Zero Knowledge Proofs](https://www.paradigm.xyz/2022/04/zk-hardware)
-- [How do trusted setups work?](https://vitalik.ca/general/2022/03/14/trustedsetup.html)
+- [How do trusted setups work?](https://vitalik.eth.limo/general/2022/03/14/trustedsetup.html)
 - [10 zkApps Use Cases on Mina Protocol](https://blog.o1labs.org/10-snapps-use-cases-on-mina-83e646010e52)
 - [Programming Languages in ZKP](https://medium.com/@delendum/thoughts-of-programming-languages-in-zkp-c906e96f056e)
 
@@ -492,7 +492,7 @@ More specific to ZK:
 
 ### PLONK
 
-- [Understanding PLONK](https://vitalik.ca/general/2019/09/22/plonk.html)
+- [Understanding PLONK](https://vitalik.eth.limo/general/2019/09/22/plonk.html)
 - [Permutations over Lagrange-bases for Oecumenical Noninteractive arguments of Knowledge](https://eprint.iacr.org/2019/953.pdf)
 
 ### Groth16
@@ -501,7 +501,7 @@ More specific to ZK:
 
 ### Halo
 
-- [Vitalik Buterin: Halo and more: exploring incremental verification and SNARKs without pairings](https://vitalik.ca/general/2021/11/05/halo.html) - Proof size reduction
+- [Vitalik Buterin: Halo and more: exploring incremental verification and SNARKs without pairings](https://vitalik.eth.limo/general/2021/11/05/halo.html) - Proof size reduction
 - [Recursive Proof Composition without a Trusted Setup](https://eprint.iacr.org/2019/1021.pdf)
 
 ### Probabilistic Proof Systems
