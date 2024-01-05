@@ -70,6 +70,7 @@ Table of Contents
   - [Part VI: Speeding Things Up](https://aszepieniec.github.io/stark-anatomy/faster)
   - [Brainfuck STARK Tutorial](https://neptune.cash/learn/brainfuck-tutorial/)
 - [zkSNARKs in a nutshell](https://blog.ethereum.org/2016/12/05/zksnarks-in-a-nutshell/)
+- [The Rareskills Book of Zero Knowledge](https://www.rareskills.io/zk-book)
 - [The MoonMath Manual to zk-SNARKs](https://leastauthority.com/community-matters/moonmath-manual/)
 - [Comments on paper: zkSNARKs in a Nutshell by Aaron](https://github.com/ventali/awesome-zk/tree/main/zk-intro)
 - [An approximate introduction to how zk-SNARKs are possible](https://vitalik.ca/general/2021/01/26/snarks.html)
@@ -107,6 +108,7 @@ Table of Contents
 - [Computational Introduction to Number Theory and Algebra](https://shoup.net/ntb/ntb-v2.pdf)
 - [A Graduate Course in Applied Cryptography](https://crypto.stanford.edu/~dabo/cryptobook/BonehShoup_0_4.pdf)
 - [Lattice Cryptography](https://eprint.iacr.org/2015/939.pdf)
+- [Succint Proofs and Linear Algebra](https://eprint.iacr.org/2023/1478.pdf)
 - [The Design of Rijndael](https://cs.ru.nl/~joan/papers/JDA_VRI_Rijndael_2002.pdf)
 
 More specific to ZK:
@@ -443,6 +445,7 @@ More specific to ZK:
 
 - [ABDK](https://www.abdk.consulting/)
 - [Least Authority](https://leastauthority.com/)
+- [ZK Security](https://www.zksecurity.xyz/)
 - [Hashcloak](https://hashcloak.com/)
 - [Taurus](https://blog.taurushq.com/zero-knowledge-security/)
 - [Common Prefix](https://www.commonprefix.com/)
