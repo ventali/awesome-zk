@@ -52,15 +52,17 @@ Table of Contents
 - [ZKP Overview: History, Proving Systems, Circuits, Compilers](https://zkp.science)
 - Introduction
   - [Understanding ZKPs Through Illustrated Examples](https://blog.goodaudience.com/understanding-zero-knowledge-proofs-through-simple-examples-df673f796d99)
+  - [Understanding zero-knowledge proofs without cryptography background](https://medium.com/@grehovodovbo/guide-to-understanding-guides-on-zero-knowledge-proofs-9ec4e8c4dff2)
+  - [A Non-Mathematical Introduction to Zero Knowledge Proof](https://mirror.xyz/krinza.eth/5_Cr91cBK3XdkeHPQ9yjc7z_4NoTNxyqBiM4Jz4d5VE)
   - [Zero Knowledge Proofs: An Illustrated Primer](https://blog.cryptographyengineering.com/2014/11/27/zero-knowledge-proofs-illustrated-primer/)
   - [What are zk-SNARKs?](https://z.cash/technology/zksnarks/)
   - [ZKPs for Engineers: Introduction](https://blog.zkga.me/intro-to-zksnarks)
   - [Privacy in Cryptocurrencies: An Overview](https://medium.com/@yi.sun/privacy-in-cryptocurrencies-d4b268157f6c)
   - [Zero Knowledge virtual machine step by step](https://blog.adaptframework.solutions/2023/06/30/zero-knowledge-virtual-machine-step-by-step)
 - Vitalik's blogs for STARKs
-  - [Part 1: Proofs with Polynomials](https://vitalik.ca/general/2017/11/09/starks_part_1.html)
-  - [Part 2: Thank Goodness It's FRI-day](https://vitalik.ca/general/2017/11/22/starks_part_2.html)
-  - [Part 3: Into the Weeds](https://vitalik.ca/general/2018/07/21/starks_part_3.html)
+  - [Part 1: Proofs with Polynomials](https://vitalik.eth.limo/general/2017/11/09/starks_part_1.html)
+  - [Part 2: Thank Goodness It's FRI-day](https://vitalik.eth.limo/general/2017/11/22/starks_part_2.html)
+  - [Part 3: Into the Weeds](https://vitalik.eth.limo/general/2018/07/21/starks_part_3.html)
 - Explaining STARKs
   - [Part I: STARK Overview](https://aszepieniec.github.io/stark-anatomy/overview)
   - [Part II: Basic Tools](https://aszepieniec.github.io/stark-anatomy/basic-tools)
@@ -70,9 +72,10 @@ Table of Contents
   - [Part VI: Speeding Things Up](https://aszepieniec.github.io/stark-anatomy/faster)
   - [Brainfuck STARK Tutorial](https://neptune.cash/learn/brainfuck-tutorial/)
 - [zkSNARKs in a nutshell](https://blog.ethereum.org/2016/12/05/zksnarks-in-a-nutshell/)
+- [The RareSkills Book of Zero Knowledge](https://www.rareskills.io/zk-book)
 - [The MoonMath Manual to zk-SNARKs](https://leastauthority.com/community-matters/moonmath-manual/)
 - [Comments on paper: zkSNARKs in a Nutshell by Aaron](https://github.com/ventali/awesome-zk/tree/main/zk-intro)
-- [An approximate introduction to how zk-SNARKs are possible](https://vitalik.ca/general/2021/01/26/snarks.html)
+- [An approximate introduction to how zk-SNARKs are possible](https://vitalik.eth.limo/general/2021/01/26/snarks.html)
 - Explaining SNARKs
   - [Part I: Homomorphic Hidings](https://electriccoin.co/blog/snark-explain/)
   - [Part II: Blind Evaluation of Polynomials](https://electriccoin.co/blog/snark-explain2/)
@@ -91,7 +94,7 @@ Table of Contents
 - Circuit optimization
   - [Circuit Optimisation Handout](https://docs.google.com/document/d/1aZ1GUAJOBFuqD4GOo9HqAH8w4xJo7HM4Bjte5-wkdnU/edit)
 - Introduction to Layer 2
-  - [An Incomplete Guide to Rollups](https://vitalik.ca/general/2021/01/05/rollup.html)
+  - [An Incomplete Guide to Rollups](https://vitalik.eth.limo/general/2021/01/05/rollup.html)
   - [Why rollups + data shards are the only sustainable solution for high scalability](https://polynya.medium.com/why-rollups-data-shards-are-the-only-sustainable-solution-for-high-scalability-c9aabd6fbb48)
   - [Introducing zkSync: the missing link to mass adoption of Ethereum](https://medium.com/matter-labs/introducing-zk-sync-the-missing-link-to-mass-adoption-of-ethereum-14c9cea83f58)
   - [Validity Proofs vs. Fraud Proofs](https://starkware.medium.com/validity-proofs-vs-fraud-proofs-4ef8b4d3d87a)
@@ -113,6 +116,7 @@ More specific to ZK:
 
 - [Elliptic Curves Number Theory And Cryptography](https://people.cs.nctu.edu.tw/~rjchen/ECC2012S/Elliptic%20Curves%20Number%20Theory%20And%20Cryptography%202n.pdf)
 - [Pairings for Beginners](https://static1.squarespace.com/static/5fdbb09f31d71c1227082339/t/5ff394720493bd28278889c6/1609798774687/PairingsForBeginners.pdf)
+- [Succint Proofs and Linear Algebra](https://eprint.iacr.org/2023/1478.pdf)
 - [Proofs, Arguments, and Zero-Knowledge](https://people.cs.georgetown.edu/jthaler/ProofsArgsAndZK.pdf)
 
 ## Projects
@@ -307,9 +311,11 @@ More specific to ZK:
 
 #### Machine Learning
 
+- [Checks and balances: Machine Learning and zero-knowledge proofs](https://a16zcrypto.com/posts/article/checks-and-balances-machine-learning-and-zero-knowledge-proofs/)
 - [zk-MNIST: web frontend app + Jupyter notebook with ML model generation](https://github.com/0xZKML/zk-mnist) and their [demo](https://zkmnist.netlify.app/)
 - [zkCNN: GKR-based zero-knowledge proof protocol for CNN model inference](https://github.com/TAMUCrypto/zkCNN) and their [paper](https://eprint.iacr.org/2021/673.pdf)
 - [Modulus Labs: bringing powerful ML models on-chain](https://www.moduluslabs.xyz/) and their [blogs](https://medium.com/@ModulusLabs)
+- [ZKML: Bridging AI/ML and Web3 with Zero-Knowledge Proofs](https://hackmd.io/@cathie/zkml)
 - [zkonduit: inference for deep learning models and other computational graphs in a zk-snark](https://github.com/zkonduit/ezkl)
 - [ZK Machine Learning: truly private machine learning, with zk-SNARKs and blockchain](https://github.com/zk-ml/demo)
 
@@ -443,6 +449,7 @@ More specific to ZK:
 
 - [ABDK](https://www.abdk.consulting/)
 - [Least Authority](https://leastauthority.com/)
+- [ZK Security](https://www.zksecurity.xyz/)
 - [Hashcloak](https://hashcloak.com/)
 - [Taurus](https://blog.taurushq.com/zero-knowledge-security/)
 - [Common Prefix](https://www.commonprefix.com/)
@@ -467,7 +474,7 @@ More specific to ZK:
 - [A Socratic Dialogue to Come Up With a Secure ZK Message Board Architecture](https://mirror.xyz/0x3FD6f213ae1B8a7B6bd8f14BE9BF316a5e5A5d28/VTGpmEYLKIslUPf66VQzHUneB0R7EhMpJJ_mGrMvTwY)
 - [The Strongest Crypto Gaming Thesis](https://gubsheep.substack.com/p/the-strongest-crypto-gaming-thesis?s=r)
 - [Hardware Acceleration for Zero Knowledge Proofs](https://www.paradigm.xyz/2022/04/zk-hardware)
-- [How do trusted setups work?](https://vitalik.ca/general/2022/03/14/trustedsetup.html)
+- [How do trusted setups work?](https://vitalik.eth.limo/general/2022/03/14/trustedsetup.html)
 - [10 zkApps Use Cases on Mina Protocol](https://blog.o1labs.org/10-snapps-use-cases-on-mina-83e646010e52)
 - [Programming Languages in ZKP](https://medium.com/@delendum/thoughts-of-programming-languages-in-zkp-c906e96f056e)
 
@@ -487,7 +494,7 @@ More specific to ZK:
 
 ### PLONK
 
-- [Understanding PLONK](https://vitalik.ca/general/2019/09/22/plonk.html)
+- [Understanding PLONK](https://vitalik.eth.limo/general/2019/09/22/plonk.html)
 - [Permutations over Lagrange-bases for Oecumenical Noninteractive arguments of Knowledge](https://eprint.iacr.org/2019/953.pdf)
 
 ### Groth16
@@ -496,7 +503,7 @@ More specific to ZK:
 
 ### Halo
 
-- [Vitalik Buterin: Halo and more: exploring incremental verification and SNARKs without pairings](https://vitalik.ca/general/2021/11/05/halo.html) - Proof size reduction
+- [Vitalik Buterin: Halo and more: exploring incremental verification and SNARKs without pairings](https://vitalik.eth.limo/general/2021/11/05/halo.html) - Proof size reduction
 - [Recursive Proof Composition without a Trusted Setup](https://eprint.iacr.org/2019/1021.pdf)
 
 ### Probabilistic Proof Systems
