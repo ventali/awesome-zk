@@ -390,6 +390,10 @@ More specific to ZK:
 | zkVM | / | Stack machine with a string of bytecode representing ZkVM instructions | https://github.com/stellar/slingshot/tree/main/zkvm | https://github.com/stellar/slingshot/files/3164245/zkvm-whitepaper-2019-05-09.pdf |
 | lurk | Protocol Labs | Lurk is a statically scoped dialect of Lisp, influenced by Scheme and Common Lisp | https://github.com/lurk-lang/lurk-rs | https://github.com/lurk-lang/lurk/blob/master/spec/v0-1.md |
 
+### Language examples
+
+- [zk-languages: A repo with basic example of most ZK languages](https://github.com/microbecode/zk-languages)
+
 ## Programming Libraries
 
 | Name  | Host Language | Features | GitHub |
