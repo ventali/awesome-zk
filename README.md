@@ -485,7 +485,6 @@ More specific to ZK:
 ## Communities
 
 - [Harmony zkDAO](https://harmonyone.notion.site/zkDAO-Succinct-Private-Fair-2f14d3d954264bd38091b418fd6b9bd5)
-- [Zero Knowledge University](https://zku.one/)
 - [ZK Hash Bounties](https://www.zkhashbounties.info/)
 - [Zero Knowledge Forum](https://zeroknowledge.fm/)
 - [0xPARC: Program for Applied Research in Cryptography](https://0xparc.org/blog/program-for-applied-research)
