@@ -414,6 +414,7 @@ More specific to ZK:
 | libiop | C++ | IOP-based zkSNARKs | https://github.com/scipr-lab/libiop |
 | Nova | rust | Recursive SNARKs without trusted setup | https://github.com/microsoft/Nova |
 | plonky3 | rust | A toolkit for implementing polynomial IOPs (PIOPs), such as PLONK and STARKs | https://github.com/Plonky3/Plonky3 |
+| ronkathon | rust | Educational, mathematically transparent, and well documented cryptography library written in rust. | https://github.com/pluto/ronkathon | 
 
 ## Tools
 
