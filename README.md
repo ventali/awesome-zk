@@ -318,6 +318,7 @@ More specific to ZK:
 - [ZKML: Bridging AI/ML and Web3 with Zero-Knowledge Proofs](https://hackmd.io/@cathie/zkml)
 - [zkonduit: inference for deep learning models and other computational graphs in a zk-snark](https://github.com/zkonduit/ezkl)
 - [ZK Machine Learning: truly private machine learning, with zk-SNARKs and blockchain](https://github.com/zk-ml/demo)
+- [ZKLoRA: Efficient Zero-Knowledge Proofs for LoRA Verification](https://github.com/bagel-org/ZKLoRA)
 
 #### DeFi / DEX
 
